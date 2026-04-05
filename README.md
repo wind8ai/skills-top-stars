@@ -259,6 +259,8 @@
 | axtonliu/axton-obsidian-visual-skills | 2.1k ⭐ | Obsidian 可视化 skills，生成 Canvas/Excalidraw/Mermaid 图表 |
 | microsoft/skills | 2k ⭐ | SDK 用的 Skills、MCP servers、Custom Agents |
 | skill-scanner by cisco-ai-defense | 1.7k ⭐ | Agent Skills 安全扫描器 |
+| imxv/Pretty-mermaid-skills | 613 ⭐ | Mermaid 图表渲染能力，支持 SVG 和 ASCII 输出 |
+| ZhangHanDong/harness-engineering-from-cc-to-ai-coding | 534 ⭐ | 从 Claude Code 源码到 AI Coding 的 Harness Engineering 解析 |
 
 ---
 
@@ -291,4 +293,4 @@
 ### 不收录原则
 - 与 AI/Coding Agent 无关的工具库
 - 单纯 list 而无实质 skills 内容的 repo
-- Star < 1000 的项目（除非有特殊代表性）
+- Star < 500 的项目（除非有特殊代表性）
