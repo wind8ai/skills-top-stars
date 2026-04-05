@@ -8,30 +8,30 @@
 
 ## Contents
 
-01. everything-claude-code — 138k ⭐  
-02. superpowers — 135k ⭐  
-03. learn-claude-code by shareAI-lab — 48k ⭐  
-04. oh-my-openagent — 48k ⭐  
-05. skills by anthropics — 111k ⭐  
-06. awesome-claude-skills by ComposioHQ — 51k ⭐  
-07. awesome-openclaw-skills — 44k ⭐  
-08. awesome-claude-code — 36k ⭐  
-09. agent-skills by vercel-labs — 24k ⭐  
-10. obsidian-skills — 20k ⭐  
-11. claude-plugins-official — 16k ⭐  
-12. skills by openai — 16k ⭐  
-13. Agent-Skills-for-Context-Engineering — 15k ⭐  
-14. skills by vercel-labs — 13k ⭐  
-15. skills by mattpocock — 12k ⭐  
-16. claude-skills by alirezarezvani — 9.4k ⭐  
-17. skills by MiniMax-AI — 9.2k ⭐  
-18. andrej-karpathy-skills — 7.6k ⭐  
-19. skills by slavingia — 6.6k ⭐  
-20. skills by trailofbits — 4.3k ⭐  
-21. skills by openclaw — 3.8k ⭐  
-22. Skills by Dimillian — 3.2k ⭐  
-23. gemini-skills — 3.1k ⭐  
-24. chrome-cdp-skill — 2.8k ⭐  
+01. [everything-claude-code — 138k ⭐](#1-everything-claude-code-138k-)  
+02. [superpowers — 135k ⭐](#2-superpowers-135k-)  
+03. [learn-claude-code by shareAI-lab — 48k ⭐](#3-learn-claude-code-48k-)  
+04. [oh-my-openagent — 48k ⭐](#4-oh-my-openagent-48k-)  
+05. [skills by anthropics — 111k ⭐](#5-skills-by-anthropics-111k-)  
+06. [awesome-claude-skills by ComposioHQ — 51k ⭐](#6-awesome-claude-skills-by-composiohq-51k-)  
+07. [awesome-openclaw-skills — 44k ⭐](#7-awesome-openclaw-skills-44k-)  
+08. [awesome-claude-code — 36k ⭐](#8-awesome-claude-code-36k-)  
+09. [agent-skills by vercel-labs — 24k ⭐](#9-agent-skills-by-vercel-labs-24k-)  
+10. [obsidian-skills — 20k ⭐](#10-obsidian-skills-20k-)  
+11. [claude-plugins-official — 16k ⭐](#11-claude-plugins-official-16k-)  
+12. [skills by openai — 16k ⭐](#12-skills-by-openai-16k-)  
+13. [Agent-Skills-for-Context-Engineering — 15k ⭐](#13-agent-skills-for-context-engineering-15k-)  
+14. [skills by vercel-labs — 13k ⭐](#14-skills-by-vercel-labs-13k-)  
+15. [skills by mattpocock — 12k ⭐](#15-skills-by-mattpocock-12k-)  
+16. [claude-skills by alirezarezvani — 9.4k ⭐](#16-claude-skills-by-alirezarezvani-94k-)  
+17. [skills by MiniMax-AI — 9.2k ⭐](#17-skills-by-minimax-ai-92k-)  
+18. [andrej-karpathy-skills — 7.6k ⭐](#18-andrej-karpathy-skills-76k-)  
+19. [skills by slavingia — 6.6k ⭐](#19-skills-by-slavingia-66k-)  
+20. [skills by trailofbits — 4.3k ⭐](#20-skills-by-trailofbits-43k-)  
+21. [skills by openclaw — 3.8k ⭐](#21-skills-by-openclaw-38k-)  
+22. [Skills by Dimillian — 3.2k ⭐](#22-skills-by-dimillian-32k-)  
+23. [gemini-skills — 3.1k ⭐](#23-gemini-skills-31k-)  
+24. [chrome-cdp-skill — 2.8k ⭐](#24-chrome-cdp-skill-28k-)  
 
 ---
 
