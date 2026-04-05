@@ -8,34 +8,34 @@
 
 ## Contents
 
-01. everything-claude-code — 137k ⭐  
+01. everything-claude-code — 138k ⭐  
 02. superpowers — 135k ⭐  
-03. skills by anthropics — 110k ⭐  
-04. awesome-claude-skills by ComposioHQ — 51k ⭐  
-05. oh-my-openagent — 48k ⭐  
-06. awesome-openclaw-skills — 44k ⭐  
-07. awesome-claude-code — 36k ⭐  
-08. agent-skills by vercel-labs — 24k ⭐  
-09. obsidian-skills — 19k ⭐  
-10. claude-plugins-official — 16k ⭐  
-11. skills by openai — 16k ⭐  
-12. Agent-Skills-for-Context-Engineering — 15k ⭐  
-13. skills by vercel-labs — 13k ⭐  
-14. skills by mattpocock — 12k ⭐  
-15. claude-skills by alirezarezvani — 9.3k ⭐  
-16. skills by MiniMax-AI — 9.1k ⭐  
-17. andrej-karpathy-skills — 7.6k ⭐  
-18. skills by slavingia — 6.4k ⭐  
-19. skills by trailofbits — 4.3k ⭐  
-20. skills by openclaw — 3.8k ⭐  
-21. Skills by Dimillian — 3.1k ⭐  
-22. gemini-skills — 3.1k ⭐  
-23. skills by microsoft — 2k ⭐  
-24. skill-scanner — 1.7k ⭐  
+03. learn-claude-code by shareAI-lab — 48k ⭐  
+04. oh-my-openagent — 48k ⭐  
+05. skills by anthropics — 111k ⭐  
+06. awesome-claude-skills by ComposioHQ — 51k ⭐  
+07. awesome-openclaw-skills — 44k ⭐  
+08. awesome-claude-code — 36k ⭐  
+09. agent-skills by vercel-labs — 24k ⭐  
+10. obsidian-skills — 20k ⭐  
+11. claude-plugins-official — 16k ⭐  
+12. skills by openai — 16k ⭐  
+13. Agent-Skills-for-Context-Engineering — 15k ⭐  
+14. skills by vercel-labs — 13k ⭐  
+15. skills by mattpocock — 12k ⭐  
+16. claude-skills by alirezarezvani — 9.4k ⭐  
+17. skills by MiniMax-AI — 9.2k ⭐  
+18. andrej-karpathy-skills — 7.6k ⭐  
+19. skills by slavingia — 6.6k ⭐  
+20. skills by trailofbits — 4.3k ⭐  
+21. skills by openclaw — 3.8k ⭐  
+22. Skills by Dimillian — 3.2k ⭐  
+23. gemini-skills — 3.1k ⭐  
+24. chrome-cdp-skill — 2.8k ⭐  
 
 ---
 
-## 1. everything-claude-code (137k ⭐)
+## 1. everything-claude-code (138k ⭐)
 
 **🔗** https://github.com/affaan-m/everything-claude-code  
 **🍴** Fork 20k | **🔄** Updated Apr 4, 2026
@@ -53,7 +53,25 @@
 
 ---
 
-## 3. skills by anthropics (110k ⭐)
+## 3. learn-claude-code (48k ⭐)
+
+**🔗** https://github.com/shareAI-lab/learn-claude-code  
+**🍴** Fork 7.8k | **🔄** Updated Apr 1, 2026
+
+> Bash is all you need — 从零构建的 nano 级 claude code 风格 agent harness。用最少代码展示 coding agent 的核心工作原理。TypeScript 实现。
+
+---
+
+## 4. oh-my-openagent (48k ⭐)
+
+**🔗** https://github.com/code-yeongyu/oh-my-openagent  
+**🍴** Fork 3.8k | **🔄** Updated Apr 5, 2026
+
+> 最强 agent harness（前世为 oh-my-opencode）。为各种 coding agent 提供统一的能力扩展框架。
+
+---
+
+## 5. skills by anthropics (111k ⭐)
 
 **🔗** https://github.com/anthropics/skills  
 **🍴** Fork 12k | **🔄** Updated Mar 25, 2026
@@ -62,7 +80,7 @@
 
 ---
 
-## 4. awesome-claude-skills by ComposioHQ (51k ⭐)
+## 6. awesome-claude-skills by ComposioHQ (51k ⭐)
 
 **🔗** https://github.com/ComposioHQ/awesome-claude-skills  
 **🍴** Fork 5.4k | **🔄** Updated Feb 19, 2026
@@ -71,34 +89,25 @@
 
 ---
 
-## 5. oh-my-openagent (48k ⭐)
-
-**🔗** https://github.com/code-yeongyu/oh-my-openagent  
-**🍴** Fork 3.7k | **🔄** Updated Apr 4, 2026
-
-> 最强 agent harness（前世为 oh-my-opencode）。为各种 coding agent 提供统一的能力扩展框架。
-
----
-
-## 6. awesome-openclaw-skills (44k ⭐)
+## 7. awesome-openclaw-skills (44k ⭐)
 
 **🔗** https://github.com/VoltAgent/awesome-openclaw-skills  
-**🍴** Fork 4.3k | **🔄** Updated Apr 1, 2026
+**🍴** Fork 4.3k | **🔄** Updated Apr 4, 2026
 
 > OpenClaw Skills 大全。从官方 Skills Registry 筛选分类了 5400+ skills，是目前最全的 OpenClaw 技能库。
 
 ---
 
-## 7. awesome-claude-code (36k ⭐)
+## 8. awesome-claude-code (36k ⭐)
 
 **🔗** https://github.com/hesreallyhim/awesome-claude-code  
-**🍴** Fork 2.9k | **🔄** Updated Apr 4, 2026
+**🍴** Fork 2.9k | **🔄** Updated Apr 5, 2026
 
 > Claude Code 精选 Skills、Hooks、Slash Commands、Agent 编排器、应用和插件列表。由 Anthropic 官方维护社区精选资源。
 
 ---
 
-## 8. agent-skills by vercel-labs (24k ⭐)
+## 9. agent-skills by vercel-labs (24k ⭐)
 
 **🔗** https://github.com/vercel-labs/agent-skills  
 **🍴** Fork 2.2k | **🔄** Updated Apr 2, 2026
@@ -107,7 +116,7 @@
 
 ---
 
-## 9. obsidian-skills (19k ⭐)
+## 10. obsidian-skills (20k ⭐)
 
 **🔗** https://github.com/kepano/obsidian-skills  
 **🍴** Fork 1.2k | **🔄** Updated Apr 2, 2026
@@ -116,25 +125,25 @@
 
 ---
 
-## 10. claude-plugins-official (16k ⭐)
+## 11. claude-plugins-official (16k ⭐)
 
 **🔗** https://github.com/anthropics/claude-plugins-official  
-**🍴** Fork 1.8k | **🔄** Updated Apr 3, 2026
+**🍴** Fork 1.8k | **🔄** Updated Apr 4, 2026
 
 > Anthropic 官方维护的高质量 Claude Code Plugins 目录。
 
 ---
 
-## 11. skills by openai (16k ⭐)
+## 12. skills by openai (16k ⭐)
 
 **🔗** https://github.com/openai/skills  
-**🍴** Fork 994 | **🔄** Updated Mar 26, 2026
+**🍴** Fork 995 | **🔄** Updated Mar 26, 2026
 
 > Codex Skills 目录。Agent Skills 是包含指令、脚本和资源的文件夹，AI agent 可发现并使用以完成特定任务。一次编写，随处使用。参看 [agentskills.io](https://agentskills.io) 开源标准。
 
 ---
 
-## 12. Agent-Skills-for-Context-Engineering (15k ⭐)
+## 13. Agent-Skills-for-Context-Engineering (15k ⭐)
 
 **🔗** https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering  
 **🍴** Fork 1.2k | **🔄** Updated Mar 22, 2026
@@ -143,61 +152,61 @@
 
 ---
 
-## 13. skills by vercel-labs (13k ⭐)
+## 14. skills by vercel-labs (13k ⭐)
 
 **🔗** https://github.com/vercel-labs/skills  
-**🍴** Fork 1k | **🔄** Updated Apr 3, 2026
+**🍴** Fork 1.1k | **🔄** Updated Apr 3, 2026
 
 > `npx skills` 工具——开源 agent skills 命令行工具。快速发现、安装和管理 agent 技能。
 
 ---
 
-## 14. skills by mattpocock (12k ⭐)
+## 15. skills by mattpocock (12k ⭐)
 
 **🔗** https://github.com/mattpocock/skills  
-**🍴** Fork 986 | **🔄** Updated Apr 1, 2026
+**🍴** Fork 1k | **🔄** Updated Apr 1, 2026
 
 > Matt Pocock 的个人 skills 目录，直接从他的 .claude 目录整理而来。
 
 ---
 
-## 15. claude-skills by alirezarezvani (9.3k ⭐)
+## 16. claude-skills by alirezarezvani (9.4k ⭐)
 
 **🔗** https://github.com/alirezarezvani/claude-skills  
-**🍴** Fork 1.1k | **🔄** Updated Apr 4, 2026
+**🍴** Fork 1.2k | **🔄** Updated Apr 4, 2026
 
 > 220+ Claude Code skills 和 agent 插件集合，覆盖 Claude Code、Codex、Gemini CLI、Cursor 等 8+ coding agent。涵盖工程、营销、产品、合规、C-level 咨询等场景。
 
 ---
 
-## 16. skills by MiniMax-AI (9.1k ⭐)
+## 17. skills by MiniMax-AI (9.2k ⭐)
 
 **🔗** https://github.com/MiniMax-AI/skills  
-**🍴** Fork 730 | **🔄** Updated Apr 1, 2026
+**🍴** Fork 741 | **🔄** Updated Apr 5, 2026
 
 > MiniMax AI Skills 集合。
 
 ---
 
-## 17. andrej-karpathy-skills (7.6k ⭐)
+## 18. andrej-karpathy-skills (7.6k ⭐)
 
 **🔗** https://github.com/forrestchang/andrej-karpathy-skills  
-**🍴** Fork 534 | **🔄** Updated Feb 16, 2026
+**🍴** Fork 536 | **🔄** Updated Feb 16, 2026
 
 > 与 Andrej Karpathy 相关的 Skills 精选集。
 
 ---
 
-## 18. skills by slavingia (6.4k ⭐)
+## 19. skills by slavingia (6.6k ⭐)
 
 **🔗** https://github.com/slavingia/skills  
-**🍴** Fork 537 | **🔄** Updated Apr 3, 2026
+**🍴** Fork 570 | **🔄** Updated Apr 3, 2026
 
 > 基于 Sahil Lavingia 的《The Minimalist Entrepreneur》的 Claude Code skills。
 
 ---
 
-## 19. skills by trailofbits (4.3k ⭐)
+## 20. skills by trailofbits (4.3k ⭐)
 
 **🔗** https://github.com/trailofbits/skills  
 **🍴** Fork 379 | **🔄** Updated Apr 3, 2026
@@ -206,16 +215,16 @@
 
 ---
 
-## 20. skills by openclaw (3.8k ⭐)
+## 21. skills by openclaw (3.8k ⭐)
 
 **🔗** https://github.com/openclaw/skills  
-**🍴** Fork 1k | **🔄** Updated Apr 4, 2026
+**🍴** Fork 1.1k | **🔄** Updated Apr 5, 2026
 
 > OpenClaw 官方 Skills Registry 中所有版本 skills 的存档。
 
 ---
 
-## 21. Skills by Dimillian (3.1k ⭐)
+## 22. Skills by Dimillian (3.2k ⭐)
 
 **🔗** https://github.com/Dimillian/Skills  
 **🍴** Fork 164 | **🔄** Updated Mar 29, 2026
@@ -224,30 +233,32 @@
 
 ---
 
-## 22. gemini-skills (3.1k ⭐)
+## 23. gemini-skills (3.1k ⭐)
 
 **🔗** https://github.com/google-gemini/gemini-skills  
-**🍴** Fork 274 | **🔄** Updated Mar 27, 2026
+**🍴** Fork 275 | **🔄** Updated Mar 27, 2026
 
 > Gemini API、SDK 和 model/agent 交互的 Skills。
 
 ---
 
-## 23. skills by microsoft (2k ⭐)
+## 24. chrome-cdp-skill (2.8k ⭐)
 
-**🔗** https://github.com/microsoft/skills  
-**🍴** Fork 221 | **🔄** Updated Apr 4, 2026
+**🔗** https://github.com/pasky/chrome-cdp-skill  
+**🍴** Fork 173 | **🔄** Updated Mar 18, 2026
 
-> SDK 用的 Skills、MCP servers、Custom Agents、Agents.md 集合，帮助 Coding Agents 更好地 grounded。
+> 让 AI agent 直接接管你已打开的 Chrome 标签页。开箱即用，无需重启浏览器，通过 Chrome DevTools Protocol (CDP) 连接实时 session。JavaScript 实现。
 
 ---
 
-## 24. skill-scanner (1.7k ⭐)
+## 候选池
 
-**🔗** https://github.com/cisco-ai-defense/skill-scanner  
-**🍴** Fork 192 | **🔄** Updated Apr 3, 2026
-
-> Agent Skills 安全扫描器，检测 skills 中的潜在安全风险。
+| 项目 | 星数 | 说明 |
+|------|------|------|
+| lijigang/ljg-skills | 2.7k ⭐ | 个人 skills 集合 |
+| axtonliu/axton-obsidian-visual-skills | 2.1k ⭐ | Obsidian 可视化 skills，生成 Canvas/Excalidraw/Mermaid 图表 |
+| microsoft/skills | 2k ⭐ | SDK 用的 Skills、MCP servers、Custom Agents |
+| skill-scanner by cisco-ai-defense | 1.7k ⭐ | Agent Skills 安全扫描器 |
 
 ---
 
