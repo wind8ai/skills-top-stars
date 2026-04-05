@@ -1,5 +1,7 @@
 # skills-top-stars
 
+**中文** | [English](./README.en.md)
+
 > GitHub 高星 Skills 项目精选  
 > 来源：wind8Geek Stars / Skills List  
 > 抓取：2026-04-05  
