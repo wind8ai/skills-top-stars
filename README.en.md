@@ -1,59 +1,59 @@
-# skills-top-stars
-
 [中文](./README.md) | **English**
 
-> Curated list of top-starred GitHub Skills projects  
-> Source: wind8Geek Stars / Skills List  
-> Updated: 2026-04-09  
+# skills-top-stars
+
+> GitHub Top-Starred Skills Projects  
+> Source: wind8ai Stars / Skills List  
+> Updated: 2026-04-13  
 
 ---
 
 ## Contents
 
-01. [everything-claude-code — 147k ⭐](#1-everything-claude-code-147k-)  
-02. [superpowers — 141k ⭐](#2-superpowers-141k-)  
+01. [everything-claude-code — 153k ⭐](#1-everything-claude-code-153k-)  
+02. [superpowers — 149k ⭐](#2-superpowers-149k-)  
 03. [system-prompts-and-models-of-ai-tools — 135k ⭐](#3-system-prompts-and-models-of-ai-tools-135k-)  
-04. [skills by anthropics — 113k ⭐](#4-skills-by-anthropics-113k-)  
-05. [awesome-claude-skills by ComposioHQ — 52k ⭐](#5-awesome-claude-skills-by-composiohq-52k-)  
+04. [skills by anthropics — 116k ⭐](#4-skills-by-anthropics-116k-)  
+05. [awesome-claude-skills by ComposioHQ — 53k ⭐](#5-awesome-claude-skills-by-composiohq-53k-)  
 06. [awesome-openclaw-skills — 45k ⭐](#6-awesome-openclaw-skills-45k-)  
-07. [awesome-claude-code — 37k ⭐](#7-awesome-claude-code-37k-)  
-08. [agent-skills by vercel-labs — 24k ⭐](#8-agent-skills-by-vercel-labs-24k-)  
-09. [obsidian-skills — 21k ⭐](#9-obsidian-skills-21k-)  
-10. [skills by openai — 16k ⭐](#10-skills-by-openai-16k-)  
+07. [awesome-claude-code — 38k ⭐](#7-awesome-claude-code-38k-)  
+08. [agent-skills by vercel-labs — 25k ⭐](#8-agent-skills-by-vercel-labs-25k-)  
+09. [obsidian-skills — 23k ⭐](#9-obsidian-skills-23k-)  
+10. [andrej-karpathy-skills — 20k ⭐](#10-andrej-karpathy-skills-20k-)  
 11. [claude-plugins-official — 16k ⭐](#11-claude-plugins-official-16k-)  
-12. [Agent-Skills-for-Context-Engineering — 14k ⭐](#12-agent-skills-for-context-engineering-14k-)  
-13. [skills by vercel-labs — 13k ⭐](#13-skills-by-vercel-labs-13k-)  
-14. [skills by mattpocock — 13k ⭐](#14-skills-by-mattpocock-13k-)  
-15. [claude-skills by alirezarezvani — 10k ⭐](#15-claude-skills-by-alirezarezvani-10k-)  
-16. [skills by MiniMax-AI — 9.6k ⭐](#16-skills-by-minimax-ai-96k-)  
-17. [andrej-karpathy-skills — 9.1k ⭐](#17-andrej-karpathy-skills-91k-)  
-18. [skills by slavingia — 7.4k ⭐](#18-skills-by-slavingia-74k-)  
-19. [skills by trailofbits — 4.3k ⭐](#19-skills-by-trailofbits-43k-)  
-20. [skills by openclaw — 3.9k ⭐](#20-skills-by-openclaw-39k-)  
-21. [Skills by Dimillian — 3.2k ⭐](#21-skills-by-dimillian-32k-)  
-22. [gemini-skills — 3.1k ⭐](#22-gemini-skills-31k-)  
-23. [ljg-skills by lijigang — 2.8k ⭐](#23-ljg-skills-by-lijigang-28k-)  
-24. [chrome-cdp-skill — 2.8k ⭐](#24-chrome-cdp-skill-28k-)  
+12. [skills by openai — 16k ⭐](#12-skills-by-openai-16k-)  
+13. [Agent-Skills-for-Context-Engineering — 15k ⭐](#13-agent-skills-for-context-engineering-15k-)  
+14. [skills by mattpocock — 14k ⭐](#14-skills-by-mattpocock-14k-)  
+15. [agent-skills by addyosmani — 14k ⭐](#15-agent-skills-by-addyosmani-14k-)  
+16. [skills by vercel-labs — 13k ⭐](#16-skills-by-vercel-labs-13k-)  
+17. [claude-skills by alirezarezvani — 10k ⭐](#17-claude-skills-by-alirezarezvani-10k-)  
+18. [skills by MiniMax-AI — 10k ⭐](#18-skills-by-minimax-ai-10k-)  
+19. [skills by slavingia — 7.8k ⭐](#19-skills-by-slavingia-78k-)  
+20. [skills by trailofbits — 4.5k ⭐](#20-skills-by-trailofbits-45k-)  
+21. [skills by openclaw — 4k ⭐](#21-skills-by-openclaw-4k-)  
+22. [Skills by Dimillian — 3.3k ⭐](#22-skills-by-dimillian-33k-)  
+23. [gemini-skills — 3.2k ⭐](#23-gemini-skills-32k-)  
+24. [ljg-skills by lijigang — 3k ⭐](#24-ljg-skills-by-lijigang-3k-)  
 
 ---
 
-## 1. everything-claude-code (147k ⭐)
+## 1. everything-claude-code (153k ⭐)
 
 **🔗** https://github.com/affaan-m/everything-claude-code  
-**🍴** Fork 22k | **🔄** Updated Apr 8, 2026  
-**👤** Affaan Mustafa — Anthropic hackathon champion (#1 of 100), founding engineer at PMX, most influential individual developer in the Agent Harness space
+**🍴** Fork 23k | **🔄** Updated Apr 13, 2026  
+**👤** Affaan Mustafa — Winner of Anthropic's hackathon (1st of 100), founding engineer at PMX, the most influential individual developer in the Agent Harness space
 
-> Full-stack agent harness performance optimization system. Covers Skills, memory, security, and research-first development for Claude Code / Codex / Opencode / Cursor and beyond. Supports TypeScript / Shell / Python / Go.
+> Full-stack Agent Harness performance optimization system. Covers Skills, memory, security, and research-first development workflows for Claude Code / Codex / Opencode / Cursor and beyond.
 
 ---
 
-## 2. superpowers (141k ⭐)
+## 2. superpowers (149k ⭐)
 
 **🔗** https://github.com/obra/superpowers  
-**🍴** Fork 12k | **🔄** Updated Apr 6, 2026  
+**🍴** Fork 12k | **🔄** Updated Apr 10, 2026  
 **👤** Jesse Vincent — Founder of Keyboardio (renowned open-source mechanical keyboard company), veteran open-source contributor
 
-> A complete coding agent software development methodology and skills framework. Rather than writing code directly, it guides you to clarify goals and derive specs, then drives task progress via subagents. Emphasizes TDD, YAGNI, and DRY principles, enabling Claude to work autonomously for hours without drifting from the plan.
+> A complete coding agent software development methodology and skills framework. Guides you to clarify goals and derive specs before coding, then drives tasks via subagents. Emphasizes TDD, YAGNI, and DRY principles.
 
 ---
 
@@ -61,219 +61,219 @@
 
 **🔗** https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools  
 **🍴** Fork 33k | **🔄** Updated Mar 28, 2026  
-**👤** Lucas Valbuena (x1xhlol) — 16-year-old developer from Spain, founder of ZeroLeaks, focused on uncovering and disclosing internal AI tool information
+**👤** Lucas Valbuena (x1xhlol) — 16-year-old Spanish developer, founder of ZeroLeaks, focused on uncovering AI tool internals
 
-> Full system prompts, internal tools, and AI model information for dozens of AI tools including Augment Code, Claude Code, Cursor, Devin AI, Windsurf, Replit, Lovable, and more.
+> Full system prompts, internal tools, and AI model info for Augment Code, Claude Code, Cursor, Devin AI, Windsurf, Replit, Lovable, and dozens more AI tools.
 
 ---
 
-## 4. skills by anthropics (113k ⭐)
+## 4. skills by anthropics (116k ⭐)
 
 **🔗** https://github.com/anthropics/skills  
-**🍴** Fork 12k | **🔄** Updated Apr 8, 2026  
-**👤** Anthropic Official Team — Claude's parent company, co-creator of the Agent Skills standard
+**🍴** Fork 13k | **🔄** Updated Apr 9, 2026  
+**👤** Anthropic official team — Creator of Claude, standard-setter for Agent Skills
 
-> Anthropic's official Agent Skills implementation. Skills are folders containing instructions, scripts, and resources that Claude can dynamically load to improve performance on specific tasks. Covers brand document creation, data analysis workflows, automated tasks, and more. See [agentskills.io](http://agentskills.io) for the skills standard.
+> Official Anthropic Agent Skills implementation. Skills are folders with instructions, scripts, and resources that Claude dynamically loads to enhance task performance. See [agentskills.io](http://agentskills.io) for the standard.
 
 ---
 
-## 5. awesome-claude-skills by ComposioHQ (52k ⭐)
+## 5. awesome-claude-skills by ComposioHQ (53k ⭐)
 
 **🔗** https://github.com/ComposioHQ/awesome-claude-skills  
-**🍴** Fork 5.5k | **🔄** Updated Feb 19, 2026  
-**👤** ComposioHQ — AI tool integration platform, focused on building the agent toolchain ecosystem
+**🍴** Fork 5.7k | **🔄** Updated Feb 19, 2026  
+**👤** ComposioHQ — AI tool integration platform, focused on agent toolchain ecosystem
 
-> A curated list of awesome Claude Skills covering workflow customization, resource tools, and practical examples. Provides curated resources for Claude AI workflow customization.
+> A curated list of Claude Skills covering workflow customization, tools, and resources for Claude AI.
 
 ---
 
 ## 6. awesome-openclaw-skills (45k ⭐)
 
 **🔗** https://github.com/VoltAgent/awesome-openclaw-skills  
-**🍴** Fork 4.3k | **🔄** Updated Apr 4, 2026  
-**👤** VoltAgent — Deep participant in the OpenClaw ecosystem, community maintenance team for the Skills Registry
+**🍴** Fork 4.5k | **🔄** Updated Apr 4, 2026  
+**👤** VoltAgent — Active OpenClaw ecosystem contributor, Skills Registry community maintainer
 
-> The most comprehensive collection of OpenClaw Skills. Filters and categorizes 5,400+ skills from the official OpenClaw Skills Registry.
+> The ultimate OpenClaw Skills collection. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.
 
 ---
 
-## 7. awesome-claude-code (37k ⭐)
+## 7. awesome-claude-code (38k ⭐)
 
 **🔗** https://github.com/hesreallyhim/awesome-claude-code  
-**🍴** Fork 3k | **🔄** Updated Apr 9, 2026  
-**👤** hesreallyhim — Well-known community curator, focused on aggregating Claude Code ecosystem resources
+**🍴** Fork 3.1k | **🔄** Updated Apr 13, 2026  
+**👤** hesreallyhim — Community curator focused on the Claude Code ecosystem
 
-> A curated list of Skills, Hooks, Slash Commands, Agent Orchestrators, applications, and plugins for Claude Code. The most comprehensive community-curated resource covering the Claude Code ecosystem.
+> A curated list of Skills, Hooks, Slash Commands, agent orchestrators, apps, and plugins for Claude Code. The most comprehensive community resource for the Claude Code ecosystem.
 
 ---
 
-## 8. agent-skills by vercel-labs (24k ⭐)
+## 8. agent-skills by vercel-labs (25k ⭐)
 
 **🔗** https://github.com/vercel-labs/agent-skills  
-**🍴** Fork 2.2k | **🔄** Updated Apr 2, 2026  
-**👤** Vercel Labs — Vercel's official lab, a leading company in frontend infrastructure
+**🍴** Fork 2.3k | **🔄** Updated Apr 2, 2026  
+**👤** Vercel Labs — Official Vercel lab, leading frontend infrastructure company
 
-> Vercel's official collection of agent skills. Provides agent extension capabilities for the Vercel platform, implemented in JavaScript.
+> Vercel's official collection of agent skills. Provides agent capabilities for the Vercel platform. JavaScript implementation.
 
 ---
 
-## 9. obsidian-skills (21k ⭐)
+## 9. obsidian-skills (23k ⭐)
 
 **🔗** https://github.com/kepano/obsidian-skills  
-**🍴** Fork 1.3k | **🔄** Updated Apr 2, 2026  
-**👤** Steph Ango (kepano) — CEO of Obsidian, advocate of minimalist design philosophy
+**🍴** Fork 1.5k | **🔄** Updated Apr 2, 2026  
+**👤** Steph Ango (kepano) — CEO of Obsidian, minimalist design advocate
 
-> Agent Skills for Obsidian. Teach your agent how to use Markdown, Bases, JSON Canvas, and the CLI.
+> Agent skills for Obsidian. Teaches your agent to use Markdown, Bases, JSON Canvas, and the CLI.
 
 ---
 
-## 10. skills by openai (16k ⭐)
+## 10. andrej-karpathy-skills (20k ⭐)
 
-**🔗** https://github.com/openai/skills  
-**🍴** Fork 1k | **🔄** Updated Apr 8, 2026  
-**👤** OpenAI Official Team — Co-creator of the Codex Skills standard
+**🔗** https://github.com/forrestchang/andrej-karpathy-skills  
+**🍴** Fork 1.7k | **🔄** Updated Apr 13, 2026  
+**👤** Jiayuan Zhang (forrestchang) — Founder & CEO of Multica AI, focused on human-AI hybrid engineering teams
 
-> Skills Catalog for Codex. Agent Skills are folders containing instructions, scripts, and resources that AI agents can discover and use to complete specific tasks. Write once, use anywhere. See the open standard at [agentskills.io](https://agentskills.io).
+> Distilled from Andrej Karpathy's (ex-OpenAI / Tesla AI) observations on LLM coding pitfalls. A single CLAUDE.md file to improve Claude Code behavior.
 
 ---
 
 ## 11. claude-plugins-official (16k ⭐)
 
 **🔗** https://github.com/anthropics/claude-plugins-official  
-**🍴** Fork 1.8k | **🔄** Updated Apr 8, 2026  
-**👤** Anthropic Official Team — Official, Anthropic-managed directory of high quality Claude Code Plugins
+**🍴** Fork 2k | **🔄** Updated Apr 12, 2026  
+**👤** Anthropic official team — Anthropic-managed high-quality plugin directory
 
-> Official, Anthropic-managed directory of high quality Claude Code Plugins.
+> Official, Anthropic-managed directory of high-quality Claude Code Plugins.
 
 ---
 
-## 12. Agent-Skills-for-Context-Engineering (14k ⭐)
+## 12. skills by openai (16k ⭐)
+
+**🔗** https://github.com/openai/skills  
+**🍴** Fork 1k | **🔄** Updated Apr 10, 2026  
+**👤** OpenAI official team — Co-creator of the Codex Skills standard
+
+> The Codex Skills Catalog. Agent Skills are folders with instructions, scripts, and resources that AI agents can discover and use. Write once, use anywhere. See [agentskills.io](https://agentskills.io).
+
+---
+
+## 13. Agent-Skills-for-Context-Engineering (15k ⭐)
 
 **🔗** https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering  
-**🍴** Fork 1.1k | **🔄** Updated Mar 22, 2026  
-**👤** Murat Can Koylan — Independent researcher and practitioner in context engineering
+**🍴** Fork 1.2k | **🔄** Updated Apr 12, 2026  
+**👤** Murat Can Koylan — Independent researcher and practitioner in Context Engineering
 
-> A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require context engineering.
-
----
-
-## 13. skills by vercel-labs (13k ⭐)
-
-**🔗** https://github.com/vercel-labs/skills  
-**🍴** Fork 1.1k | **🔄** Updated Apr 6, 2026  
-**👤** Vercel Labs — Vercel's official lab, publisher of the `npx skills` tool
-
-> The `npx skills` tool — an open-source agent skills CLI. Quickly discover, install, and manage agent skills.
+> A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems.
 
 ---
 
-## 14. skills by mattpocock (13k ⭐)
+## 14. skills by mattpocock (14k ⭐)
 
 **🔗** https://github.com/mattpocock/skills  
-**🍴** Fork 1.1k | **🔄** Updated Apr 1, 2026  
-**👤** Matt Pocock — Renowned TypeScript educator, founder of Total TypeScript, former Vercel / Stately engineer
+**🍴** Fork 1.2k | **🔄** Updated Apr 1, 2026  
+**👤** Matt Pocock — TypeScript educator and KOL, founder of Total TypeScript, former Vercel / Stately engineer
 
-> Matt Pocock's personal skills directory, pulled directly from his .claude directory. Shell implementation.
+> Matt Pocock's personal skills directory, straight from his .claude directory. Shell implementation.
 
 ---
 
-## 15. claude-skills by alirezarezvani (10k ⭐)
+## 15. agent-skills by addyosmani (14k ⭐)
+
+**🔗** https://github.com/addyosmani/agent-skills  
+**🍴** Fork 1.8k | **🔄** Updated Apr 12, 2026  
+**👤** Addy Osmani — Engineering Director at Google Chrome, author of *Learning JavaScript Design Patterns*, authority on frontend performance
+
+> Production-grade engineering skills for AI coding agents. Shell implementation covering key scenarios in modern engineering practice.
+
+---
+
+## 16. skills by vercel-labs (13k ⭐)
+
+**🔗** https://github.com/vercel-labs/skills  
+**🍴** Fork 1.2k | **🔄** Updated Apr 12, 2026  
+**👤** Vercel Labs — Publisher of the `npx skills` tool
+
+> The open agent skills tool — `npx skills`. Quickly discover, install, and manage agent skills from the command line.
+
+---
+
+## 17. claude-skills by alirezarezvani (10k ⭐)
 
 **🔗** https://github.com/alirezarezvani/claude-skills  
-**🍴** Fork 1.2k | **🔄** Updated Apr 8, 2026  
-**👤** Alireza Rezvani — Independent developer focused on building a cross-agent platform skills ecosystem
+**🍴** Fork 1.4k | **🔄** Updated Apr 13, 2026  
+**👤** Alireza Rezvani — Independent developer focused on cross-platform agent skills
 
-> 220+ Claude Code skills and agent plugins covering Claude Code, Codex, Gemini CLI, Cursor, and 8+ coding agents. Spans engineering, marketing, product, compliance, and C-level advisory scenarios.
+> 232+ Claude Code skills and agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents. Covers engineering, marketing, product, compliance, and C-level advisory.
 
 ---
 
-## 16. skills by MiniMax-AI (9.6k ⭐)
+## 18. skills by MiniMax-AI (10k ⭐)
 
 **🔗** https://github.com/MiniMax-AI/skills  
-**🍴** Fork 789 | **🔄** Updated Apr 8, 2026  
-**👤** MiniMax AI — Leading Chinese large model company, developer of the MiniMax-Text series models
+**🍴** Fork 874 | **🔄** Updated Apr 13, 2026  
+**👤** MiniMax AI — Leading Chinese LLM company, developer of the MiniMax-Text model series
 
-> MiniMax AI Skills collection, implemented in C#.
-
----
-
-## 17. andrej-karpathy-skills (9.1k ⭐)
-
-**🔗** https://github.com/forrestchang/andrej-karpathy-skills  
-**🍴** Fork 631 | **🔄** Updated Feb 16, 2026  
-**👤** Jiayuan Zhang (forrestchang) — Founder & CEO of Multica AI, focused on human-AI hybrid engineering team platforms
-
-> A curated collection of Skills inspired by Andrej Karpathy (former OpenAI / Tesla AI Director).
+> MiniMax AI Skills collection. C# implementation.
 
 ---
 
-## 18. skills by slavingia (7.4k ⭐)
+## 19. skills by slavingia (7.8k ⭐)
 
 **🔗** https://github.com/slavingia/skills  
-**🍴** Fork 729 | **🔄** Updated Apr 3, 2026  
-**👤** Sahil Lavingia — Founder of Gumroad, well-known serial entrepreneur, author of *The Minimalist Entrepreneur*
+**🍴** Fork 784 | **🔄** Updated Apr 11, 2026  
+**👤** Sahil Lavingia — Founder of Gumroad, serial entrepreneur, author of *The Minimalist Entrepreneur*
 
-> Claude Code skills based on Sahil Lavingia's *The Minimalist Entrepreneur* philosophy.
+> Claude Code skills based on *The Minimalist Entrepreneur* by Sahil Lavingia.
 
 ---
 
-## 19. skills by trailofbits (4.3k ⭐)
+## 20. skills by trailofbits (4.5k ⭐)
 
 **🔗** https://github.com/trailofbits/skills  
-**🍴** Fork 383 | **🔄** Updated Apr 8, 2026  
-**👤** Trail of Bits — Top software security research firm specializing in vulnerability detection and security auditing
+**🍴** Fork 393 | **🔄** Updated Apr 8, 2026  
+**👤** Trail of Bits — Top software security research firm specializing in vulnerability detection and auditing
 
-> Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows. Python implementation.
+> Claude Code skills for security research, vulnerability detection, and audit workflows. Python implementation.
 
 ---
 
-## 20. skills by openclaw (3.9k ⭐)
+## 21. skills by openclaw (4k ⭐)
 
 **🔗** https://github.com/openclaw/skills  
-**🍴** Fork 1k | **🔄** Updated Apr 9, 2026  
-**👤** OpenClaw Official Team — Developer team behind the OpenClaw agent platform
+**🍴** Fork 1.1k | **🔄** Updated Apr 13, 2026  
+**👤** OpenClaw official team — Developers of the OpenClaw agent platform
 
-> Archive of all versions of all skills from the official OpenClaw Skills Registry.
+> All versions of all skills on the OpenClaw Skills Registry, archived.
 
 ---
 
-## 21. Skills by Dimillian (3.2k ⭐)
+## 22. Skills by Dimillian (3.3k ⭐)
 
 **🔗** https://github.com/Dimillian/Skills  
-**🍴** Fork 165 | **🔄** Updated Mar 29, 2026  
-**👤** Dimillian (Thomas Ricouard) — Renowned iOS developer, author of IceCubesApp (Mastodon client)
+**🍴** Fork 172 | **🔄** Updated Mar 29, 2026  
+**👤** Dimillian (Thomas Ricouard) — Prolific iOS developer, creator of IceCubesApp (Mastodon client)
 
-> Dimillian's personal Codex Skills collection, Shell implementation.
+> Dimillian's personal Codex Skills collection. Shell implementation.
 
 ---
 
-## 22. gemini-skills (3.1k ⭐)
+## 23. gemini-skills (3.2k ⭐)
 
 **🔗** https://github.com/google-gemini/gemini-skills  
-**🍴** Fork 279 | **🔄** Updated Mar 27, 2026  
-**👤** Google Gemini Official Team — Gemini model team under Google DeepMind
+**🍴** Fork 284 | **🔄** Updated Mar 27, 2026  
+**👤** Google Gemini official team — Gemini model team under Google DeepMind
 
 > Skills for the Gemini API, SDK, and model/agent interactions.
 
 ---
 
-## 23. ljg-skills by lijigang (2.8k ⭐)
+## 24. ljg-skills by lijigang (3k ⭐)
 
 **🔗** https://github.com/lijigang/ljg-skills  
-**🍴** Fork 303 | **🔄** Updated Apr 9, 2026  
-**👤** lijigang — Active Chinese developer, personal skills collection maintainer
+**🍴** Fork 337 | **🔄** Updated Apr 10, 2026  
+**👤** lijigang — Active Chinese developer and personal skills maintainer
 
-> lijigang's personal skills collection, HTML implementation.
-
----
-
-## 24. chrome-cdp-skill (2.8k ⭐)
-
-**🔗** https://github.com/pasky/chrome-cdp-skill  
-**🍴** Fork 173 | **🔄** Updated Mar 18, 2026  
-**👤** Petr Baudis (pasky) — Czech open-source hacker, early Git contributor with AI research background
-
-> Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open, via Chrome DevTools Protocol (CDP). JavaScript implementation.
+> lijigang's personal skills collection. HTML implementation.
 
 ---
 
@@ -281,44 +281,44 @@
 
 | # | Project | Link | Stars | Description |
 |---|---------|------|-------|-------------|
-| 1 | axtonliu/axton-obsidian-visual-skills | https://github.com/axtonliu/axton-obsidian-visual-skills | 2.2k ⭐ | Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams |
-| 2 | microsoft/skills | https://github.com/microsoft/skills | 1.9k ⭐ | Microsoft official — Skills, MCP servers, Custom Agents for SDK-powered coding agents |
-| 3 | cisco-ai-defense/skill-scanner | https://github.com/cisco-ai-defense/skill-scanner | 1.7k ⭐ | Cisco — Security Scanner for Agent Skills |
-| 4 | imxv/Pretty-mermaid-skills | https://github.com/imxv/Pretty-mermaid-skills | 621 ⭐ | Mermaid chart rendering capability, supporting SVG and ASCII output formats |
+| 1 | pasky/chrome-cdp-skill | https://github.com/pasky/chrome-cdp-skill | 2.9k ⭐ | Give AI agents access to live Chrome sessions via CDP — works out of the box |
+| 2 | axtonliu/axton-obsidian-visual-skills | https://github.com/axtonliu/axton-obsidian-visual-skills | 2.4k ⭐ | Visual skills for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams |
+| 3 | microsoft/skills | https://github.com/microsoft/skills | 2k ⭐ | Microsoft official skills, MCP servers, Custom Agents for SDK grounding |
+| 4 | cisco-ai-defense/skill-scanner | https://github.com/cisco-ai-defense/skill-scanner | 1.7k ⭐ | Security scanner for Agent Skills by Cisco |
+| 5 | wuji-labs/nopua | https://github.com/wuji-labs/nopua | 1.2k ⭐ | Unlocks AI potential through care and respect instead of threats |
+| 6 | imxv/Pretty-mermaid-skills | https://github.com/imxv/Pretty-mermaid-skills | 631 ⭐ | Mermaid chart rendering for agents, SVG and ASCII output |
 
 ---
 
-*Curated & maintained by 小乔 and 水镜 | 2026-04-09*
+*Curated & maintained by 小乔 and 水镜 | 2026-04-13*
 
 ---
 
-## Inclusion Criteria
+## Curation Rules
 
 ### Source
-- Only repositories starred by wind8Geek in the `Skills` list  
-- URL: https://github.com/stars/wind8Geek/lists/skills
-- **Note**: The list may be paginated — always check all pages
+- Only repos starred by wind8ai in the `Skills` list  
+- URL: https://github.com/stars/wind8ai/lists/skills
+- **Note**: List is paginated — all pages must be checked
 
-### Requirements
-1. Starred by wind8Geek — that's the authoritative filter
+### Inclusion Criteria
+1. Starred by wind8ai — star = include, no secondary judgment
 2. Public repository
 3. Star ≥ 500 (unless exceptionally representative)
-4. Top list capped at **24**, sorted by stars descending; others go to the candidate pool
+4. Top 24 by star count for the main list; others go to candidate pool
 
 ### Sorting
-- Sorted by total GitHub stars, descending
-- Stars displayed in magnitude format (147k, 141k...)
+- Descending by GitHub star count
+- Stars shown in magnitude format (153k, 149k...)
 
 ### Candidate Pool
-- Capped at **18** (24 main + 18 candidates = 42 total)
-- When full, lowest-starred entry is removed
+- Max **18 entries** (24 main + 18 candidates = 42 total)
+- When full, lowest-starred entry is dropped
 
 ### Maintenance
-- **Description quality**: 小乔 and 水镜 periodically review and refine project descriptions for accuracy and clarity
-- **Author bios**: Added on first inclusion, updated as needed
-- Star count changes → update rankings
-- Newly starred projects enter the candidate pool; when full, remove the lowest-starred entry
-- When removing a project, note the reason and date next to the entry title
+- Star count changes → update numbers and re-sort
+- Newly starred repos → candidate pool first
+- Removed entries → note `❌ [YYYY-MM-DD] reason` next to the title
 
-### Exclusion Principles
-- Star < 500 (unless exceptionally representative)
+### Exclusion
+- Repos with Star < 500 (unless exceptionally representative)
