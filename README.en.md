@@ -294,7 +294,7 @@
 
 ---
 
-*Curated & maintained by 小乔 and 水镜 | 2026-04-20*
+*Curated by wind8 | 2026-04-20*
 
 ---
 
