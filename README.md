@@ -50,7 +50,7 @@
 ## 2. superpowers (160k ⭐)
 
 **🔗** https://github.com/obra/superpowers  
-**🍴** Fork 13k | **🔄** Updated Apr 16, 2026  
+**🍴** Fork 14k | **🔄** Updated Apr 16, 2026
 **👤** Jesse Vincent — Keyboardio 创始人（著名开源机械键盘公司），开源社区资深贡献者
 
 > 完整的 coding agent 软件开发方法论与技能框架。不同于直接写代码，它先引导你明确目标、推导 spec，再以 subagent 驱动开发流程推进任务。强调 TDD、YAGNI、DRY 原则，可让 Claude 自主工作数小时不偏离计划。
@@ -70,7 +70,7 @@
 ## 4. skills by anthropics (120k ⭐)
 
 **🔗** https://github.com/anthropics/skills  
-**🍴** Fork 13k | **🔄** Updated Apr 16, 2026  
+**🍴** Fork 14k | **🔄** Updated Apr 16, 2026
 **👤** Anthropic 官方团队 — Claude 母公司，Agent Skills 标准制定者
 
 > Anthropic 官方 Agent Skills 实现。Skills 是包含指令、脚本和资源的文件夹，Claude 可动态加载以提升特定任务表现。涵盖品牌文档创建、数据分析流程、自动化任务等多种场景。参看 [agentskills.io](http://agentskills.io) 了解技能标准。
@@ -80,7 +80,7 @@
 ## 5. andrej-karpathy-skills (62k ⭐)
 
 **🔗** https://github.com/forrestchang/andrej-karpathy-skills  
-**🍴** Fork 5.4k | **🔄** Updated Apr 18, 2026  
+**🍴** Fork 5.5k | **🔄** Updated Apr 18, 2026
 **👤** Jiayuan Zhang (forrestchang) — Multica AI 创始人 & CEO，专注人机混合工程团队平台
 
 > 整理自 Andrej Karpathy（前 OpenAI / Tesla AI 负责人）的 LLM 编码陷阱观察，以单个 CLAUDE.md 文件精炼为 Claude Code 行为优化指引。
@@ -100,7 +100,7 @@
 ## 7. awesome-openclaw-skills (47k ⭐)
 
 **🔗** https://github.com/VoltAgent/awesome-openclaw-skills  
-**🍴** Fork 4.5k | **🔄** Updated Apr 20, 2026  
+**🍴** Fork 4.6k | **🔄** Updated Apr 20, 2026
 **👤** VoltAgent — OpenClaw 生态深度参与者，Skills Registry 社区维护团队
 
 > OpenClaw Skills 大全。从官方 Skills Registry 筛选分类了 5400+ skills，是目前最全的 OpenClaw 技能库。
@@ -110,7 +110,7 @@
 ## 8. awesome-claude-code (39k ⭐)
 
 **🔗** https://github.com/hesreallyhim/awesome-claude-code  
-**🍴** Fork 3.2k | **🔄** Updated Apr 20, 2026  
+**🍴** Fork 3.3k | **🔄** Updated Apr 20, 2026
 **👤** hesreallyhim — 社区知名整理者，专注 Claude Code 生态资源汇聚
 
 > Claude Code 精选 Skills、Hooks、Slash Commands、Agent 编排器、应用和插件列表。覆盖 Claude Code 生态最完整的社区精选资源。
@@ -121,9 +121,9 @@
 
 **🔗** https://github.com/safishamsi/graphify  
 **🍴** Fork 3.4k | **🔄** Updated Apr 18, 2026  
-**👤** Safi Shamsi — 跨平台 AI coding 技能开发者，支持 Claude Code、Codex、Cursor、Gemini CLI 等 10+ agent
+**👤** Safi (safishamsi) — 伦敦 AI 工程师，伯明翰大学数据科学硕士（Distinction），专注医疗 AI 与知识图谱
 
-> 将任意代码库、文档、论文、图片转化为可视化知识图谱的 AI coding agent 技能。兼容 Claude Code、Codex、OpenCode、Cursor、Gemini CLI、GitHub Copilot CLI、OpenClaw 等主流 coding agent。
+> AI coding agent skill，可将任意代码、文档、论文、图片或视频文件夹转化为可查询的知识图谱。支持 Claude Code、Codex、OpenCode、Cursor、Gemini CLI 等主流 agent。
 
 ---
 
@@ -151,16 +151,16 @@
 
 **🔗** https://github.com/mvanhorn/last30days-skill  
 **🍴** Fork 1.8k | **🔄** Updated Apr 19, 2026  
-**👤** mvanhorn — 独立开发者，专注 AI agent 信息综合与研究能力扩展
+**👤** Matt Van Horn (mvanhorn) — 连续创业者，Lyft 前身公司联合创始人，June（智能烤箱，被 Weber 收购）联合创始人
 
-> 通过 Reddit、X、YouTube、HN、Polymarket 和全网检索任意主题，合成一份有据可查的综合摘要。专为研究型 AI agent 设计的深度信息收集技能。
+> AI agent 研究技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket 及全网检索任意主题，并综合生成有据可查的摘要报告。
 
 ---
 
 ## 13. agent-skills by addyosmani (18k ⭐)
 
 **🔗** https://github.com/addyosmani/agent-skills  
-**🍴** Fork 2.2k | **🔄** Updated Apr 20, 2026  
+**🍴** Fork 2.3k | **🔄** Updated Apr 20, 2026
 **👤** Addy Osmani — Google Chrome 工程总监，《Learning JavaScript Design Patterns》作者，前端性能领域权威
 
 > 生产级 AI coding agent 工程技能集合。Shell 实现，覆盖现代工程实践中的关键场景。
@@ -180,7 +180,7 @@
 ## 15. skills by openai (17k ⭐)
 
 **🔗** https://github.com/openai/skills  
-**🍴** Fork 1k | **🔄** Updated Apr 18, 2026  
+**🍴** Fork 1.1k | **🔄** Updated Apr 18, 2026
 **👤** OpenAI 官方团队 — Codex Skills 标准的共同制定者
 
 > Codex Skills 目录。Agent Skills 是包含指令、脚本和资源的文件夹，AI agent 可发现并使用以完成特定任务。一次编写，随处使用。参看 [agentskills.io](https://agentskills.io) 开源标准。
@@ -200,7 +200,7 @@
 ## 17. Agent-Skills-for-Context-Engineering (15k ⭐)
 
 **🔗** https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering  
-**🍴** Fork 1.1k | **🔄** Updated Apr 14, 2026  
+**🍴** Fork 1.2k | **🔄** Updated Apr 14, 2026
 **👤** Murat Can Koylan — Context Engineering 领域独立研究者与实践者
 
 > Context Engineering、多 Agent 架构和生产级 agent 系统的全面技能集合。适用于构建、优化或调试需要 context 工程的 agent 系统。
@@ -220,7 +220,7 @@
 ## 19. claude-skills by alirezarezvani (11k ⭐)
 
 **🔗** https://github.com/alirezarezvani/claude-skills  
-**🍴** Fork 1.5k | **🔄** Updated Apr 13, 2026  
+**🍴** Fork 1.6k | **🔄** Updated Apr 13, 2026
 **👤** Alireza Rezvani — 独立开发者，专注跨 agent 平台的 skills 生态建设
 
 > 232+ Claude Code skills 和 agent 插件集合，覆盖 Claude Code、Codex、Gemini CLI、Cursor 等 8+ coding agent。涵盖工程、营销、产品、合规、C-level 咨询等场景。
@@ -260,7 +260,7 @@
 ## 23. skills by openclaw (4.2k ⭐)
 
 **🔗** https://github.com/openclaw/skills  
-**🍴** Fork 1.1k | **🔄** Updated Apr 20, 2026  
+**🍴** Fork 1.2k | **🔄** Updated Apr 20, 2026
 **👤** OpenClaw 官方团队 — OpenClaw agent 平台开发团队
 
 > OpenClaw 官方 Skills Registry 中所有版本 skills 的存档。
@@ -271,7 +271,7 @@
 
 **🔗** https://github.com/deanpeters/Product-Manager-Skills  
 **🍴** Fork 458 | **🔄** Updated Apr 2, 2026  
-**👤** Dean Peters — 资深产品经理，专注 AI agent 产品方法论与框架构建
+**👤** Dean Peters (deanpeters) — 资深产品经理、前工程师，deanondelivery.com 博主
 
 > 基于实战验证方法论的产品管理技能框架，适配 Claude Code、Cowork、Codex 和各类 AI agent。覆盖需求分析、市场调研、产品规格、竞争分析等 PM 核心工作流。
 
@@ -294,7 +294,7 @@
 
 ---
 
-*由 wind8 整理 | 2026-04-20*
+*由小乔、水镜自动抓取 & 整理 | 2026-04-20*
 
 ---
 
@@ -320,7 +320,7 @@
 - 超出时按星数淘汰最低者
 
 ### 更新维护
-- **描述优化**：wind8 会不定期审视并优化各项目的描述内容，确保信息准确、表达清晰
+- **描述优化**：小乔、水镜会不定期审视并优化各项目的描述内容，确保信息准确、表达清晰
 - **作者简介**：首次收录时补充，后续维护时按需修正
 - 发现页面星数变化 → 更新列表顺序
 - 新 star 的项目进入候选池，候选池满时按星数淘汰最低者

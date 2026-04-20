@@ -16,7 +16,7 @@
 04. [skills by anthropics — 120k ⭐](#4-skills-by-anthropics-120k-)  
 05. [andrej-karpathy-skills — 62k ⭐](#5-andrej-karpathy-skills-62k-)  
 06. [awesome-claude-skills by ComposioHQ — 55k ⭐](#6-awesome-claude-skills-by-composiohq-55k-)  
-07. [awesome-openclaw-skills — 46k ⭐](#7-awesome-openclaw-skills-46k-)  
+07. [awesome-openclaw-skills — 47k ⭐](#7-awesome-openclaw-skills-47k-)  
 08. [awesome-claude-code — 39k ⭐](#8-awesome-claude-code-39k-)  
 09. [graphify — 30k ⭐](#9-graphify-30k-)  
 10. [obsidian-skills — 25k ⭐](#10-obsidian-skills-25k-)  
@@ -50,7 +50,7 @@
 ## 2. superpowers (160k ⭐)
 
 **🔗** https://github.com/obra/superpowers  
-**🍴** Fork 13k | **🔄** Updated Apr 16, 2026  
+**🍴** Fork 14k | **🔄** Updated Apr 16, 2026
 **👤** Jesse Vincent — Founder of Keyboardio (renowned open-source mechanical keyboard company), veteran open-source contributor
 
 > A complete coding agent software development methodology and skills framework. Guides you to clarify goals and derive specs before coding, then drives tasks via subagents. Emphasizes TDD, YAGNI, and DRY principles.
@@ -70,7 +70,7 @@
 ## 4. skills by anthropics (120k ⭐)
 
 **🔗** https://github.com/anthropics/skills  
-**🍴** Fork 13k | **🔄** Updated Apr 16, 2026  
+**🍴** Fork 14k | **🔄** Updated Apr 16, 2026
 **👤** Anthropic official team — Creator of Claude, standard-setter for Agent Skills
 
 > Official Anthropic Agent Skills implementation. Skills are folders with instructions, scripts, and resources that Claude dynamically loads to enhance task performance. See [agentskills.io](http://agentskills.io) for the standard.
@@ -80,7 +80,7 @@
 ## 5. andrej-karpathy-skills (62k ⭐)
 
 **🔗** https://github.com/forrestchang/andrej-karpathy-skills  
-**🍴** Fork 5.4k | **🔄** Updated Apr 18, 2026  
+**🍴** Fork 5.5k | **🔄** Updated Apr 18, 2026
 **👤** Jiayuan Zhang (forrestchang) — Founder & CEO of Multica AI, focused on human-AI hybrid engineering teams
 
 > Distilled from Andrej Karpathy's (ex-OpenAI / Tesla AI) observations on LLM coding pitfalls. A single CLAUDE.md file to improve Claude Code behavior.
@@ -97,10 +97,10 @@
 
 ---
 
-## 7. awesome-openclaw-skills (46k ⭐)
+## 7. awesome-openclaw-skills (47k ⭐)
 
 **🔗** https://github.com/VoltAgent/awesome-openclaw-skills  
-**🍴** Fork 4.5k | **🔄** Updated Apr 20, 2026  
+**🍴** Fork 4.6k | **🔄** Updated Apr 20, 2026
 **👤** VoltAgent — Active OpenClaw ecosystem contributor, Skills Registry community maintainer
 
 > The ultimate OpenClaw Skills collection. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.
@@ -110,7 +110,7 @@
 ## 8. awesome-claude-code (39k ⭐)
 
 **🔗** https://github.com/hesreallyhim/awesome-claude-code  
-**🍴** Fork 3.2k | **🔄** Updated Apr 20, 2026  
+**🍴** Fork 3.3k | **🔄** Updated Apr 20, 2026
 **👤** hesreallyhim — Community curator focused on the Claude Code ecosystem
 
 > A curated list of Skills, Hooks, Slash Commands, agent orchestrators, apps, and plugins for Claude Code. The most comprehensive community resource for the Claude Code ecosystem.
@@ -121,7 +121,7 @@
 
 **🔗** https://github.com/safishamsi/graphify  
 **🍴** Fork 3.4k | **🔄** Updated Apr 18, 2026  
-**👤** Safi Shamsi — Cross-platform AI coding skill developer, supporting 10+ agents including Claude Code, Codex, Cursor, Gemini CLI
+**👤** Safi (safishamsi) — AI Engineer in London, MSc Data Science (Distinction) from University of Birmingham, specializing in Medical AI and Knowledge Graphs
 
 > Turns any folder of code, docs, papers, or images into a visual knowledge graph. Compatible with Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, and more.
 
@@ -151,16 +151,16 @@
 
 **🔗** https://github.com/mvanhorn/last30days-skill  
 **🍴** Fork 1.8k | **🔄** Updated Apr 19, 2026  
-**👤** mvanhorn — Independent developer focused on AI agent research and information synthesis
+**👤** Matt Van Horn (mvanhorn) — Serial entrepreneur, co-founded the company that became Lyft, co-founded June (smart oven, acquired by Weber)
 
-> Researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web, then synthesizes a grounded summary. A deep information-gathering skill designed for research-oriented AI agents.
+> AI agent research skill that searches any topic across Reddit, X, YouTube, Hacker News, Polymarket, and the web, then synthesizes a grounded summary report.
 
 ---
 
 ## 13. agent-skills by addyosmani (18k ⭐)
 
 **🔗** https://github.com/addyosmani/agent-skills  
-**🍴** Fork 2.2k | **🔄** Updated Apr 20, 2026  
+**🍴** Fork 2.3k | **🔄** Updated Apr 20, 2026
 **👤** Addy Osmani — Engineering Director at Google Chrome, author of *Learning JavaScript Design Patterns*, authority on frontend performance
 
 > Production-grade engineering skills for AI coding agents. Shell implementation covering key scenarios in modern engineering practice.
@@ -180,7 +180,7 @@
 ## 15. skills by openai (17k ⭐)
 
 **🔗** https://github.com/openai/skills  
-**🍴** Fork 1k | **🔄** Updated Apr 18, 2026  
+**🍴** Fork 1.1k | **🔄** Updated Apr 18, 2026
 **👤** OpenAI official team — Co-creator of the Codex Skills standard
 
 > The Codex Skills Catalog. Agent Skills are folders with instructions, scripts, and resources that AI agents can discover and use. Write once, use anywhere. See [agentskills.io](https://agentskills.io).
@@ -200,7 +200,7 @@
 ## 17. Agent-Skills-for-Context-Engineering (15k ⭐)
 
 **🔗** https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering  
-**🍴** Fork 1.1k | **🔄** Updated Apr 14, 2026  
+**🍴** Fork 1.2k | **🔄** Updated Apr 14, 2026
 **👤** Murat Can Koylan — Independent researcher and practitioner in Context Engineering
 
 > A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems.
@@ -220,7 +220,7 @@
 ## 19. claude-skills by alirezarezvani (11k ⭐)
 
 **🔗** https://github.com/alirezarezvani/claude-skills  
-**🍴** Fork 1.5k | **🔄** Updated Apr 13, 2026  
+**🍴** Fork 1.6k | **🔄** Updated Apr 13, 2026
 **👤** Alireza Rezvani — Independent developer focused on cross-platform agent skills
 
 > 232+ Claude Code skills and agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents. Covers engineering, marketing, product, compliance, and C-level advisory.
@@ -260,7 +260,7 @@
 ## 23. skills by openclaw (4.2k ⭐)
 
 **🔗** https://github.com/openclaw/skills  
-**🍴** Fork 1.1k | **🔄** Updated Apr 20, 2026  
+**🍴** Fork 1.2k | **🔄** Updated Apr 20, 2026
 **👤** OpenClaw official team — Developers of the OpenClaw agent platform
 
 > All versions of all skills on the OpenClaw Skills Registry, archived.
@@ -271,7 +271,7 @@
 
 **🔗** https://github.com/deanpeters/Product-Manager-Skills  
 **🍴** Fork 458 | **🔄** Updated Apr 2, 2026  
-**👤** Dean Peters — Veteran product manager, focused on AI agent product methodology and frameworks
+**👤** Dean Peters (deanpeters) — Veteran product manager and former engineer, blogger at deanondelivery.com
 
 > Product management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents. Covers requirements analysis, market research, product specs, competitive analysis, and more.
 
@@ -294,7 +294,7 @@
 
 ---
 
-*Curated by wind8 | 2026-04-20*
+*Curated & maintained by 小乔 and 水镜 | 2026-04-20*
 
 ---
 
