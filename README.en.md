@@ -4,40 +4,40 @@
 
 > Curated High-Star GitHub Skills Projects  
 > Source: wind8Geek Stars / Skills List  
-> Fetched: 2026-06-03  
+> Fetched: 2026-06-10  
 
 ---
 
 ## Contents
 
-01. [superpowers — 217k ⭐](#1-superpowers-217k-)  
-02. [ECC — 205k ⭐](#2-ecc-205k-)  
-03. [andrej-karpathy-skills — 167k ⭐](#3-andrej-karpathy-skills-167k-)  
-04. [skills by anthropics — 146k ⭐](#4-skills-by-anthropics-146k-)  
-05. [system-prompts-and-models-of-ai-tools — 139k ⭐](#5-system-prompts-and-models-of-ai-tools-139k-)  
-06. [skills by mattpocock — 116k ⭐](#6-skills-by-mattpocock-116k-)  
-07. [awesome-claude-skills by ComposioHQ — 63k ⭐](#7-awesome-claude-skills-by-composiohq-63k-)  
-08. [graphify — 59k ⭐](#8-graphify-59k-)  
-09. [awesome-openclaw-skills — 50k ⭐](#9-awesome-openclaw-skills-50k-)  
-10. [agent-skills by addyosmani — 48k ⭐](#10-agent-skills-by-addyosmani-48k-)  
-11. [awesome-claude-code — 46k ⭐](#11-awesome-claude-code-46k-)  
-12. [obsidian-skills — 34k ⭐](#12-obsidian-skills-34k-)  
-13. [claude-plugins-official — 29k ⭐](#13-claude-plugins-official-29k-)  
-14. [agent-skills by vercel-labs — 28k ⭐](#14-agent-skills-by-vercel-labs-28k-)  
-15. [last30days-skill — 27k ⭐](#15-last30days-skill-27k-)  
-16. [academic-research-skills — 27k ⭐](#16-academic-research-skills-27k-)  
-17. [skills by openai — 21k ⭐](#17-skills-by-openai-21k-)  
-18. [skills by vercel-labs — 21k ⭐](#18-skills-by-vercel-labs-21k-)  
-19. [claude-skills by alirezarezvani — 17k ⭐](#19-claude-skills-by-alirezarezvani-17k-)  
-20. [Agent-Skills-for-Context-Engineering — 16k ⭐](#20-agent-skills-for-context-engineering-16k-)  
-21. [awesome-codex-skills by ComposioHQ — 13k ⭐](#21-awesome-codex-skills-by-composiohq-13k-)  
-22. [skills by MiniMax-AI — 12k ⭐](#22-skills-by-minimax-ai-12k-)  
-23. [skills by slavingia — 9k ⭐](#23-skills-by-slavingia-9k-)  
-24. [skills by trailofbits — 5.5k ⭐](#24-skills-by-trailofbits-55k-)  
+01. [superpowers — 222k ⭐](#1-superpowers-)
+02. [ECC — 212k ⭐](#2-ecc-)
+03. [andrej-karpathy-skills — 172k ⭐](#3-andrej-karpathy-skills-)
+04. [skills by anthropics — 148k ⭐](#4-skills-by-anthropics-)
+05. [system-prompts-and-models-of-ai-tools — 139k ⭐](#5-system-prompts-and-models-of-ai-tools-)
+06. [skills by mattpocock — 123k ⭐](#6-skills-by-mattpocock-)
+07. [graphify — 64k ⭐](#7-graphify-)
+08. [awesome-claude-skills by ComposioHQ — 63k ⭐](#8-awesome-claude-skills-by-composiohq-)
+09. [agent-skills by addyosmani — 50k ⭐](#9-agent-skills-by-addyosmani-)
+10. [awesome-openclaw-skills — 50k ⭐](#10-awesome-openclaw-skills-)
+11. [awesome-claude-code — 46k ⭐](#11-awesome-claude-code-)
+12. [last30days-skill — 38k ⭐](#12-last30days-skill-)
+13. [obsidian-skills — 35k ⭐](#13-obsidian-skills-)
+14. [academic-research-skills — 29k ⭐](#14-academic-research-skills-)
+15. [claude-plugins-official — 29k ⭐](#15-claude-plugins-official-)
+16. [agent-skills by vercel-labs — 27k ⭐](#16-agent-skills-by-vercel-labs-)
+17. [skills by openai — 21k ⭐](#17-skills-by-openai-)
+18. [skills by vercel-labs — 21k ⭐](#18-skills-by-vercel-labs-)
+19. [claude-skills by alirezarezvani — 17k ⭐](#19-claude-skills-by-alirezarezvani-)
+20. [Agent-Skills-for-Context-Engineering — 16k ⭐](#20-agent-skills-for-context-engineering-)
+21. [awesome-codex-skills by ComposioHQ — 13k ⭐](#21-awesome-codex-skills-by-composiohq-)
+22. [skills by MiniMax-AI — 12k ⭐](#22-skills-by-minimax-ai-)
+23. [skills by slavingia — 9.1k ⭐](#23-skills-by-slavingia-)
+24. [skills by trailofbits — 5.5k ⭐](#24-skills-by-trailofbits-)
 
 ---
 
-## 1. superpowers (217k ⭐)
+## 1. superpowers (222k ⭐)
 
 **🔗** https://github.com/obra/superpowers  
 **🍴** Forks 19k | **🔄** Updated May 29, 2026  
@@ -47,7 +47,7 @@
 
 ---
 
-## 2. ECC (205k ⭐)
+## 2. ECC (212k ⭐)
 
 **🔗** https://github.com/affaan-m/ECC  
 **🍴** Forks 31k | **🔄** Updated May 29, 2026  
@@ -57,7 +57,7 @@
 
 ---
 
-## 3. andrej-karpathy-skills (167k ⭐)
+## 3. andrej-karpathy-skills (172k ⭐)
 
 **🔗** https://github.com/multica-ai/andrej-karpathy-skills  
 **🍴** Forks 17k | **🔄** Updated May 29, 2026  
@@ -67,7 +67,7 @@
 
 ---
 
-## 4. skills by anthropics (146k ⭐)
+## 4. skills by anthropics (148k ⭐)
 
 **🔗** https://github.com/anthropics/skills  
 **🍴** Forks 17k | **🔄** Updated May 29, 2026  
@@ -87,7 +87,7 @@
 
 ---
 
-## 6. skills by mattpocock (116k ⭐)
+## 6. skills by mattpocock (123k ⭐)
 
 **🔗** https://github.com/mattpocock/skills  
 **🍴** Forks 10k | **🔄** Updated May 29, 2026  
@@ -97,17 +97,7 @@
 
 ---
 
-## 7. awesome-claude-skills by ComposioHQ (63k ⭐)
-
-**🔗** https://github.com/ComposioHQ/awesome-claude-skills  
-**🍴** Forks 6.9k | **🔄** Updated May 29, 2026  
-**👤** ComposioHQ — AI tool integration platform company, focused on agent toolchain ecosystem
-
-> Curated Claude Skills list covering workflow customization, resource tools, and practical cases. Provides curated resources and support for customizing Claude AI workflows.
-
----
-
-## 8. graphify (59k ⭐)
+## 7. graphify (64k ⭐)
 
 **🔗** https://github.com/safishamsi/graphify  
 **🍴** Forks 6.1k | **🔄** Updated May 29, 2026  
@@ -117,23 +107,33 @@
 
 ---
 
-## 9. awesome-openclaw-skills (50k ⭐)
+## 8. awesome-claude-skills by ComposioHQ (63k ⭐)
 
-**🔗** https://github.com/VoltAgent/awesome-openclaw-skills  
-**🍴** Forks 4.9k | **🔄** Updated May 29, 2026  
-**👤** VoltAgent — deep participant in OpenClaw ecosystem, Skills Registry community maintenance team
+**🔗** https://github.com/ComposioHQ/awesome-claude-skills  
+**🍴** Forks 6.9k | **🔄** Updated May 29, 2026  
+**👤** ComposioHQ — AI tool integration platform company, focused on agent toolchain ecosystem
 
-> Comprehensive OpenClaw Skills collection. Filtered and categorized 5,400+ skills from the official Skills Registry, currently the most complete OpenClaw skills library.
+> Curated Claude Skills list covering workflow customization, resource tools, and practical cases. Provides curated resources and support for customizing Claude AI workflows.
 
 ---
 
-## 10. agent-skills by addyosmani (48k ⭐)
+## 9. agent-skills by addyosmani (50k ⭐)
 
 **🔗** https://github.com/addyosmani/agent-skills  
 **🍴** Forks 5.3k | **🔄** Updated May 29, 2026  
 **👤** Addy Osmani — Engineering Director of Google Chrome, author of "Learning JavaScript Design Patterns", authority in frontend performance
 
 > Production-grade AI coding agent engineering skills collection. Shell implementation covering key scenarios in modern engineering practice.
+
+---
+
+## 10. awesome-openclaw-skills (50k ⭐)
+
+**🔗** https://github.com/VoltAgent/awesome-openclaw-skills  
+**🍴** Forks 4.9k | **🔄** Updated May 29, 2026  
+**👤** VoltAgent — deep participant in OpenClaw ecosystem, Skills Registry community maintenance team
+
+> Comprehensive OpenClaw Skills collection. Filtered and categorized 5,400+ skills from the official Skills Registry, currently the most complete OpenClaw skills library.
 
 ---
 
@@ -147,37 +147,7 @@
 
 ---
 
-## 12. obsidian-skills (34k ⭐)
-
-**🔗** https://github.com/kepano/obsidian-skills  
-**🍴** Forks 2.4k | **🔄** Updated May 29, 2026  
-**👤** Steph Ango (kepano) — Obsidian CEO, minimalist design philosophy advocate
-
-> Agent Skills for Obsidian, teaching your agent how to use Markdown, Bases, JSON Canvas, and the CLI.
-
----
-
-## 13. claude-plugins-official (29k ⭐)
-
-**🔗** https://github.com/anthropics/claude-plugins-official  
-**🍴** Forks 3.1k | **🔄** Updated May 29, 2026  
-**👤** Anthropic official team — Claude's parent company maintaining the high-quality plugin directory
-
-> High-quality Claude Code Plugins directory maintained by Anthropic.
-
----
-
-## 14. agent-skills by vercel-labs (28k ⭐)
-
-**🔗** https://github.com/vercel-labs/agent-skills  
-**🍴** Forks 2.5k | **🔄** Updated May 29, 2026  
-**👤** Vercel Labs — Vercel's official lab, leading company in frontend infrastructure
-
-> Vercel's official agent skills collection. Provides agent extension capabilities related to the Vercel platform, JavaScript implementation.
-
----
-
-## 15. last30days-skill (27k ⭐)
+## 12. last30days-skill (38k ⭐)
 
 **🔗** https://github.com/mvanhorn/last30days-skill  
 **🍴** Forks 2.3k | **🔄** Updated May 29, 2026  
@@ -187,13 +157,43 @@
 
 ---
 
-## 16. academic-research-skills (27k ⭐)
+## 13. obsidian-skills (35k ⭐)
+
+**🔗** https://github.com/kepano/obsidian-skills  
+**🍴** Forks 2.4k | **🔄** Updated May 29, 2026  
+**👤** Steph Ango (kepano) — Obsidian CEO, minimalist design philosophy advocate
+
+> Agent Skills for Obsidian, teaching your agent how to use Markdown, Bases, JSON Canvas, and the CLI.
+
+---
+
+## 14. academic-research-skills (29k ⭐)
 
 **🔗** https://github.com/Imbad0202/academic-research-skills  
 **🍴** Forks 2.2k | **🔄** Updated May 29, 2026  
 **👤** Edward Cheng-I Wu (Imbad0202) — independent developer focused on academic research and AI workflow integration
 
 > Academic research Skills for Claude Code: Research → Writing → Review → Revision → Final, covering the entire academic paper workflow.
+
+---
+
+## 15. claude-plugins-official (29k ⭐)
+
+**🔗** https://github.com/anthropics/claude-plugins-official  
+**🍴** Forks 3.1k | **🔄** Updated May 29, 2026  
+**👤** Anthropic official team — Claude's parent company maintaining the high-quality plugin directory
+
+> High-quality Claude Code Plugins directory maintained by Anthropic.
+
+---
+
+## 16. agent-skills by vercel-labs (27k ⭐)
+
+**🔗** https://github.com/vercel-labs/agent-skills  
+**🍴** Forks 2.5k | **🔄** Updated May 29, 2026  
+**👤** Vercel Labs — Vercel's official lab, leading company in frontend infrastructure
+
+> Vercel's official agent skills collection. Provides agent extension capabilities related to the Vercel platform, JavaScript implementation.
 
 ---
 
@@ -257,7 +257,7 @@
 
 ---
 
-## 23. skills by slavingia (9k ⭐)
+## 23. skills by slavingia (9.1k ⭐)
 
 **🔗** https://github.com/slavingia/skills  
 **🍴** Forks 921 | **🔄** Updated May 28, 2026  
@@ -277,61 +277,7 @@
 
 ---
 
-## Candidates
-
-| # | Project | Link | Stars | Description |
-|---|---------|------|-------|-------------|
-| 1 | lijigang/ljg-skills | https://github.com/lijigang/ljg-skills | 5.5k ⭐ | Personal skills collection covering flashcards, learning, papers, writing, and other Chinese-language scenarios |
-| 2 | deanpeters/Product-Manager-Skills | https://github.com/deanpeters/Product-Manager-Skills | 4.7k ⭐ | Product management skills framework, adapted for Claude Code / Cowork / Codex |
-| 3 | Dimillian/Skills | https://github.com/Dimillian/Skills | 3.6k ⭐ | Dimillian's personal Codex Skills collection, Shell implementation |
-| 4 | google-gemini/gemini-skills | https://github.com/google-gemini/gemini-skills | 3.6k ⭐ | Skills for Gemini API, SDK, and model/agent interaction |
-| 5 | pasky/chrome-cdp-skill | https://github.com/pasky/chrome-cdp-skill | 3.1k ⭐ | Let AI agents directly take over open Chrome tabs via CDP protocol |
-| 6 | axtonliu/axton-obsidian-visual-skills | https://github.com/axtonliu/axton-obsidian-visual-skills | 3.0k ⭐ | Obsidian visualization skills generating Canvas/Excalidraw/Mermaid diagrams |
-| 7 | FreedomIntelligence/OpenClaw-Medical-Skills | https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills | 2.6k ⭐ | Largest open-source medical AI skills library, built for OpenClaw |
-| 8 | microsoft/skills | https://github.com/microsoft/skills | 2.5k ⭐ | Microsoft official release, Skills for SDK, MCP servers, Custom Agents |
-| 9 | cisco-ai-defense/skill-scanner | https://github.com/cisco-ai-defense/skill-scanner | 2.1k ⭐ | Cisco's Agent Skills security scanner |
-| 10 | browser-act/skills | https://github.com/browser-act/skills | 1.7k ⭐ | Browser automation CLI built for AI agents, supports multi-task parallelism |
-| 11 | wuji-labs/nopua | https://github.com/wuji-labs/nopua | 1.3k ⭐ | Skill to liberate AI potential with care instead of threats, improving AI output quality |
-| 12 | Kappaemme-git/codex-startup-pressure-test-skill | https://github.com/Kappaemme-git/codex-startup-pressure-test-skill | 897 ⭐ | Codex startup pressure test skill, JavaScript implementation |
-| 13 | warpdotdev/oz-skills | https://github.com/warpdotdev/oz-skills | 805 ⭐ | Agent skills from the Warp team, Python implementation |
-| 14 | imxv/Pretty-mermaid-skills | https://github.com/imxv/Pretty-mermaid-skills | 735 ⭐ | Mermaid diagram rendering capability, supports SVG and ASCII output |
-| 15 | antvis/chart-visualization-skills | https://github.com/antvis/chart-visualization-skills | 323 ⭐ | AntV's chart visualization skills, transforming data into visual charts with TypeScript |
-| 16 | share-skills/pi | https://github.com/share-skills/pi | 103 ⭐ | PI (π) — when "The Art of War" meets cognitive science, a thinking framework for AI |
-| 17 | didixuxu/didi-skills | https://github.com/didixuxu/didi-skills | 59 ⭐ | Competitor analysis, market size estimation, academic paper reading skills, Python implementation |
-| 18 | YouMind-OpenLab/skills | https://github.com/YouMind-OpenLab/skills | 51 ⭐ | YouMind's Claude Code skills, TypeScript implementation |
-
----
-
-## Removed
-
-| Project | Reason | Date |
-|---------|--------|------|
-| openclaw/skills ❌ | Removed from wind8Geek Skills list | 2026-05-08 |
-
----
-
-*Curated by wind8 | 2026-06-03*
-
----
-
-## Inclusion Rules
-
-### Source
-- Only repos from wind8Geek's GitHub Stars marked under the `Skills` list
-- URL: https://github.com/stars/wind8Geek/lists/skills
-- **Note**: The list is paginated — all pages must be checked
-
-### Inclusion Criteria
-1. Based on wind8Geek's stars — starred means included, no secondary judgment
-2. Must be public repos
-3. Star ≥ 500 (unless exceptionally representative)
-4. Formal list capped at **24**, sorted by star count descending; rest go to candidates
-
-### Sorting
-- By total GitHub Stars descending
-- Stars shown in magnitude format (217k, 205k...), no detail
-
-### Candidate Pool
+## Candidate Pool
 - Capped at **24** (24 formal + 24 candidates = 48)
 - When exceeded, lowest by stars are dropped
 
