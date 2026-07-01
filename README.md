@@ -264,7 +264,7 @@
 **🍴** Fork 2.1k | **🔄** Updated 2026-06-16  
 **👤** OthmanAdi — 开源开发者
 
-> （待补充中文描述）
+> 面向 AI coding agent 的持久化文件规划 Skill。用 Markdown 计划文件对抗上下文丢失与 /clear，附带确定性完成门禁，适合长周期 agentic 任务。
 
 **匹配能力**：🤖 Agent 集成
 
@@ -324,7 +324,7 @@
 **🍴** Fork 2.8k | **🔄** Updated 2026-07-01  
 **👤** jnMetaCode — 开源开发者
 
-> （待补充中文描述）
+> 266 个即插即用的 AI 专家角色，覆盖工程/设计/营销/金融等 20 个部门；含 50 个中国市场原创智能体，配合 agency-orchestrator 实现 DAG 多专家协作。
 
 **匹配能力**：🤖 Agent 集成
 
@@ -372,7 +372,7 @@
 **🍴** Fork 1.2k | **🔄** Updated 2026-06-30  
 **👤** wanshuiyin — 开源开发者
 
-> （待补充中文描述）
+> ARIS 纯 Markdown Skills，支持跨模型评审、idea 发现与实验自动化，实现「睡后」自主 ML 研究循环。无框架绑定，兼容 Claude Code / Codex 等主流 Agent。
 
 **匹配能力**：🤖 Agent 集成
 
@@ -396,7 +396,7 @@
 **🍴** Fork 1.1k | **🔄** Updated 2026-06-10  
 **👤** revfactory — 开源开发者
 
-> （待补充中文描述）
+> 元 Skill：自动设计领域专属 Agent 团队、定义专岗 Agent 并生成其所需 Skills，适合快速搭建多角色协作工作流。
 
 **匹配能力**：🤖 Agent 集成
 
@@ -420,7 +420,7 @@
 **🍴** Fork 897 | **🔄** Updated 2026-06-30  
 **👤** virgiliojr94 — 开源开发者
 
-> （待补充中文描述）
+> 将技术书籍 PDF 一键转为 Claude Code Skill，便于边开发边查阅、学习与引用书中知识。
 
 **匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
 
@@ -572,7 +572,7 @@
 
 - [superpowers](#1-obrasuperpowers-243k-) — 完整的 coding agent 软件开发方法论与技能框架
 - [andrej-karpathy-skills](#2-multica-aiandrej-karpathy-skills-186k-) — 整理自 Andrej Karpathy（前 OpenAI / Tesla AI 负责人）的 LLM 编码陷阱观察，以单个…
-- [planning-with-files](#18-othmanadiplanning-with-files-24k-) — （待补充中文描述）
+- [planning-with-files](#18-othmanadiplanning-with-files-24k-) — 面向 AI coding agent 的持久化文件规划 Skill
 - [Agent-Skills-for-Context-Engineering](#22-muratcankoylanagent-skills-for-context-engineering-17k-) — Context Engineering、多 Agent 架构和生产级 agent 系统的全面技能集合
 - [stop-slop](#25-hardikpandyastop-slop-13k-) — 去除 AI 写作痕迹的技能文件
 - [darwin-skill](#35-alchaincyfdarwin-skill-45k-) — 达尔文.skill —— 让所有 Skill 自主进化的系统
@@ -598,13 +598,13 @@
 - [taste-skill](#9-leonxlnxtaste-skill-54k-) — 开源设计品味技能，为 Cursor、Codex、Claude Code、Devin 等 AI coding agent …
 - [last30days-skill](#11-mvanhornlast30days-skill-48k-) — AI agent 研究技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket 及全网…
 - [claude-skills](#21-alirezarezvaniclaude-skills-20k-) — 337 Claude Code skills 和 agent 插件集合，覆盖 Claude Code、Codex、Gem…
-- [agency-agents-zh](#23-jnmetacodeagency-agents-zh-16k-) — （待补充中文描述）
+- [agency-agents-zh](#23-jnmetacodeagency-agents-zh-16k-) — 266 个即插即用的 AI 专家角色，覆盖工程/设计/营销/金融等 20 个部门；含 50 个中国市场原创智能体，配合 …
 - [skills](#26-minimax-aiskills-13k-) — MiniMax AI Skills 集合，C# 实现
-- [Auto-claude-code-research-in-sleep](#27-wanshuiyinauto-claude-code-research-in-sleep-13k-) — （待补充中文描述）
+- [Auto-claude-code-research-in-sleep](#27-wanshuiyinauto-claude-code-research-in-sleep-13k-) — ARIS 纯 Markdown Skills，支持跨模型评审、idea 发现与实验自动化，实现「睡后」自主 ML 研究循…
 - [skills](#28-slavingiaskills-93k-) — 基于 Sahil Lavingia 的《The Minimalist Entrepreneur》理念的 Claude C…
-- [harness](#29-revfactoryharness-81k-) — （待补充中文描述）
+- [harness](#29-revfactoryharness-81k-) — 元 Skill：自动设计领域专属 Agent 团队、定义专岗 Agent 并生成其所需 Skills，适合快速搭建多角色…
 - [html-anything](#30-nexu-iohtml-anything-75k-) — Agentic HTML 编辑器——本地 AI agent 写 HTML，你直接发布
-- [book-to-skill](#31-virgiliojr94book-to-skill-73k-) — （待补充中文描述）
+- [book-to-skill](#31-virgiliojr94book-to-skill-73k-) — 将技术书籍 PDF 一键转为 Claude Code Skill，便于边开发边查阅、学习与引用书中知识
 - [ljg-skills](#32-lijigangljg-skills-63k-) — 个人 skills 集合，涵盖闪卡、学习、论文、写作等中文场景
 - [skills](#33-trailofbitsskills-59k-) — Trail of Bits 的安全研究、漏洞检测和审计工作流 Claude Code skills
 - [Skills](#36-dimillianskills-38k-) — Dimillian 的个人 Codex Skills 集合，Shell 实现
