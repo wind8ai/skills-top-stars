@@ -618,8 +618,8 @@
 
 ## 收录规则
 
-- 收录标准、条目模版与维护流程见 [top-stars-ops 规范](https://github.com/wind8ai/top-stars-ops/blob/main/docs/top-stars-ops-spec.md)
-- 正式榜上限 **42** 个，按 Star 倒序
+- 收录标准：wind8ai 已 star 且在该类目 Star List 中即收录，按 GitHub Star 总数降序
+- 正式榜上限 **42** 个，最低门槛 Star ≥ 500
 - 数据来源：wind8ai [Star List `skills`](https://github.com/stars/wind8ai/lists/skills)
 
 ---

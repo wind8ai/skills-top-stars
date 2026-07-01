@@ -618,8 +618,8 @@
 
 ## Collection Rules
 
-- See [top-stars-ops spec](https://github.com/wind8ai/top-stars-ops/blob/main/docs/top-stars-ops-spec.md)
-- Formal list cap: **42**, sorted by GitHub Stars
+- Inclusion: wind8ai has starred the repo and it appears in this category's Star List; ranked by total GitHub Stars
+- Formal list cap: **42**, minimum **500** stars
 - Source: wind8ai [Star List `skills`](https://github.com/stars/wind8ai/lists/skills)
 
 ---
