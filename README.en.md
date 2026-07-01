@@ -11,7 +11,7 @@
 
 01. [obra/superpowers (243k ⭐)](#1-obrasuperpowers-243k-)
 02. [affaan-m/ECC (224k ⭐)](#2-affaan-mecc-224k-)
-03. [multica-ai/andrej-karpathy-skills (185k ⭐)](#3-multica-aiandrej-karpathy-skills-185k-)
+03. [multica-ai/andrej-karpathy-skills (186k ⭐)](#3-multica-aiandrej-karpathy-skills-186k-)
 04. [anthropics/skills (157k ⭐)](#4-anthropicsskills-157k-)
 05. [mattpocock/skills (152k ⭐)](#5-mattpocockskills-152k-)
 06. [x1xhlol/system-prompts-and-models-of-ai-tools (141k ⭐)](#6-x1xhlolsystem-prompts-and-models-of-ai-tools-141k-)
@@ -36,7 +36,7 @@
 25. [hardikpandya/stop-slop (13k ⭐)](#25-hardikpandyastop-slop-13k-)
 26. [MiniMax-AI/skills (13k ⭐)](#26-minimax-aiskills-13k-)
 27. [wanshuiyin/Auto-claude-code-research-in-sleep (13k ⭐)](#27-wanshuiyinauto-claude-code-research-in-sleep-13k-)
-28. [mindfold-ai/Trellis (11k ⭐)](#28-mindfold-aitrellis-11k-)
+28. [mindfold-ai/Trellis (12k ⭐)](#28-mindfold-aitrellis-12k-)
 29. [slavingia/skills (9.3k ⭐)](#29-slavingiaskills-93k-)
 30. [nexu-io/html-anything (7.4k ⭐)](#30-nexu-iohtml-anything-74k-)
 31. [virgiliojr94/book-to-skill (7.3k ⭐)](#31-virgiliojr94book-to-skill-73k-)
@@ -78,7 +78,7 @@
 
 ---
 
-## 3. multica-ai/andrej-karpathy-skills (185k ⭐)
+## 3. multica-ai/andrej-karpathy-skills (186k ⭐)
 
 **🔗** https://github.com/multica-ai/andrej-karpathy-skills  
 **🍴** Forks 19k | **🔄** Updated 2026-04-20  
@@ -105,7 +105,7 @@
 ## 5. mattpocock/skills (152k ⭐)
 
 **🔗** https://github.com/mattpocock/skills  
-**🍴** Forks 13k | **🔄** Updated 2026-06-30  
+**🍴** Forks 13k | **🔄** Updated 2026-07-01  
 **👤** Matt Pocock — Well-known TypeScript education KOL, founder of Total TypeScript, former Vercel / Stately engineer
 
 > Matt Pocock's personal skills directory, curated directly from his .claude directory. For real engineers. Shell implementation.
@@ -225,7 +225,7 @@
 ## 15. Imbad0202/academic-research-skills (36k ⭐)
 
 **🔗** https://github.com/Imbad0202/academic-research-skills  
-**🍴** Forks 2.9k | **🔄** Updated 2026-06-24  
+**🍴** Forks 2.9k | **🔄** Updated 2026-07-01  
 **👤** Edward Cheng-I Wu (Imbad0202) — Independent developer, focused on integrating academic research with AI workflows
 
 > Academic research Skills for Claude Code: Research → Writing → Review → Revision → Finalization, covering the complete academic paper workflow.
@@ -378,10 +378,10 @@
 
 ---
 
-## 28. mindfold-ai/Trellis (11k ⭐)
+## 28. mindfold-ai/Trellis (12k ⭐)
 
 **🔗** https://github.com/mindfold-ai/Trellis  
-**🍴** Forks 647 | **🔄** Updated 2026-06-30  
+**🍴** Forks 649 | **🔄** Updated 2026-07-01  
 **👤** mindfold-ai — open-source developer
 
 > The best agent harness.
@@ -405,7 +405,7 @@
 ## 30. nexu-io/html-anything (7.4k ⭐)
 
 **🔗** https://github.com/nexu-io/html-anything  
-**🍴** Forks 730 | **🔄** Updated 2026-06-16  
+**🍴** Forks 731 | **🔄** Updated 2026-06-16  
 **👤** nexu — Open-source Claude Design alternative team, local-first, BYOK model
 
 > The agentic HTML editor — your local AI agent writes the HTML, you ship it. 75 Skills × 9 Surfaces (magazine, deck, poster, XHS/tweet, prototype, data report, Hyperframes), sandboxed iframe preview, exports as HTML/PDF/PPTX/ZIP.
@@ -417,7 +417,7 @@
 ## 31. virgiliojr94/book-to-skill (7.3k ⭐)
 
 **🔗** https://github.com/virgiliojr94/book-to-skill  
-**🍴** Forks 893 | **🔄** Updated 2026-06-30  
+**🍴** Forks 896 | **🔄** Updated 2026-06-30  
 **👤** virgiliojr94 — open-source developer
 
 > Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
@@ -429,7 +429,7 @@
 ## 32. lijigang/ljg-skills (6.3k ⭐)
 
 **🔗** https://github.com/lijigang/ljg-skills  
-**🍴** Forks 740 | **🔄** Updated 2026-06-30  
+**🍴** Forks 743 | **🔄** Updated 2026-06-30  
 **👤** lijigang — Individual developer, deep practitioner of Chinese-language skill scenarios
 
 > Personal skills collection covering flashcards, learning, academic papers, and writing — optimized for Chinese-language scenarios.
@@ -489,7 +489,7 @@
 ## 37. google-gemini/gemini-skills (3.7k ⭐)
 
 **🔗** https://github.com/google-gemini/gemini-skills  
-**🍴** Forks 368 | **🔄** Updated 2026-06-30  
+**🍴** Forks 370 | **🔄** Updated 2026-06-30  
 **👤** Google Gemini Official Team — Maintainers of the Gemini API and SDK
 
 > Skills for Gemini API, SDK, and model/agent interaction.
@@ -537,7 +537,7 @@
 ## 41. FreedomIntelligence/OpenClaw-Medical-Skills (2.8k ⭐)
 
 **🔗** https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills  
-**🍴** Forks 388 | **🔄** Updated 2026-06-18  
+**🍴** Forks 389 | **🔄** Updated 2026-06-18  
 **👤** FreedomIntelligence — Open-source team in the Medical AI space
 
 > The largest open-source medical AI skills library, built specifically for OpenClaw.
@@ -549,7 +549,7 @@
 ## 42. microsoft/skills (2.6k ⭐)
 
 **🔗** https://github.com/microsoft/skills  
-**🍴** Forks 299 | **🔄** Updated 2026-06-29  
+**🍴** Forks 301 | **🔄** Updated 2026-06-29  
 **👤** Microsoft Official Team — Builders of the SDK and developer tools ecosystem
 
 > Microsoft official Skills, MCP servers, and Custom Agents for SDKs. TypeScript implementation.
@@ -572,7 +572,7 @@
 
 - [superpowers](#1-obrasuperpowers-243k-) — A complete coding agent software development methodology and…
 - [ECC](#2-affaan-mecc-224k-) — Full-stack Agent Harness performance optimization system
-- [andrej-karpathy-skills](#3-multica-aiandrej-karpathy-skills-185k-) — Distilled from Andrej Karpathy's (former OpenAI / Tesla AI l…
+- [andrej-karpathy-skills](#3-multica-aiandrej-karpathy-skills-186k-) — Distilled from Andrej Karpathy's (former OpenAI / Tesla AI l…
 - [planning-with-files](#19-othmanadiplanning-with-files-24k-) — Persistent file-based planning for AI coding agents and long…
 - [Agent-Skills-for-Context-Engineering](#23-muratcankoylanagent-skills-for-context-engineering-17k-) — Comprehensive skill set for Context Engineering, multi-agent…
 - [stop-slop](#25-hardikpandyastop-slop-13k-) — A skill file for removing AI tells from prose
@@ -602,7 +602,7 @@
 - [claude-skills](#22-alirezarezvaniclaude-skills-20k-) — 337 Claude Code skills and agent plugins covering Claude Cod…
 - [skills](#26-minimax-aiskills-13k-) — MiniMax AI Skills collection
 - [Auto-claude-code-research-in-sleep](#27-wanshuiyinauto-claude-code-research-in-sleep-13k-) — ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only…
-- [Trellis](#28-mindfold-aitrellis-11k-) — The best agent harness
+- [Trellis](#28-mindfold-aitrellis-12k-) — The best agent harness
 - [skills](#29-slavingiaskills-93k-) — Claude Code skills based on Sahil Lavingia's "The Minimalist…
 - [html-anything](#30-nexu-iohtml-anything-74k-) — The agentic HTML editor — your local AI agent writes the HTM…
 - [book-to-skill](#31-virgiliojr94book-to-skill-73k-) — Turn any technical book PDF into a Claude Code skill — ready…

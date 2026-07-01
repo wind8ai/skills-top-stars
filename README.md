@@ -11,7 +11,7 @@
 
 01. [obra/superpowers (243k ⭐)](#1-obrasuperpowers-243k-)
 02. [affaan-m/ECC (224k ⭐)](#2-affaan-mecc-224k-)
-03. [multica-ai/andrej-karpathy-skills (185k ⭐)](#3-multica-aiandrej-karpathy-skills-185k-)
+03. [multica-ai/andrej-karpathy-skills (186k ⭐)](#3-multica-aiandrej-karpathy-skills-186k-)
 04. [anthropics/skills (157k ⭐)](#4-anthropicsskills-157k-)
 05. [mattpocock/skills (152k ⭐)](#5-mattpocockskills-152k-)
 06. [x1xhlol/system-prompts-and-models-of-ai-tools (141k ⭐)](#6-x1xhlolsystem-prompts-and-models-of-ai-tools-141k-)
@@ -36,7 +36,7 @@
 25. [hardikpandya/stop-slop (13k ⭐)](#25-hardikpandyastop-slop-13k-)
 26. [MiniMax-AI/skills (13k ⭐)](#26-minimax-aiskills-13k-)
 27. [wanshuiyin/Auto-claude-code-research-in-sleep (13k ⭐)](#27-wanshuiyinauto-claude-code-research-in-sleep-13k-)
-28. [mindfold-ai/Trellis (11k ⭐)](#28-mindfold-aitrellis-11k-)
+28. [mindfold-ai/Trellis (12k ⭐)](#28-mindfold-aitrellis-12k-)
 29. [slavingia/skills (9.3k ⭐)](#29-slavingiaskills-93k-)
 30. [nexu-io/html-anything (7.4k ⭐)](#30-nexu-iohtml-anything-74k-)
 31. [virgiliojr94/book-to-skill (7.3k ⭐)](#31-virgiliojr94book-to-skill-73k-)
@@ -78,7 +78,7 @@
 
 ---
 
-## 3. multica-ai/andrej-karpathy-skills (185k ⭐)
+## 3. multica-ai/andrej-karpathy-skills (186k ⭐)
 
 **🔗** https://github.com/multica-ai/andrej-karpathy-skills  
 **🍴** Fork 19k | **🔄** Updated 2026-04-20  
@@ -105,7 +105,7 @@
 ## 5. mattpocock/skills (152k ⭐)
 
 **🔗** https://github.com/mattpocock/skills  
-**🍴** Fork 13k | **🔄** Updated 2026-06-30  
+**🍴** Fork 13k | **🔄** Updated 2026-07-01  
 **👤** Matt Pocock — TypeScript 教育领域知名 KOL，Total TypeScript 创始人，前 Vercel / Stately 工程师
 
 > Matt Pocock 的个人 skills 目录，直接从他的 .claude 目录整理而来。面向真正的工程师，Shell 实现。
@@ -225,7 +225,7 @@
 ## 15. Imbad0202/academic-research-skills (36k ⭐)
 
 **🔗** https://github.com/Imbad0202/academic-research-skills  
-**🍴** Fork 2.9k | **🔄** Updated 2026-06-24  
+**🍴** Fork 2.9k | **🔄** Updated 2026-07-01  
 **👤** Edward Cheng-I Wu (Imbad0202) — 独立开发者，专注学术研究与 AI 工作流融合
 
 > 面向 Claude Code 的学术研究 Skills：研究 → 写作 → 审阅 → 修订 → 定稿，覆盖学术论文全流程。
@@ -378,10 +378,10 @@
 
 ---
 
-## 28. mindfold-ai/Trellis (11k ⭐)
+## 28. mindfold-ai/Trellis (12k ⭐)
 
 **🔗** https://github.com/mindfold-ai/Trellis  
-**🍴** Fork 647 | **🔄** Updated 2026-06-30  
+**🍴** Fork 649 | **🔄** Updated 2026-07-01  
 **👤** mindfold-ai — 开源开发者
 
 > （待补充中文描述）
@@ -405,7 +405,7 @@
 ## 30. nexu-io/html-anything (7.4k ⭐)
 
 **🔗** https://github.com/nexu-io/html-anything  
-**🍴** Fork 730 | **🔄** Updated 2026-06-16  
+**🍴** Fork 731 | **🔄** Updated 2026-06-16  
 **👤** nexu — 开源 Claude Design 替代品团队，本地优先、BYOK 模式
 
 > Agentic HTML 编辑器——本地 AI agent 写 HTML，你直接发布。75 Skills × 9 Surfaces（杂志、幻灯片、海报、XHS/tweet、原型、数据报告、Hyperframes），沙盒 iframe 预览，导出 HTML/PDF/PPTX/ZIP。
@@ -417,7 +417,7 @@
 ## 31. virgiliojr94/book-to-skill (7.3k ⭐)
 
 **🔗** https://github.com/virgiliojr94/book-to-skill  
-**🍴** Fork 893 | **🔄** Updated 2026-06-30  
+**🍴** Fork 896 | **🔄** Updated 2026-06-30  
 **👤** virgiliojr94 — 开源开发者
 
 > （待补充中文描述）
@@ -429,7 +429,7 @@
 ## 32. lijigang/ljg-skills (6.3k ⭐)
 
 **🔗** https://github.com/lijigang/ljg-skills  
-**🍴** Fork 740 | **🔄** Updated 2026-06-30  
+**🍴** Fork 743 | **🔄** Updated 2026-06-30  
 **👤** lijigang — 个人开发者，中文 skills 场景深度实践者
 
 > 个人 skills 集合，涵盖闪卡、学习、论文、写作等中文场景。
@@ -489,7 +489,7 @@
 ## 37. google-gemini/gemini-skills (3.7k ⭐)
 
 **🔗** https://github.com/google-gemini/gemini-skills  
-**🍴** Fork 368 | **🔄** Updated 2026-06-30  
+**🍴** Fork 370 | **🔄** Updated 2026-06-30  
 **👤** Google Gemini 官方团队 — Gemini API 和 SDK 的维护方
 
 > Gemini API、SDK 和 model/agent 交互的 Skills。
@@ -537,7 +537,7 @@
 ## 41. FreedomIntelligence/OpenClaw-Medical-Skills (2.8k ⭐)
 
 **🔗** https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills  
-**🍴** Fork 388 | **🔄** Updated 2026-06-18  
+**🍴** Fork 389 | **🔄** Updated 2026-06-18  
 **👤** FreedomIntelligence — 医疗 AI 领域开源团队
 
 > 最大开源医疗 AI 技能库，专为 OpenClaw 构建。
@@ -549,7 +549,7 @@
 ## 42. microsoft/skills (2.6k ⭐)
 
 **🔗** https://github.com/microsoft/skills  
-**🍴** Fork 299 | **🔄** Updated 2026-06-29  
+**🍴** Fork 301 | **🔄** Updated 2026-06-29  
 **👤** Microsoft 官方团队 — SDK 和开发者工具生态的构建者
 
 > Microsoft 官方出品，SDK 用的 Skills、MCP servers、Custom Agents。TypeScript 实现。
@@ -572,7 +572,7 @@
 
 - [superpowers](#1-obrasuperpowers-243k-) — 完整的 coding agent 软件开发方法论与技能框架
 - [ECC](#2-affaan-mecc-224k-) — Agent Harness 性能优化全栈系统
-- [andrej-karpathy-skills](#3-multica-aiandrej-karpathy-skills-185k-) — 整理自 Andrej Karpathy（前 OpenAI / Tesla AI 负责人）的 LLM 编码陷阱观察，以单个…
+- [andrej-karpathy-skills](#3-multica-aiandrej-karpathy-skills-186k-) — 整理自 Andrej Karpathy（前 OpenAI / Tesla AI 负责人）的 LLM 编码陷阱观察，以单个…
 - [planning-with-files](#19-othmanadiplanning-with-files-24k-) — （待补充中文描述）
 - [Agent-Skills-for-Context-Engineering](#23-muratcankoylanagent-skills-for-context-engineering-17k-) — Context Engineering、多 Agent 架构和生产级 agent 系统的全面技能集合
 - [stop-slop](#25-hardikpandyastop-slop-13k-) — 去除 AI 写作痕迹的技能文件
@@ -601,7 +601,7 @@
 - [claude-skills](#22-alirezarezvaniclaude-skills-20k-) — 337 Claude Code skills 和 agent 插件集合，覆盖 Claude Code、Codex、Gem…
 - [skills](#26-minimax-aiskills-13k-) — MiniMax AI Skills 集合，C# 实现
 - [Auto-claude-code-research-in-sleep](#27-wanshuiyinauto-claude-code-research-in-sleep-13k-) — （待补充中文描述）
-- [Trellis](#28-mindfold-aitrellis-11k-) — （待补充中文描述）
+- [Trellis](#28-mindfold-aitrellis-12k-) — （待补充中文描述）
 - [skills](#29-slavingiaskills-93k-) — 基于 Sahil Lavingia 的《The Minimalist Entrepreneur》理念的 Claude C…
 - [html-anything](#30-nexu-iohtml-anything-74k-) — Agentic HTML 编辑器——本地 AI agent 写 HTML，你直接发布
 - [book-to-skill](#31-virgiliojr94book-to-skill-73k-) — （待补充中文描述）
