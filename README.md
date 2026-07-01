@@ -614,16 +614,6 @@
 - [OpenClaw-Medical-Skills](#41-freedomintelligenceopenclaw-medical-skills-28k-) — 最大开源医疗 AI 技能库，专为 OpenClaw 构建
 
 
-## 已移除
-
-| 项目 | 原因 | 日期 |
-|------|------|------|
-| openclaw/skills ❌ | 已从 wind8Geek Skills 列表移除 | 2026-05-08 |
-| warpdotdev/oz-skills ❌ [2026-06-16] | 超出 42 个上限，按星数淘汰 | 2026-06-16 |
-| imxv/Pretty-mermaid-skills ❌ [2026-06-16] | 超出 42 个上限，按星数淘汰 | 2026-06-16 |
-| antvis/chart-visualization-skills ❌ [2026-06-16] | Star < 500 | 2026-06-16 |
-| share-skills/pi ❌ [2026-06-16] | Star < 500 | 2026-06-16 |
-
 ---
 
 ## 收录规则
