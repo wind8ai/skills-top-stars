@@ -2,7 +2,7 @@
 
 [中文](./README.md) | **English**
 
-> GitHub 高星 Skills 项目精选  
+> Curated High-Star Skills Projects on GitHub  
 > Source: [wind8ai skills list](https://github.com/stars/wind8ai/lists/skills) · Updated: 2026-07-01
 
 ---
@@ -57,561 +57,561 @@
 ## 1. obra/superpowers (243k ⭐)
 
 **🔗** https://github.com/obra/superpowers  
-**🍴** Fork 22k | **🔄** Updated 2026-07-01  
-**👤** obra — 开源开发者
+**🍴** Forks 22k | **🔄** Updated 2026-07-01  
+**👤** Jesse Vincent — Founder of Keyboardio (renowned open-source mechanical keyboard company), veteran open-source contributor
 
-> An agentic skills framework & software development methodology that works.
+> A complete coding agent software development methodology and skill framework. Rather than jumping straight into code, it guides you through clarifying goals, deriving specs, and driving development workflows with subagents. Emphasizes TDD, YAGNI, and DRY principles, enabling Claude to work autonomously for hours without deviating from the plan.
 
-**Capabilities：** 🧪 TDD 工作流 · 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 🧪 TDD Workflow
 
 ---
 
 ## 2. affaan-m/ECC (224k ⭐)
 
 **🔗** https://github.com/affaan-m/ECC  
-**🍴** Fork 34k | **🔄** Updated 2026-07-01  
-**👤** affaan-m — 开源开发者
+**🍴** Forks 34k | **🔄** Updated 2026-07-01  
+**👤** Affaan Mustafa — Anthropic Hackathon Champion (1st out of 100), Founding Engineer at PMX, the most influential individual developer in the Agent Harness space
 
-> The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+> Full-stack Agent Harness performance optimization system. Covers skills, instincts, memory, security, and research-first development workflows, providing a comprehensive performance optimization methodology for coding agents like Claude Code, Codex, Opencode, and Cursor.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration
 
 ---
 
 ## 3. multica-ai/andrej-karpathy-skills (185k ⭐)
 
 **🔗** https://github.com/multica-ai/andrej-karpathy-skills  
-**🍴** Fork 19k | **🔄** Updated 2026-04-20  
-**👤** multica-ai — 开源开发者
+**🍴** Forks 19k | **🔄** Updated 2026-04-20  
+**👤** Jiayuan Zhang — Founder & CEO of Multica AI, focused on human-AI hybrid engineering team platforms
 
-> A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+> Distilled from Andrej Karpathy's (former OpenAI / Tesla AI lead) observations on LLM coding pitfalls, refined into a single CLAUDE.md file as a behavioral optimization guide for Claude Code.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 4. anthropics/skills (157k ⭐)
 
 **🔗** https://github.com/anthropics/skills  
-**🍴** Fork 19k | **🔄** Updated 2026-06-30  
-**👤** anthropics — 开源开发者
+**🍴** Forks 19k | **🔄** Updated 2026-06-30  
+**👤** Anthropic Official Team — The company behind Claude, standard-setter for Agent Skills
 
-> Public repository for Agent Skills
+> Anthropic's official Agent Skills implementation. Skills are folders containing instructions, scripts, and resources that Claude can dynamically load to enhance performance on specific tasks. Covers brand document creation, data analysis workflows, task automation, and more. See [agentskills.io](http://agentskills.io) for skill standards.
 
-**Capabilities：** 🏛️ 官方标准 · 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection · 🏛️ Official Standard
 
 ---
 
 ## 5. mattpocock/skills (152k ⭐)
 
 **🔗** https://github.com/mattpocock/skills  
-**🍴** Fork 13k | **🔄** Updated 2026-06-30  
-**👤** mattpocock — 开源开发者
+**🍴** Forks 13k | **🔄** Updated 2026-06-30  
+**👤** Matt Pocock — Well-known TypeScript education KOL, founder of Total TypeScript, former Vercel / Stately engineer
 
-> Skills for Real Engineers. Straight from my .claude directory.
+> Matt Pocock's personal skills directory, curated directly from his .claude directory. For real engineers. Shell implementation.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 6. x1xhlol/system-prompts-and-models-of-ai-tools (141k ⭐)
 
 **🔗** https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools  
-**🍴** Fork 35k | **🔄** Updated 2026-06-12  
-**👤** x1xhlol — 开源开发者
+**🍴** Forks 35k | **🔄** Updated 2026-06-12  
+**👤** Lucas Valbuena (x1xhlol) — 16-year-old Spanish developer, founder of ZeroLeaks, focused on AI tool internals discovery and disclosure
 
-> FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+> Collects complete system prompts, internal tools, and AI model information from dozens of AI tools including Augment Code, Claude Code, Cursor, Devin AI, Windsurf, Replit, Lovable, and more.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration
 
 ---
 
 ## 7. addyosmani/agent-skills (68k ⭐)
 
 **🔗** https://github.com/addyosmani/agent-skills  
-**🍴** Fork 7.4k | **🔄** Updated 2026-06-28  
-**👤** addyosmani — 开源开发者
+**🍴** Forks 7.4k | **🔄** Updated 2026-06-28  
+**👤** Addy Osmani — Engineering Lead at Google Chrome, author of "Learning JavaScript Design Patterns", authority in frontend performance
 
-> Production-grade engineering skills for AI coding agents.
+> Production-grade AI coding agent engineering skills collection. Shell implementation, covering key scenarios in modern engineering practices.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 8. ComposioHQ/awesome-claude-skills (66k ⭐)
 
 **🔗** https://github.com/ComposioHQ/awesome-claude-skills  
-**🍴** Fork 7.4k | **🔄** Updated 2026-05-22  
-**👤** ComposioHQ — 开源开发者
+**🍴** Forks 7.4k | **🔄** Updated 2026-05-22  
+**👤** ComposioHQ — AI tool integration platform, focused on agent toolchain ecosystem
 
-> A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+> Curated Claude Skills list covering workflow customization, resource tools, and practical cases. Provides curated resources and support for Claude AI workflow customization.
 
-**Capabilities：** 🧪 TDD 工作流 · 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 9. santifer/career-ops (57k ⭐)
 
 **🔗** https://github.com/santifer/career-ops  
-**🍴** Fork 11k | **🔄** Updated 2026-06-30  
-**👤** santifer — 开源开发者
+**🍴** Forks 11k | **🔄** Updated 2026-06-30  
+**👤** Santiago Fernández de Valderrama — Applied AI Operator, 16+ years production experience, scaled and sold phone repair business with 90% AI self-service
 
-> AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+> AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. 631 evaluations, HITL design.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration
 
 ---
 
 ## 10. Leonxlnx/taste-skill (54k ⭐)
 
 **🔗** https://github.com/Leonxlnx/taste-skill  
-**🍴** Fork 3.7k | **🔄** Updated 2026-06-20  
-**👤** Leonxlnx — 开源开发者
+**🍴** Forks 3.7k | **🔄** Updated 2026-06-20  
+**👤** Leon Lin — Founder of Taste Skill, focused on frontend design taste for AI coding agents
 
-> Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+> Open-source design taste skill that gives Cursor, Codex, Claude Code, Devin, and other AI coding agents better layout, typography, spacing, hierarchy, motion, and overall design direction — reducing generic, bland AI output.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 11. VoltAgent/awesome-openclaw-skills (51k ⭐)
 
 **🔗** https://github.com/VoltAgent/awesome-openclaw-skills  
-**🍴** Fork 4.9k | **🔄** Updated 2026-06-24  
-**👤** VoltAgent — 开源开发者
+**🍴** Forks 4.9k | **🔄** Updated 2026-06-24  
+**👤** VoltAgent — Deep participant in the OpenClaw ecosystem, community maintainer of Skills Registry
 
-> The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
+> Comprehensive OpenClaw Skills directory. Curated and categorized 5400+ skills from the official Skills Registry — the most complete OpenClaw skill library available.
 
-**Capabilities：** 🏛️ 官方标准 · 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 12. mvanhorn/last30days-skill (48k ⭐)
 
 **🔗** https://github.com/mvanhorn/last30days-skill  
-**🍴** Fork 4k | **🔄** Updated 2026-06-30  
-**👤** mvanhorn — 开源开发者
+**🍴** Forks 4k | **🔄** Updated 2026-06-30  
+**👤** Matt Van Horn (mvanhorn) — Serial entrepreneur, co-founder of Lyft's predecessor company, co-founder of June (smart oven, acquired by Weber)
 
-> AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+> AI agent research skill that searches any topic across Reddit, X, YouTube, Hacker News, Polymarket, and the web, then synthesizes a grounded summary report with verifiable sources.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 13. hesreallyhim/awesome-claude-code (48k ⭐)
 
 **🔗** https://github.com/hesreallyhim/awesome-claude-code  
-**🍴** Fork 4.2k | **🔄** Updated 2026-06-29  
-**👤** hesreallyhim — 开源开发者
+**🍴** Forks 4.2k | **🔄** Updated 2026-06-29  
+**👤** hesreallyhim — Well-known community curator, focused on Claude Code ecosystem resource aggregation
 
-> A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+> Curated Claude Code Skills, Hooks, Slash Commands, Agent Orchestrators, apps, and plugins list. The most comprehensive community-curated resource covering the Claude Code ecosystem.
 
-**Capabilities：** 🏛️ 官方标准 · 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration
 
 ---
 
 ## 14. kepano/obsidian-skills (39k ⭐)
 
 **🔗** https://github.com/kepano/obsidian-skills  
-**🍴** Fork 2.8k | **🔄** Updated 2026-06-08  
-**👤** kepano — 开源开发者
+**🍴** Forks 2.8k | **🔄** Updated 2026-06-08  
+**👤** Steph Ango (kepano) — CEO of Obsidian, advocate of minimalist design philosophy
 
-> Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+> Agent Skills for Obsidian that teach your agent how to use Markdown, Bases, JSON Canvas, and CLI.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 15. Imbad0202/academic-research-skills (36k ⭐)
 
 **🔗** https://github.com/Imbad0202/academic-research-skills  
-**🍴** Fork 2.9k | **🔄** Updated 2026-06-24  
-**👤** Imbad0202 — 开源开发者
+**🍴** Forks 2.9k | **🔄** Updated 2026-06-24  
+**👤** Edward Cheng-I Wu (Imbad0202) — Independent developer, focused on integrating academic research with AI workflows
 
-> Academic Research Skills for Claude Code: research → write → review → revise → finalize
+> Academic research Skills for Claude Code: Research → Writing → Review → Revision → Finalization, covering the complete academic paper workflow.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 16. anthropics/claude-plugins-official (31k ⭐)
 
 **🔗** https://github.com/anthropics/claude-plugins-official  
-**🍴** Fork 3.4k | **🔄** Updated 2026-07-01  
-**👤** anthropics — 开源开发者
+**🍴** Forks 3.4k | **🔄** Updated 2026-07-01  
+**👤** Anthropic Official Team — High-quality plugin directory maintained by the company behind Claude
 
-> Official, Anthropic-managed directory of high quality Claude Code Plugins.
+> Anthropic's official curated directory of high-quality Claude Code Plugins.
 
-**Capabilities：** 🏛️ 官方标准 · 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection · 🏛️ Official Standard
 
 ---
 
 ## 17. vercel-labs/agent-skills (29k ⭐)
 
 **🔗** https://github.com/vercel-labs/agent-skills  
-**🍴** Fork 2.6k | **🔄** Updated 2026-06-10  
-**👤** vercel-labs — 开源开发者
+**🍴** Forks 2.6k | **🔄** Updated 2026-06-10  
+**👤** Vercel Labs — Vercel's official lab, leading frontend infrastructure company
 
-> Vercel's official collection of agent skills
+> Vercel's official agent skills collection. Provides agent extension capabilities for the Vercel platform. JavaScript implementation.
 
-**Capabilities：** 🏛️ 官方标准 · 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection · 🏛️ Official Standard
 
 ---
 
 ## 18. vercel-labs/skills (25k ⭐)
 
 **🔗** https://github.com/vercel-labs/skills  
-**🍴** Fork 2k | **🔄** Updated 2026-06-29  
-**👤** vercel-labs — 开源开发者
+**🍴** Forks 2k | **🔄** Updated 2026-06-29  
+**👤** Vercel Labs — Vercel's official lab, publisher of the `npx skills` tool
 
-> The open agent skills tool - npx skills
+> `npx skills` tool — open-source agent skills CLI. Quickly discover, install, and manage agent skills.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 19. OthmanAdi/planning-with-files (24k ⭐)
 
 **🔗** https://github.com/OthmanAdi/planning-with-files  
-**🍴** Fork 2.1k | **🔄** Updated 2026-06-16  
-**👤** OthmanAdi — 开源开发者
+**🍴** Forks 2.1k | **🔄** Updated 2026-06-16  
+**👤** OthmanAdi — open-source developer
 
 > Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration
 
 ---
 
 ## 20. openai/skills (23k ⭐)
 
 **🔗** https://github.com/openai/skills  
-**🍴** Fork 1.6k | **🔄** Updated 2026-06-24  
-**👤** openai — 开源开发者
+**🍴** Forks 1.6k | **🔄** Updated 2026-06-24  
+**👤** OpenAI Official Team — Co-creators of the Codex Skills standard
 
-> Skills Catalog for Codex
+> Codex Skills directory. Agent Skills are folders containing instructions, scripts, and resources that AI agents can discover and use to accomplish specific tasks. Write once, use everywhere. See the [agentskills.io](https://agentskills.io) open standard.
 
-**Capabilities：** 🏛️ 官方标准 · 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection · 🏛️ Official Standard
 
 ---
 
 ## 21. phuryn/pm-skills (22k ⭐)
 
 **🔗** https://github.com/phuryn/pm-skills  
-**🍴** Fork 2.2k | **🔄** Updated 2026-06-22  
-**👤** phuryn — 开源开发者
+**🍴** Forks 2.2k | **🔄** Updated 2026-06-22  
+**👤** Pawel Huryn — AI PM Coach, ex-CPO, founder of The Product Compass Newsletter (131k+ subscribers)
 
-> PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
+> PM Skills Marketplace: 100+ agentic skills, commands, and plugins covering discovery, strategy, execution, launch, and growth. Compatible with Claude Code / Cowork / Gemini CLI / Cursor / Codex / Kiro.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 22. alirezarezvani/claude-skills (20k ⭐)
 
 **🔗** https://github.com/alirezarezvani/claude-skills  
-**🍴** Fork 2.7k | **🔄** Updated 2026-07-01  
-**👤** alirezarezvani — 开源开发者
+**🍴** Forks 2.7k | **🔄** Updated 2026-07-01  
+**👤** Alireza Rezvani — Independent developer, focused on cross-platform agent skills ecosystem
 
-> 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
+> 337 Claude Code skills and agent plugins covering Claude Code, Codex, Gemini CLI, Cursor, and 8+ coding agents. Spans engineering, marketing, product, compliance, and C-level consulting use cases.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 23. muratcankoylan/Agent-Skills-for-Context-Engineering (17k ⭐)
 
 **🔗** https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering  
-**🍴** Fork 1.4k | **🔄** Updated 2026-06-29  
-**👤** muratcankoylan — 开源开发者
+**🍴** Forks 1.4k | **🔄** Updated 2026-06-29  
+**👤** Murat Can Koylan — Independent researcher and practitioner in Context Engineering
 
-> A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+> Comprehensive skill set for Context Engineering, multi-agent architecture, and production-grade agent systems. Suitable for building, optimizing, or debugging agent systems that require context engineering.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 24. ComposioHQ/awesome-codex-skills (14k ⭐)
 
 **🔗** https://github.com/ComposioHQ/awesome-codex-skills  
-**🍴** Fork 1.4k | **🔄** Updated 2026-05-15  
-**👤** ComposioHQ — 开源开发者
+**🍴** Forks 1.4k | **🔄** Updated 2026-05-15  
+**👤** ComposioHQ — AI tool integration platform, focused on agent toolchain ecosystem
 
-> A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+> Practical curated list of Codex Skills covering automation workflow skills for Codex CLI and API.
 
-**Capabilities：** 🧪 TDD 工作流 · 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 25. hardikpandya/stop-slop (13k ⭐)
 
 **🔗** https://github.com/hardikpandya/stop-slop  
-**🍴** Fork 917 | **🔄** Updated 2026-03-17  
-**👤** hardikpandya — 开源开发者
+**🍴** Forks 917 | **🔄** Updated 2026-03-17  
+**👤** Hardik Pandya — Independent developer, focused on removing AI writing artifacts
 
-> A skill file for removing AI tells from prose
+> A skill file for removing AI tells from prose. AI writing has predictable patterns (phrases, structures, rhythms) — this skill teaches Claude (or any LLM) to catch and remove them.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration
 
 ---
 
 ## 26. MiniMax-AI/skills (13k ⭐)
 
 **🔗** https://github.com/MiniMax-AI/skills  
-**🍴** Fork 1.1k | **🔄** Updated 2026-04-18  
-**👤** MiniMax-AI — 开源开发者
+**🍴** Forks 1.1k | **🔄** Updated 2026-04-18  
+**👤** MiniMax AI — Leading Chinese large model company, developer of the MiniMax-Text model series
 
-> 高星开源项目。
+> MiniMax AI Skills collection. C# implementation.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 27. wanshuiyin/Auto-claude-code-research-in-sleep (13k ⭐)
 
 **🔗** https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep  
-**🍴** Fork 1.2k | **🔄** Updated 2026-06-30  
-**👤** wanshuiyin — 开源开发者
+**🍴** Forks 1.2k | **🔄** Updated 2026-06-30  
+**👤** wanshuiyin — open-source developer
 
 > ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration
 
 ---
 
 ## 28. mindfold-ai/Trellis (11k ⭐)
 
 **🔗** https://github.com/mindfold-ai/Trellis  
-**🍴** Fork 647 | **🔄** Updated 2026-06-30  
-**👤** mindfold-ai — 开源开发者
+**🍴** Forks 647 | **🔄** Updated 2026-06-30  
+**👤** mindfold-ai — open-source developer
 
 > The best agent harness.
 
-**Capabilities：** 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration
 
 ---
 
 ## 29. slavingia/skills (9.3k ⭐)
 
 **🔗** https://github.com/slavingia/skills  
-**🍴** Fork 960 | **🔄** Updated 2026-04-14  
-**👤** slavingia — 开源开发者
+**🍴** Forks 960 | **🔄** Updated 2026-04-14  
+**👤** Sahil Lavingia — Founder of Gumroad, renowned serial entrepreneur, author of "The Minimalist Entrepreneur"
 
-> Based on The Minimalist Entrepreneur by Sahil Lavingia
+> Claude Code skills based on Sahil Lavingia's "The Minimalist Entrepreneur" philosophy.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 30. nexu-io/html-anything (7.4k ⭐)
 
 **🔗** https://github.com/nexu-io/html-anything  
-**🍴** Fork 730 | **🔄** Updated 2026-06-16  
-**👤** nexu-io — 开源开发者
+**🍴** Forks 730 | **🔄** Updated 2026-06-16  
+**👤** nexu — Open-source Claude Design alternative team, local-first, BYOK model
 
-> ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
+> The agentic HTML editor — your local AI agent writes the HTML, you ship it. 75 Skills × 9 Surfaces (magazine, deck, poster, XHS/tweet, prototype, data report, Hyperframes), sandboxed iframe preview, exports as HTML/PDF/PPTX/ZIP.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration
 
 ---
 
 ## 31. virgiliojr94/book-to-skill (7.3k ⭐)
 
 **🔗** https://github.com/virgiliojr94/book-to-skill  
-**🍴** Fork 893 | **🔄** Updated 2026-06-30  
-**👤** virgiliojr94 — 开源开发者
+**🍴** Forks 893 | **🔄** Updated 2026-06-30  
+**👤** virgiliojr94 — open-source developer
 
 > Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 32. lijigang/ljg-skills (6.3k ⭐)
 
 **🔗** https://github.com/lijigang/ljg-skills  
-**🍴** Fork 740 | **🔄** Updated 2026-06-30  
-**👤** lijigang — 开源开发者
+**🍴** Forks 740 | **🔄** Updated 2026-06-30  
+**👤** lijigang — Individual developer, deep practitioner of Chinese-language skill scenarios
 
-> 高星开源项目。
+> Personal skills collection covering flashcards, learning, academic papers, and writing — optimized for Chinese-language scenarios.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 33. trailofbits/skills (5.9k ⭐)
 
 **🔗** https://github.com/trailofbits/skills  
-**🍴** Fork 522 | **🔄** Updated 2026-06-30  
-**👤** trailofbits — 开源开发者
+**🍴** Forks 522 | **🔄** Updated 2026-06-30  
+**👤** Trail of Bits — Top-tier software security research firm, specializing in vulnerability detection and security auditing
 
-> Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
+> Trail of Bits' security research, vulnerability detection, and audit workflow Claude Code skills. Python implementation.
 
-**Capabilities：** 🧪 TDD 工作流 · 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 34. deanpeters/Product-Manager-Skills (5.5k ⭐)
 
 **🔗** https://github.com/deanpeters/Product-Manager-Skills  
-**🍴** Fork 693 | **🔄** Updated 2026-06-25  
-**👤** deanpeters — 开源开发者
+**🍴** Forks 693 | **🔄** Updated 2026-06-25  
+**👤** Dean Peters — Senior product management practitioner, PM skills framework practitioner
 
-> Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.
+> Product management skills framework, compatible with Claude Code / Cowork / Codex.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 35. alchaincyf/darwin-skill (4.5k ⭐)
 
 **🔗** https://github.com/alchaincyf/darwin-skill  
-**🍴** Fork 484 | **🔄** Updated 2026-06-14  
-**👤** alchaincyf — 开源开发者
+**🍴** Forks 484 | **🔄** Updated 2026-06-14  
+**👤** Huashu (alchaincyf) — Can't write a line of code but built an AppStore #1 paid product with AI, authored 9 tech books, open-source skills totaling nearly 60k stars
 
-> 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.
+> Darwin.skill — An autonomous skill evolution system. Inspired by Karpathy's autoresearch, uses autonomous experiment loops to batch-optimize skills. 9-dimension evaluation, ratchet mechanism (only retains improvements, auto-rolls back regressions).
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 36. Dimillian/Skills (3.8k ⭐)
 
 **🔗** https://github.com/Dimillian/Skills  
-**🍴** Fork 197 | **🔄** Updated 2026-03-29  
-**👤** Dimillian — 开源开发者
+**🍴** Forks 197 | **🔄** Updated 2026-03-29  
+**👤** Thomas Ricou (Dimillian) — Independent iOS developer, former Chief iOS Engineer at Carousell
 
-> My Codex Skills
+> Dimillian's personal Codex Skills collection. Shell implementation.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 37. google-gemini/gemini-skills (3.7k ⭐)
 
 **🔗** https://github.com/google-gemini/gemini-skills  
-**🍴** Fork 368 | **🔄** Updated 2026-06-30  
-**👤** google-gemini — 开源开发者
+**🍴** Forks 368 | **🔄** Updated 2026-06-30  
+**👤** Google Gemini Official Team — Maintainers of the Gemini API and SDK
 
-> Skills for the Gemini API, SDK and model/agent interactions
+> Skills for Gemini API, SDK, and model/agent interaction.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 38. browser-act/skills (3.4k ⭐)
 
 **🔗** https://github.com/browser-act/skills  
-**🍴** Fork 158 | **🔄** Updated 2026-06-26  
-**👤** browser-act — 开源开发者
+**🍴** Forks 158 | **🔄** Updated 2026-06-26  
+**👤** browser-act — Browser automation CLI team, focused on AI agent browser control
 
-> Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.
+> Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 39. pasky/chrome-cdp-skill (3.1k ⭐)
 
 **🔗** https://github.com/pasky/chrome-cdp-skill  
-**🍴** Fork 201 | **🔄** Updated 2026-06-28  
-**👤** pasky — 开源开发者
+**🍴** Forks 201 | **🔄** Updated 2026-06-28  
+**👤** pasky — Independent developer, focused on browser automation and AI agent integration
 
-> Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open
+> Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open. CDP protocol implementation. JavaScript implementation.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 40. axtonliu/axton-obsidian-visual-skills (3.1k ⭐)
 
 **🔗** https://github.com/axtonliu/axton-obsidian-visual-skills  
-**🍴** Fork 279 | **🔄** Updated 2026-06-26  
-**👤** axtonliu — 开源开发者
+**🍴** Forks 279 | **🔄** Updated 2026-06-26  
+**👤** Axton Liu — Practitioner in the Obsidian visualization space
 
-> Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code
+> Obsidian visual skills for generating Canvas/Excalidraw/Mermaid diagrams.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 41. FreedomIntelligence/OpenClaw-Medical-Skills (2.8k ⭐)
 
 **🔗** https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills  
-**🍴** Fork 388 | **🔄** Updated 2026-06-18  
-**👤** FreedomIntelligence — 开源开发者
+**🍴** Forks 388 | **🔄** Updated 2026-06-18  
+**👤** FreedomIntelligence — Open-source team in the Medical AI space
 
-> The largest open-source medical AI skills library for OpenClaw🦞.
+> The largest open-source medical AI skills library, built specifically for OpenClaw.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 
 ## 42. microsoft/skills (2.6k ⭐)
 
 **🔗** https://github.com/microsoft/skills  
-**🍴** Fork 299 | **🔄** Updated 2026-06-29  
-**👤** microsoft — 开源开发者
+**🍴** Forks 299 | **🔄** Updated 2026-06-29  
+**👤** Microsoft Official Team — Builders of the SDK and developer tools ecosystem
 
-> Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents
+> Microsoft official Skills, MCP servers, and Custom Agents for SDKs. TypeScript implementation.
 
-**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
 ---
 ## Category Index
 
-### 🏛️ 官方与标准
+### 🏛️ Official & Standards
 
-- [skills](#4-anthropicsskills-157k-) — Public repository for Agent Skills
-- [claude-plugins-official](#16-anthropicsclaude-plugins-official-31k-) — Official, Anthropic-managed directory of high quality Claude…
-- [agent-skills](#17-vercel-labsagent-skills-29k-) — Vercel's official collection of agent skills
-- [skills](#18-vercel-labsskills-25k-) — The open agent skills tool - npx skills
-- [skills](#20-openaiskills-23k-) — Skills Catalog for Codex
-- [skills](#42-microsoftskills-26k-) — Skills, MCP servers, Custom Agents, Agents.md for SDKs to gr…
+- [skills](#4-anthropicsskills-157k-) — Anthropic's official Agent Skills implementation
+- [claude-plugins-official](#16-anthropicsclaude-plugins-official-31k-) — Anthropic's official curated directory of high-quality Claud…
+- [agent-skills](#17-vercel-labsagent-skills-29k-) — Vercel's official agent skills collection
+- [skills](#18-vercel-labsskills-25k-) — `npx skills` tool — open-source agent skills CLI
+- [skills](#20-openaiskills-23k-) — Codex Skills directory
+- [skills](#42-microsoftskills-26k-) — Microsoft official Skills, MCP servers, and Custom Agents fo…
 
-### 🤖 Agent 工作流与方法论
+### 🤖 Agent Workflows & Methodology
 
-- [superpowers](#1-obrasuperpowers-243k-) — An agentic skills framework & software development methodolo…
-- [ECC](#2-affaan-mecc-224k-) — The agent harness performance optimization system. Skills, i…
-- [andrej-karpathy-skills](#3-multica-aiandrej-karpathy-skills-185k-) — A single CLAUDE.md file to improve Claude Code behavior, der…
+- [superpowers](#1-obrasuperpowers-243k-) — A complete coding agent software development methodology and…
+- [ECC](#2-affaan-mecc-224k-) — Full-stack Agent Harness performance optimization system
+- [andrej-karpathy-skills](#3-multica-aiandrej-karpathy-skills-185k-) — Distilled from Andrej Karpathy's (former OpenAI / Tesla AI l…
 - [planning-with-files](#19-othmanadiplanning-with-files-24k-) — Persistent file-based planning for AI coding agents and long…
-- [Agent-Skills-for-Context-Engineering](#23-muratcankoylanagent-skills-for-context-engineering-17k-) — A comprehensive collection of Agent Skills for context engin…
+- [Agent-Skills-for-Context-Engineering](#23-muratcankoylanagent-skills-for-context-engineering-17k-) — Comprehensive skill set for Context Engineering, multi-agent…
 - [stop-slop](#25-hardikpandyastop-slop-13k-) — A skill file for removing AI tells from prose
+- [darwin-skill](#35-alchaincyfdarwin-skill-45k-) — Darwin
 
-### 📦 领域 Skills 合集
+### 📦 Domain Skills Collections
 
-- [awesome-claude-skills](#8-composiohqawesome-claude-skills-66k-) — A curated list of awesome Claude Skills, resources, and tool…
-- [career-ops](#9-santifercareer-ops-57k-) — AI-powered job search system built on Claude Code. 14 skill …
-- [awesome-openclaw-skills](#11-voltagentawesome-openclaw-skills-51k-) — The awesome collection of OpenClaw skills. 5,400+ skills fil…
-- [awesome-claude-code](#13-hesreallyhimawesome-claude-code-48k-) — A curated list of awesome skills, hooks, slash-commands, age…
-- [obsidian-skills](#14-kepanoobsidian-skills-39k-) — Agent skills for Obsidian. Teach your agent to use Obsidian …
-- [academic-research-skills](#15-imbad0202academic-research-skills-36k-) — Academic Research Skills for Claude Code: research → write →…
+- [awesome-claude-skills](#8-composiohqawesome-claude-skills-66k-) — Curated Claude Skills list covering workflow customization, …
+- [career-ops](#9-santifercareer-ops-57k-) — AI-powered job search system built on Claude Code
+- [awesome-openclaw-skills](#11-voltagentawesome-openclaw-skills-51k-) — Comprehensive OpenClaw Skills directory
+- [awesome-claude-code](#13-hesreallyhimawesome-claude-code-48k-) — Curated Claude Code Skills, Hooks, Slash Commands, Agent Orc…
+- [obsidian-skills](#14-kepanoobsidian-skills-39k-) — Agent Skills for Obsidian that teach your agent how to use M…
+- [academic-research-skills](#15-imbad0202academic-research-skills-36k-) — Academic research Skills for Claude Code: Research → Writing…
 - [pm-skills](#21-phurynpm-skills-22k-) — PM Skills Marketplace: 100+ agentic skills, commands, and pl…
-- [awesome-codex-skills](#24-composiohqawesome-codex-skills-14k-) — A curated list of practical Codex skills for automating work…
-- [Product-Manager-Skills](#34-deanpetersproduct-manager-skills-55k-) — Product Management skills framework built on battle-tested m…
-- [axton-obsidian-visual-skills](#40-axtonliuaxton-obsidian-visual-skills-31k-) — Visual Skills Pack for Obsidian: generate Canvas, Excalidraw…
+- [awesome-codex-skills](#24-composiohqawesome-codex-skills-14k-) — Practical curated list of Codex Skills covering automation w…
+- [ljg-skills](#32-lijigangljg-skills-63k-) — Personal skills collection covering flashcards, learning, ac…
+- [Product-Manager-Skills](#34-deanpetersproduct-manager-skills-55k-) — Product management skills framework, compatible with Claude …
+- [axton-obsidian-visual-skills](#40-axtonliuaxton-obsidian-visual-skills-31k-) — Obsidian visual skills for generating Canvas/Excalidraw/Merm…
 
-### 🔧 工具与质量
+### 🔧 Tooling & Quality
 
-- [skills](#5-mattpocockskills-152k-) — Skills for Real Engineers. Straight from my .claude director…
-- [system-prompts-and-models-of-ai-tools](#6-x1xhlolsystem-prompts-and-models-of-ai-tools-141k-) — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu…
-- [agent-skills](#7-addyosmaniagent-skills-68k-) — Production-grade engineering skills for AI coding agents.
-- [taste-skill](#10-leonxlnxtaste-skill-54k-) — Taste-Skill - gives your AI good taste. stops the AI from ge…
-- [last30days-skill](#12-mvanhornlast30days-skill-48k-) — AI agent skill that researches any topic across Reddit, X, Y…
-- [claude-skills](#22-alirezarezvaniclaude-skills-20k-) — 337 Claude Code skills & agent skills & plugins (30+ Agents,…
-- [skills](#26-minimax-aiskills-13k-) — 高星开源项目
+- [skills](#5-mattpocockskills-152k-) — Matt Pocock's personal skills directory, curated directly fr…
+- [system-prompts-and-models-of-ai-tools](#6-x1xhlolsystem-prompts-and-models-of-ai-tools-141k-) — Collects complete system prompts, internal tools, and AI mod…
+- [agent-skills](#7-addyosmaniagent-skills-68k-) — Production-grade AI coding agent engineering skills collecti…
+- [taste-skill](#10-leonxlnxtaste-skill-54k-) — Open-source design taste skill that gives Cursor, Codex, Cla…
+- [last30days-skill](#12-mvanhornlast30days-skill-48k-) — AI agent research skill that searches any topic across Reddi…
+- [claude-skills](#22-alirezarezvaniclaude-skills-20k-) — 337 Claude Code skills and agent plugins covering Claude Cod…
+- [skills](#26-minimax-aiskills-13k-) — MiniMax AI Skills collection
 - [Auto-claude-code-research-in-sleep](#27-wanshuiyinauto-claude-code-research-in-sleep-13k-) — ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only…
-- [Trellis](#28-mindfold-aitrellis-11k-) — The best agent harness.
-- [skills](#29-slavingiaskills-93k-) — Based on The Minimalist Entrepreneur by Sahil Lavingia
-- [html-anything](#30-nexu-iohtml-anything-74k-) — ✨ The agentic HTML editor — your local AI agent writes the H…
+- [Trellis](#28-mindfold-aitrellis-11k-) — The best agent harness
+- [skills](#29-slavingiaskills-93k-) — Claude Code skills based on Sahil Lavingia's "The Minimalist…
+- [html-anything](#30-nexu-iohtml-anything-74k-) — The agentic HTML editor — your local AI agent writes the HTM…
 - [book-to-skill](#31-virgiliojr94book-to-skill-73k-) — Turn any technical book PDF into a Claude Code skill — ready…
-- [ljg-skills](#32-lijigangljg-skills-63k-) — 高星开源项目
-- [skills](#33-trailofbitsskills-59k-) — Trail of Bits Claude Code skills for security research, vuln…
-- [darwin-skill](#35-alchaincyfdarwin-skill-45k-) — 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch…
-- [Skills](#36-dimillianskills-38k-) — My Codex Skills
-- [gemini-skills](#37-google-geminigemini-skills-37k-) — Skills for the Gemini API, SDK and model/agent interactions
-- [skills](#38-browser-actskills-34k-) — Browser automation CLI built for AI agents. Break through an…
+- [skills](#33-trailofbitsskills-59k-) — Trail of Bits' security research, vulnerability detection, a…
+- [Skills](#36-dimillianskills-38k-) — Dimillian's personal Codex Skills collection
+- [gemini-skills](#37-google-geminigemini-skills-37k-) — Skills for Gemini API, SDK, and model/agent interaction
+- [skills](#38-browser-actskills-34k-) — Browser automation CLI built for AI agents
 - [chrome-cdp-skill](#39-paskychrome-cdp-skill-31k-) — Give your AI agent access to your live Chrome session — work…
-- [OpenClaw-Medical-Skills](#41-freedomintelligenceopenclaw-medical-skills-28k-) — The largest open-source medical AI skills library for OpenCl…
+- [OpenClaw-Medical-Skills](#41-freedomintelligenceopenclaw-medical-skills-28k-) — The largest open-source medical AI skills library, built spe…
 
 
 ---
