@@ -624,4 +624,11 @@
 
 ---
 
+## 许可
+
+本榜策展正文（排行、描述、分类索引）采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) © wind8ai。  
+各条目所链接的开源项目受其各自仓库许可证约束。
+
+---
+
 *由 wind8 整理 | 2026-07-01*

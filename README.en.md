@@ -624,4 +624,11 @@
 
 ---
 
+## License
+
+Curated list content (rankings, descriptions, category index) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) © wind8ai.  
+Linked projects remain under their respective upstream licenses.
+
+---
+
 *Curated by wind8 | 2026-07-01*
