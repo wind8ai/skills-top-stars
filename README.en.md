@@ -62,7 +62,7 @@
 
 > An agentic skills framework & software development methodology that works.
 
-**Capabilities:** 🧪 TDD 工作流 · 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 🧪 TDD 工作流 · 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -74,7 +74,7 @@
 
 > The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -86,7 +86,7 @@
 
 > A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -98,7 +98,7 @@
 
 > Public repository for Agent Skills
 
-**Capabilities:** 🏛️ 官方标准 · 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 🏛️ 官方标准 · 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -110,7 +110,7 @@
 
 > Skills for Real Engineers. Straight from my .claude directory.
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -122,7 +122,7 @@
 
 > FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -134,7 +134,7 @@
 
 > Production-grade engineering skills for AI coding agents.
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -146,7 +146,7 @@
 
 > A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
-**Capabilities:** 🧪 TDD 工作流 · 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 🧪 TDD 工作流 · 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -158,7 +158,7 @@
 
 > AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -170,7 +170,7 @@
 
 > Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -182,7 +182,7 @@
 
 > The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 
-**Capabilities:** 🏛️ 官方标准 · 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 🏛️ 官方标准 · 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -194,7 +194,7 @@
 
 > AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -206,7 +206,7 @@
 
 > A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 
-**Capabilities:** 🏛️ 官方标准 · 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 🏛️ 官方标准 · 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -218,7 +218,7 @@
 
 > Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -230,7 +230,7 @@
 
 > Academic Research Skills for Claude Code: research → write → review → revise → finalize
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -242,7 +242,7 @@
 
 > Official, Anthropic-managed directory of high quality Claude Code Plugins.
 
-**Capabilities:** 🏛️ 官方标准 · 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 🏛️ 官方标准 · 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -254,7 +254,7 @@
 
 > Vercel's official collection of agent skills
 
-**Capabilities:** 🏛️ 官方标准 · 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 🏛️ 官方标准 · 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -266,7 +266,7 @@
 
 > The open agent skills tool - npx skills
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -278,7 +278,7 @@
 
 > Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -290,7 +290,7 @@
 
 > Skills Catalog for Codex
 
-**Capabilities:** 🏛️ 官方标准 · 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 🏛️ 官方标准 · 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -302,7 +302,7 @@
 
 > PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -314,7 +314,7 @@
 
 > 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -326,7 +326,7 @@
 
 > A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -338,7 +338,7 @@
 
 > A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 
-**Capabilities:** 🧪 TDD 工作流 · 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 🧪 TDD 工作流 · 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -350,7 +350,7 @@
 
 > A skill file for removing AI tells from prose
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -362,7 +362,7 @@
 
 > 高星开源项目。
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -374,7 +374,7 @@
 
 > ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -386,7 +386,7 @@
 
 > The best agent harness.
 
-**Capabilities:** 🤖 Agent 集成
+**Capabilities：** 🤖 Agent 集成
 
 ---
 
@@ -398,7 +398,7 @@
 
 > Based on The Minimalist Entrepreneur by Sahil Lavingia
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -410,7 +410,7 @@
 
 > ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -422,7 +422,7 @@
 
 > Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -434,7 +434,7 @@
 
 > 高星开源项目。
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -446,7 +446,7 @@
 
 > Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows
 
-**Capabilities:** 🧪 TDD 工作流 · 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 🧪 TDD 工作流 · 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -458,7 +458,7 @@
 
 > Product Management skills framework built on battle-tested methods for Claude Code, Cowork, Codex, and AI agents.
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -470,7 +470,7 @@
 
 > 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -482,7 +482,7 @@
 
 > My Codex Skills
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -494,7 +494,7 @@
 
 > Skills for the Gemini API, SDK and model/agent interactions
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -506,7 +506,7 @@
 
 > Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution, independent multi-session operation, isolated multi-account browsing.
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -518,7 +518,7 @@
 
 > Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -530,7 +530,7 @@
 
 > Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -542,7 +542,7 @@
 
 > The largest open-source medical AI skills library for OpenClaw🦞.
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -554,26 +554,65 @@
 
 > Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents
 
-**Capabilities:** 📦 Skills 合集 · 🤖 Agent 集成
+**Capabilities：** 📦 Skills 合集 · 🤖 Agent 集成
 
----## Category Index
-
+---
+## Category Index
 
 ### 🏛️ 官方与标准
 
-_（对齐中：按匹配能力分组补锚点）_
+- [skills](#anthropicsskills-157k-) — Public repository for Agent Skills
+- [claude-plugins-official](#anthropicsclaude-plugins-official-31k-) — Official, Anthropic-managed directory of high quality Claude…
+- [agent-skills](#vercel-labsagent-skills-29k-) — Vercel's official collection of agent skills
+- [skills](#vercel-labsskills-25k-) — The open agent skills tool - npx skills
+- [skills](#openaiskills-23k-) — Skills Catalog for Codex
+- [skills](#microsoftskills-26k-) — Skills, MCP servers, Custom Agents, Agents.md for SDKs to gr…
 
 ### 🤖 Agent 工作流与方法论
 
-_（对齐中：按匹配能力分组补锚点）_
+- [superpowers](#obrasuperpowers-243k-) — An agentic skills framework & software development methodolo…
+- [ECC](#affaan-mecc-224k-) — The agent harness performance optimization system. Skills, i…
+- [andrej-karpathy-skills](#multica-aiandrej-karpathy-skills-185k-) — A single CLAUDE.md file to improve Claude Code behavior, der…
+- [planning-with-files](#othmanadiplanning-with-files-24k-) — Persistent file-based planning for AI coding agents and long…
+- [Agent-Skills-for-Context-Engineering](#muratcankoylanagent-skills-for-context-engineering-17k-) — A comprehensive collection of Agent Skills for context engin…
+- [stop-slop](#hardikpandyastop-slop-13k-) — A skill file for removing AI tells from prose
 
 ### 📦 领域 Skills 合集
 
-_（对齐中：按匹配能力分组补锚点）_
+- [awesome-claude-skills](#composiohqawesome-claude-skills-66k-) — A curated list of awesome Claude Skills, resources, and tool…
+- [career-ops](#santifercareer-ops-57k-) — AI-powered job search system built on Claude Code. 14 skill …
+- [awesome-openclaw-skills](#voltagentawesome-openclaw-skills-51k-) — The awesome collection of OpenClaw skills. 5,400+ skills fil…
+- [awesome-claude-code](#hesreallyhimawesome-claude-code-48k-) — A curated list of awesome skills, hooks, slash-commands, age…
+- [obsidian-skills](#kepanoobsidian-skills-39k-) — Agent skills for Obsidian. Teach your agent to use Obsidian …
+- [academic-research-skills](#imbad0202academic-research-skills-36k-) — Academic Research Skills for Claude Code: research → write →…
+- [pm-skills](#phurynpm-skills-22k-) — PM Skills Marketplace: 100+ agentic skills, commands, and pl…
+- [awesome-codex-skills](#composiohqawesome-codex-skills-14k-) — A curated list of practical Codex skills for automating work…
+- [Product-Manager-Skills](#deanpetersproduct-manager-skills-55k-) — Product Management skills framework built on battle-tested m…
+- [axton-obsidian-visual-skills](#axtonliuaxton-obsidian-visual-skills-31k-) — Visual Skills Pack for Obsidian: generate Canvas, Excalidraw…
 
 ### 🔧 工具与质量
 
-_（对齐中：按匹配能力分组补锚点）_
+- [skills](#mattpocockskills-152k-) — Skills for Real Engineers. Straight from my .claude director…
+- [system-prompts-and-models-of-ai-tools](#x1xhlolsystem-prompts-and-models-of-ai-tools-141k-) — FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cu…
+- [agent-skills](#addyosmaniagent-skills-68k-) — Production-grade engineering skills for AI coding agents.
+- [taste-skill](#leonxlnxtaste-skill-54k-) — Taste-Skill - gives your AI good taste. stops the AI from ge…
+- [last30days-skill](#mvanhornlast30days-skill-48k-) — AI agent skill that researches any topic across Reddit, X, Y…
+- [claude-skills](#alirezarezvaniclaude-skills-20k-) — 337 Claude Code skills & agent skills & plugins (30+ Agents,…
+- [skills](#minimax-aiskills-13k-) — 高星开源项目
+- [Auto-claude-code-research-in-sleep](#wanshuiyinauto-claude-code-research-in-sleep-13k-) — ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only…
+- [Trellis](#mindfold-aitrellis-11k-) — The best agent harness.
+- [skills](#slavingiaskills-93k-) — Based on The Minimalist Entrepreneur by Sahil Lavingia
+- [html-anything](#nexu-iohtml-anything-74k-) — ✨ The agentic HTML editor — your local AI agent writes the H…
+- [book-to-skill](#virgiliojr94book-to-skill-73k-) — Turn any technical book PDF into a Claude Code skill — ready…
+- [ljg-skills](#lijigangljg-skills-63k-) — 高星开源项目
+- [skills](#trailofbitsskills-59k-) — Trail of Bits Claude Code skills for security research, vuln…
+- [darwin-skill](#alchaincyfdarwin-skill-45k-) — 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch…
+- [Skills](#dimillianskills-38k-) — My Codex Skills
+- [gemini-skills](#google-geminigemini-skills-37k-) — Skills for the Gemini API, SDK and model/agent interactions
+- [skills](#browser-actskills-34k-) — Browser automation CLI built for AI agents. Break through an…
+- [chrome-cdp-skill](#paskychrome-cdp-skill-31k-) — Give your AI agent access to your live Chrome session — work…
+- [OpenClaw-Medical-Skills](#freedomintelligenceopenclaw-medical-skills-28k-) — The largest open-source medical AI skills library for OpenCl…
+
 
 ---
 
