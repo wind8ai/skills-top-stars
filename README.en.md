@@ -122,7 +122,7 @@
 **🍴** Forks 10k | **🔄** Updated 2026-07-02  
 **👤** nextlevelbuilder — open-source developer
 
-> An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
+> An AI Skill that provides design intelligence for building professional UI/UX across multiple platforms.
 
 **Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
@@ -134,7 +134,7 @@
 **🍴** Forks 4.5k | **🔄** Updated 2026-06-12  
 **👤** JuliusBrussee — open-source developer
 
-> 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+> Claude Code skill that cuts token usage with caveman-style minimal phrasing — why use many token when few token do trick.
 
 **Matched Capabilities**: 🤖 Agent Integration
 
@@ -146,7 +146,7 @@
 **🍴** Forks 3.6k | **🔄** Updated 2026-07-01  
 **👤** DietrichGebert — open-source developer
 
-> Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+> Makes your AI agent think like the laziest senior dev in the room — the best code is the code you never wrote.
 
 **Matched Capabilities**: 🤖 Agent Integration
 
@@ -324,9 +324,9 @@
 
 **🔗** https://github.com/JimLiu/baoyu-skills  
 **🍴** Forks 2.6k | **🔄** Updated 2026-06-28  
-**👤** JimLiu — open-source developer
+**👤** Baoyu (JimLiu) — author of Illustrated Agent Skills, sharing practical AI productivity skills
 
-> (Description pending)
+> Skills shared by Baoyu for improving daily work efficiency with AI agents (Claude Code, Codex, etc.). 20+ skills — install only what you need.
 
 **Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
@@ -350,7 +350,7 @@
 **🍴** Forks 1.4k | **🔄** Updated 2026-07-01  
 **👤** agentskills — open-source developer
 
-> Specification and documentation for Agent Skills
+> Open specification and documentation for Agent Skills — the SKILL.md format, reference library, and ecosystem guides at agentskills.io.
 
 **Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
@@ -446,7 +446,7 @@
 **🍴** Forks 967 | **🔄** Updated 2026-06-30  
 **👤** microsoft — open-source developer
 
-> SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
+> Text-space optimizer that trains reusable natural-language skills for frozen LLM agents via trajectory-driven edits and deployable best_skill.md artifacts.
 
 **Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
@@ -516,9 +516,9 @@
 
 **🔗** https://github.com/jnMetaCode/superpowers-zh  
 **🍴** Forks 599 | **🔄** Updated 2026-06-23  
-**👤** jnMetaCode — open-source developer
+**👤** jnMetaCode — maintainer of the Chinese community edition of superpowers
 
-> 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skills，让 Claude Code / Copilot CLI / Hermes Agent / Cursor / Windsurf / Kiro / Gemini CLI 等 16 款 AI 编程工具真正会干活
+> Chinese community edition of superpowers — full translation plus 6 China-specific skills for 18 AI coding tools including Claude Code, Cursor, and Hermes Agent.
 
 **Matched Capabilities**: 🤖 Agent Integration · 🧪 TDD Workflow
 
@@ -552,9 +552,9 @@
 
 **🔗** https://github.com/antfu/skills  
 **🍴** Forks 303 | **🔄** Updated 2026-06-23  
-**👤** antfu — open-source developer
+**👤** Anthony Fu (antfu) — Vue/Vite core team member and frontend tooling author
 
-> Anthony Fu's curated collection of agent skills.
+> Anthony Fu's curated collection of agent skills for frontend and Vue ecosystem workflows.
 
 **Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
@@ -568,7 +568,7 @@
 - [agent-skills](#19-vercel-labsagent-skills-29k-) — Vercel's official agent skills collection
 - [skills](#20-vercel-labsskills-25k-) — `npx skills` tool — open-source agent skills CLI
 - [skills](#22-openaiskills-23k-) — Codex Skills directory
-- [SkillOpt](#33-microsoftskillopt-10k-) — SkillOpt is a text-space optimizer that trains reusable natu…
+- [SkillOpt](#33-microsoftskillopt-10k-) — Text-space optimizer that trains reusable natural-language s…
 
 ### 🤖 Agent Workflows & Methodology
 
@@ -577,7 +577,7 @@
 - [planning-with-files](#21-othmanadiplanning-with-files-24k-) — Persistent file-based planning for AI coding agents and long…
 - [Agent-Skills-for-Context-Engineering](#27-muratcankoylanagent-skills-for-context-engineering-17k-) — Comprehensive skill set for Context Engineering, multi-agent…
 - [stop-slop](#30-hardikpandyastop-slop-13k-) — A skill file for removing AI tells from prose
-- [superpowers-zh](#39-jnmetacodesuperpowers-zh-62k-) — 🦸 AI 编程超能力 · 中文增强版 — superpowers（116k+ ⭐）完整汉化 + 6 个中国原创 skil…
+- [superpowers-zh](#39-jnmetacodesuperpowers-zh-62k-) — Chinese community edition of superpowers — full translation …
 
 ### 📦 Domain Skills Collections
 
@@ -596,14 +596,14 @@
 
 - [skills](#4-mattpocockskills-153k-) — Matt Pocock's personal skills directory, curated directly fr…
 - [system-prompts-and-models-of-ai-tools](#5-x1xhlolsystem-prompts-and-models-of-ai-tools-141k-) — Collects complete system prompts, internal tools, and AI mod…
-- [ui-ux-pro-max-skill](#6-nextlevelbuilderui-ux-pro-max-skill-99k-) — An AI SKILL that provide design intelligence for building pr…
-- [caveman](#7-juliusbrusseecaveman-79k-) — 🪨 why use many token when few token do trick — Claude Code s…
+- [ui-ux-pro-max-skill](#6-nextlevelbuilderui-ux-pro-max-skill-99k-) — An AI Skill that provides design intelligence for building p…
+- [caveman](#7-juliusbrusseecaveman-79k-) — Claude Code skill that cuts token usage with caveman-style m…
 - [ponytail](#8-dietrichgebertponytail-71k-) — Makes your AI agent think like the laziest senior dev in the…
 - [agent-skills](#9-addyosmaniagent-skills-68k-) — Production-grade AI coding agent engineering skills collecti…
 - [taste-skill](#12-leonxlnxtaste-skill-54k-) — Open-source design taste skill that gives Cursor, Codex, Cla…
 - [last30days-skill](#14-mvanhornlast30days-skill-48k-) — AI agent research skill that searches any topic across Reddi…
-- [baoyu-skills](#23-jimliubaoyu-skills-23k-) — (Description pending)
-- [agentskills](#25-agentskillsagentskills-21k-) — Specification and documentation for Agent Skills
+- [baoyu-skills](#23-jimliubaoyu-skills-23k-) — Skills shared by Baoyu for improving daily work efficiency w…
+- [agentskills](#25-agentskillsagentskills-21k-) — Open specification and documentation for Agent Skills — the …
 - [claude-skills](#26-alirezarezvaniclaude-skills-20k-) — 337 Claude Code skills and agent plugins covering Claude Cod…
 - [agency-agents-zh](#28-jnmetacodeagency-agents-zh-16k-) — 🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Co…
 - [skills](#31-minimax-aiskills-13k-) — MiniMax AI Skills collection
@@ -613,7 +613,7 @@
 - [html-anything](#36-nexu-iohtml-anything-75k-) — The agentic HTML editor — your local AI agent writes the HTM…
 - [book-to-skill](#37-virgiliojr94book-to-skill-74k-) — Turn any technical book PDF into a Claude Code skill — ready…
 - [skills](#40-trailofbitsskills-6k-) — Trail of Bits' security research, vulnerability detection, a…
-- [skills](#42-antfuskills-55k-) — Anthony Fu's curated collection of agent skills
+- [skills](#42-antfuskills-55k-) — Anthony Fu's curated collection of agent skills for frontend…
 
 
 ---

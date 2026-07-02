@@ -151,7 +151,7 @@
 **🍴** Fork 91 | **🔄** Updated 2026-05-03  
 **👤** Kappaemme-git — 创业领域独立开发者
 
-> Codex 创业压力测试 Skill，JavaScript 实现。
+> Codex 创业点子压力测试 Skill：对 startup idea 做创始人式诊断，输出 verdict、核心假设、致命缺陷、首批客户动作与 2 周 MVP 方向。
 
 **匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
 
@@ -163,7 +163,7 @@
 **🍴** Fork 60 | **🔄** Updated 2026-05-12  
 **👤** warpdotdev — 开源开发者
 
-> （待补充中文描述）
+> Warp AI / Oz 的可复用 Agent Skills 精选集：以 .agents/skills/ 下的 Markdown 技能包帮助 agent 理解你的规范与工作流。
 
 **匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
 
@@ -175,7 +175,7 @@
 **🍴** Fork 39 | **🔄** Updated 2026-01-31  
 **👤** imxv — 开源开发者
 
-> （待补充中文描述）
+> 为 AI agent 提供 Mermaid 图表渲染能力的 Skill，支持 SVG 与 ASCII 两种输出格式。
 
 **匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
 
@@ -203,9 +203,9 @@
 - [OpenClaw-Medical-Skills](#7-freedomintelligenceopenclaw-medical-skills-28k-) — 最大开源医疗 AI 技能库，专为 OpenClaw 构建
 - [skill-scanner](#9-cisco-ai-defenseskill-scanner-23k-) — Cisco 出品，Agent Skills 安全扫描器
 - [nopua](#10-wuji-labsnopua-13k-) — 用爱解放 AI 潜能的 Skill
-- [codex-startup-pressure-test-skill](#11-kappaemme-gitcodex-startup-pressure-test-skill-964-) — Codex 创业压力测试 Skill，JavaScript 实现
-- [oz-skills](#12-warpdotdevoz-skills-816-) — （待补充中文描述）
-- [Pretty-mermaid-skills](#13-imxvpretty-mermaid-skills-763-) — （待补充中文描述）
+- [codex-startup-pressure-test-skill](#11-kappaemme-gitcodex-startup-pressure-test-skill-964-) — Codex 创业点子压力测试 Skill：对 startup idea 做创始人式诊断，输出 verdict、核心假设、…
+- [oz-skills](#12-warpdotdevoz-skills-816-) — Warp AI / Oz 的可复用 Agent Skills 精选集：以 .agents/skills/ 下的 Mark…
+- [Pretty-mermaid-skills](#13-imxvpretty-mermaid-skills-763-) — 为 AI agent 提供 Mermaid 图表渲染能力的 Skill，支持 SVG 与 ASCII 两种输出格式
 
 
 ---

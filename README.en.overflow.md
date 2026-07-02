@@ -151,7 +151,7 @@
 **🍴** Forks 91 | **🔄** Updated 2026-05-03  
 **👤** Kappaemme-git — Independent developer in the startup space
 
-> Codex startup pressure test skill. JavaScript implementation.
+> Codex skill that brutally pressure-tests startup ideas — returns verdict, scorecard, fatal flaws, first customer moves, and a 2-week MVP direction.
 
 **Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
@@ -163,7 +163,7 @@
 **🍴** Forks 60 | **🔄** Updated 2026-05-12  
 **👤** warpdotdev — open-source developer
 
-> (Description pending)
+> Curated reusable Agent Skills for Warp AI agents and Oz — markdown guides in .agents/skills/ that agents auto-discover.
 
 **Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
@@ -175,7 +175,7 @@
 **🍴** Forks 39 | **🔄** Updated 2026-01-31  
 **👤** imxv — open-source developer
 
-> To provide AI with Mermaid chart rendering capability, supporting both SVG and ASCII output formats
+> Agent Skill for Mermaid chart rendering with SVG and ASCII output formats.
 
 **Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
 
@@ -203,9 +203,9 @@
 - [OpenClaw-Medical-Skills](#7-freedomintelligenceopenclaw-medical-skills-28k-) — The largest open-source medical AI skills library, built spe…
 - [skill-scanner](#9-cisco-ai-defenseskill-scanner-23k-) — Agent Skills security scanner by Cisco
 - [nopua](#10-wuji-labsnopua-13k-) — A skill that unlocks your AI's potential through love
-- [codex-startup-pressure-test-skill](#11-kappaemme-gitcodex-startup-pressure-test-skill-964-) — Codex startup pressure test skill
-- [oz-skills](#12-warpdotdevoz-skills-816-) — (Description pending)
-- [Pretty-mermaid-skills](#13-imxvpretty-mermaid-skills-763-) — To provide AI with Mermaid chart rendering capability, suppo…
+- [codex-startup-pressure-test-skill](#11-kappaemme-gitcodex-startup-pressure-test-skill-964-) — Codex skill that brutally pressure-tests startup ideas — ret…
+- [oz-skills](#12-warpdotdevoz-skills-816-) — Curated reusable Agent Skills for Warp AI agents and Oz — ma…
+- [Pretty-mermaid-skills](#13-imxvpretty-mermaid-skills-763-) — Agent Skill for Mermaid chart rendering with SVG and ASCII o…
 
 
 ---
