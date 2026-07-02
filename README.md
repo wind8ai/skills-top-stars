@@ -120,7 +120,7 @@
 
 **🔗** https://github.com/nextlevelbuilder/ui-ux-pro-max-skill  
 **🍴** Fork 10k | **🔄** Updated 2026-07-02  
-**👤** nextlevelbuilder — 开源开发者
+**👤** Next Level Builder — UI UX Pro Max Skill 作者，内置 161 条设计推理规则与 67 种 UI 风格
 
 > 面向多平台专业 UI/UX 构建的设计智能 Skill，为 AI coding agent 提供设计决策与界面产出能力。
 
@@ -132,7 +132,7 @@
 
 **🔗** https://github.com/JuliusBrussee/caveman  
 **🍴** Fork 4.5k | **🔄** Updated 2026-06-12  
-**👤** JuliusBrussee — 开源开发者
+**👤** Julius Brussee — caveman Token 优化 Skill 作者
 
 > Claude Code Token 优化 Skill：用「原始人」式极简表达削减约 65% token 消耗，少字了事。
 
@@ -144,7 +144,7 @@
 
 **🔗** https://github.com/DietrichGebert/ponytail  
 **🍴** Fork 3.6k | **🔄** Updated 2026-07-01  
-**👤** DietrichGebert — 开源开发者
+**👤** DietrichGebert — Ponytail「懒 senior dev」Skill 作者，兼容 16+ AI agent
 
 > 让 AI agent 像「最懒的 senior dev」一样思考：最好的代码，是你从未写下的那部分。
 
@@ -300,7 +300,7 @@
 
 **🔗** https://github.com/OthmanAdi/planning-with-files  
 **🍴** Fork 2.1k | **🔄** Updated 2026-06-16  
-**👤** OthmanAdi — 开源开发者
+**👤** Ahmad Othman Adi (OthmanAdi) — migRaven 教育者，planning-with-files 持久化文件规划 Skill 作者
 
 > 面向 AI coding agent 的持久化文件规划 Skill。用 Markdown 计划文件对抗上下文丢失与 /clear，附带确定性完成门禁，适合长周期 agentic 任务。
 
@@ -348,7 +348,7 @@
 
 **🔗** https://github.com/agentskills/agentskills  
 **🍴** Fork 1.4k | **🔄** Updated 2026-07-01  
-**👤** agentskills — 开源开发者
+**👤** Agent Skills 社区 — Agent Skills 开放标准（agentskills.io）维护组织
 
 > Agent Skills 开放标准与规范文档，定义 SKILL.md 格式、参考实现与生态指南（agentskills.io）。
 
@@ -384,7 +384,7 @@
 
 **🔗** https://github.com/jnMetaCode/agency-agents-zh  
 **🍴** Fork 2.8k | **🔄** Updated 2026-07-01  
-**👤** jnMetaCode — 开源开发者
+**👤** AI不止语（jnMetaCode）— 266 角色 Agent 编排与 superpowers 中文社区版维护者
 
 > 266 个即插即用的 AI 专家角色，覆盖工程/设计/营销/金融等 20 个部门；含 50 个中国市场原创智能体，配合 agency-orchestrator 实现 DAG 多专家协作。
 
@@ -432,7 +432,7 @@
 
 **🔗** https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep  
 **🍴** Fork 1.2k | **🔄** Updated 2026-06-30  
-**👤** wanshuiyin — 开源开发者
+**👤** 杨若风（wanshuiyin）— 上海交通大学，ARIS 睡后 ML 研究 Skills 作者
 
 > ARIS 纯 Markdown Skills，支持跨模型评审、idea 发现与实验自动化，实现「睡后」自主 ML 研究循环。无框架绑定，兼容 Claude Code / Codex 等主流 Agent。
 
@@ -444,7 +444,7 @@
 
 **🔗** https://github.com/microsoft/SkillOpt  
 **🍴** Fork 967 | **🔄** Updated 2026-06-30  
-**👤** microsoft — 开源开发者
+**👤** Microsoft 研究团队 — SkillOpt Skill 文本优化器出品方
 
 > Microsoft 出品的 Skill 文本优化器：通过轨迹驱动编辑与验证门控，为冻结权重的 LLM agent 训练可复用的自然语言 Skill，产出 best_skill.md。
 
@@ -468,7 +468,7 @@
 
 **🔗** https://github.com/revfactory/harness  
 **🍴** Fork 1.1k | **🔄** Updated 2026-06-10  
-**👤** revfactory — 开源开发者
+**👤** Minho Hwang (revfactory) — Kakao 工程师，Harness 元 Skill 作者
 
 > 元 Skill：自动设计领域专属 Agent 团队、定义专岗 Agent 并生成其所需 Skills，适合快速搭建多角色协作工作流。
 
@@ -492,7 +492,7 @@
 
 **🔗** https://github.com/virgiliojr94/book-to-skill  
 **🍴** Fork 915 | **🔄** Updated 2026-06-30  
-**👤** virgiliojr94 — 开源开发者
+**👤** Virgilio Junior — Stone/Pagar.me SRE，book-to-skill PDF 转 Skill 工具作者
 
 > 将技术书籍 PDF 一键转为 Claude Code Skill，便于边开发边查阅、学习与引用书中知识。
 
@@ -516,7 +516,7 @@
 
 **🔗** https://github.com/jnMetaCode/superpowers-zh  
 **🍴** Fork 599 | **🔄** Updated 2026-06-23  
-**👤** jnMetaCode — superpowers 中文社区版维护者
+**👤** AI不止语（jnMetaCode）— superpowers 中文社区版维护者
 
 > superpowers 完整汉化 + 6 个中国原创 skills，让 Claude Code、Cursor、Hermes Agent 等 18 款 AI 编程工具真正会干活。
 

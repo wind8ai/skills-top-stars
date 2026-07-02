@@ -120,7 +120,7 @@
 
 **🔗** https://github.com/nextlevelbuilder/ui-ux-pro-max-skill  
 **🍴** Forks 10k | **🔄** Updated 2026-07-02  
-**👤** nextlevelbuilder — open-source developer
+**👤** Next Level Builder — creator of UI UX Pro Max Skill with 161 design reasoning rules and 67 UI styles
 
 > An AI Skill that provides design intelligence for building professional UI/UX across multiple platforms.
 
@@ -132,7 +132,7 @@
 
 **🔗** https://github.com/JuliusBrussee/caveman  
 **🍴** Forks 4.5k | **🔄** Updated 2026-06-12  
-**👤** JuliusBrussee — open-source developer
+**👤** Julius Brussee — creator of the caveman token-saving Claude Code skill
 
 > Claude Code skill that cuts token usage with caveman-style minimal phrasing — why use many token when few token do trick.
 
@@ -144,7 +144,7 @@
 
 **🔗** https://github.com/DietrichGebert/ponytail  
 **🍴** Forks 3.6k | **🔄** Updated 2026-07-01  
-**👤** DietrichGebert — open-source developer
+**👤** DietrichGebert — creator of Ponytail, the lazy senior dev skill for 16+ AI agents
 
 > Makes your AI agent think like the laziest senior dev in the room — the best code is the code you never wrote.
 
@@ -300,7 +300,7 @@
 
 **🔗** https://github.com/OthmanAdi/planning-with-files  
 **🍴** Forks 2.1k | **🔄** Updated 2026-06-16  
-**👤** OthmanAdi — open-source developer
+**👤** Ahmad Othman Adi (OthmanAdi) — educator at migRaven and author of planning-with-files
 
 > Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.
 
@@ -348,7 +348,7 @@
 
 **🔗** https://github.com/agentskills/agentskills  
 **🍴** Forks 1.4k | **🔄** Updated 2026-07-01  
-**👤** agentskills — open-source developer
+**👤** Agent Skills community — maintainers of the open Agent Skills standard (agentskills.io)
 
 > Open specification and documentation for Agent Skills — the SKILL.md format, reference library, and ecosystem guides at agentskills.io.
 
@@ -384,7 +384,7 @@
 
 **🔗** https://github.com/jnMetaCode/agency-agents-zh  
 **🍴** Forks 2.8k | **🔄** Updated 2026-07-01  
-**👤** jnMetaCode — open-source developer
+**👤** jnMetaCode — maintainer of agency-agents-zh and the Chinese superpowers community edition
 
 > 🎭 266 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 18 种工具，覆盖工程/设计/营销/金融等 20 个部门。含 50 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等）。搭配编排器 agency-orchestrator，一句话即可让多位专家按 DAG 自动协作。
 
@@ -432,7 +432,7 @@
 
 **🔗** https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep  
 **🍴** Forks 1.2k | **🔄** Updated 2026-06-30  
-**👤** wanshuiyin — open-source developer
+**👤** Yang Ruofeng (wanshuiyin) — Shanghai Jiao Tong University; author of ARIS sleep-mode ML research skills
 
 > ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
 
@@ -444,7 +444,7 @@
 
 **🔗** https://github.com/microsoft/SkillOpt  
 **🍴** Forks 967 | **🔄** Updated 2026-06-30  
-**👤** microsoft — open-source developer
+**👤** Microsoft Research — creators of the SkillOpt skill text optimizer
 
 > Text-space optimizer that trains reusable natural-language skills for frozen LLM agents via trajectory-driven edits and deployable best_skill.md artifacts.
 
@@ -468,7 +468,7 @@
 
 **🔗** https://github.com/revfactory/harness  
 **🍴** Forks 1.1k | **🔄** Updated 2026-06-10  
-**👤** revfactory — open-source developer
+**👤** Minho Hwang (revfactory) — engineer at Kakao and author of the Harness meta-skill
 
 > A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 
@@ -492,7 +492,7 @@
 
 **🔗** https://github.com/virgiliojr94/book-to-skill  
 **🍴** Forks 915 | **🔄** Updated 2026-06-30  
-**👤** virgiliojr94 — open-source developer
+**👤** Virgilio Junior — SRE at Stone/Pagar.me and author of book-to-skill
 
 > Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 

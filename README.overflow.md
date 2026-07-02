@@ -149,7 +149,7 @@
 
 **🔗** https://github.com/Kappaemme-git/codex-startup-pressure-test-skill  
 **🍴** Fork 91 | **🔄** Updated 2026-05-03  
-**👤** Kappaemme-git — 创业领域独立开发者
+**👤** Francesco（Kappaemme-git）— 那不勒斯 Federico II 计算机科学学生，创业压力测试 Skill 作者
 
 > Codex 创业点子压力测试 Skill：对 startup idea 做创始人式诊断，输出 verdict、核心假设、致命缺陷、首批客户动作与 2 周 MVP 方向。
 
@@ -161,7 +161,7 @@
 
 **🔗** https://github.com/warpdotdev/oz-skills  
 **🍴** Fork 60 | **🔄** Updated 2026-05-12  
-**👤** warpdotdev — 开源开发者
+**👤** Warp 官方团队 — 终端 AI agent 平台，Oz Skills 策展维护方
 
 > Warp AI / Oz 的可复用 Agent Skills 精选集：以 .agents/skills/ 下的 Markdown 技能包帮助 agent 理解你的规范与工作流。
 
@@ -173,7 +173,7 @@
 
 **🔗** https://github.com/imxv/Pretty-mermaid-skills  
 **🍴** Fork 39 | **🔄** Updated 2026-01-31  
-**👤** imxv — 开源开发者
+**👤** imxv — Pretty Mermaid Skills 独立开发者
 
 > 为 AI agent 提供 Mermaid 图表渲染能力的 Skill，支持 SVG 与 ASCII 两种输出格式。
 

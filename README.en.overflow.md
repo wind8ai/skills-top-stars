@@ -149,7 +149,7 @@
 
 **🔗** https://github.com/Kappaemme-git/codex-startup-pressure-test-skill  
 **🍴** Forks 91 | **🔄** Updated 2026-05-03  
-**👤** Kappaemme-git — Independent developer in the startup space
+**👤** Francesco (Kappaemme-git) — CS student at University of Naples Federico II; author of the startup pressure-test skill
 
 > Codex skill that brutally pressure-tests startup ideas — returns verdict, scorecard, fatal flaws, first customer moves, and a 2-week MVP direction.
 
@@ -161,7 +161,7 @@
 
 **🔗** https://github.com/warpdotdev/oz-skills  
 **🍴** Forks 60 | **🔄** Updated 2026-05-12  
-**👤** warpdotdev — open-source developer
+**👤** Warp team — maintainers of Oz Skills for Warp AI agents
 
 > Curated reusable Agent Skills for Warp AI agents and Oz — markdown guides in .agents/skills/ that agents auto-discover.
 
@@ -173,7 +173,7 @@
 
 **🔗** https://github.com/imxv/Pretty-mermaid-skills  
 **🍴** Forks 39 | **🔄** Updated 2026-01-31  
-**👤** imxv — open-source developer
+**👤** imxv — independent developer of Pretty Mermaid Skills
 
 > Agent Skill for Mermaid chart rendering with SVG and ASCII output formats.
 
