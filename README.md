@@ -52,6 +52,8 @@
 41. [deanpeters/Product-Manager-Skills (5.5k ⭐)](#41-deanpetersproduct-manager-skills-55k-)
 42. [antfu/skills (5.5k ⭐)](#42-antfuskills-55k-)
 
+→ [备选榜（13 条）](./README.overflow.md)
+
 ---
 
 ## 1. obra/superpowers (244k ⭐)
