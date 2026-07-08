@@ -3,21 +3,34 @@
 **中文** | [English](./README.en.overflow.md) · [正式榜](./README.md)
 
 > Star List 中超出正式榜 42 上限、仍满足收录门槛（Star ≥ 500）的条目，按 GitHub Star 总数降序  
+<<<<<<< HEAD
 > 来源：[wind8ai 的 skills 列表](https://github.com/stars/wind8ai/lists/skills) · 更新：2026-07-07
+=======
+> 来源：[wind8ai 的 skills 列表](https://github.com/stars/wind8ai/lists/skills) · 更新：2026-07-08
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 
 ---
 
 ## Contents
 
+<<<<<<< HEAD
 01. [browser-act/skills (3.8k ⭐)](#1-browser-actskills-38k-)
 02. [Dimillian/Skills (3.8k ⭐)](#2-dimillianskills-38k-)
 03. [google-gemini/gemini-skills (3.8k ⭐)](#3-google-geminigemini-skills-38k-)
 04. [pasky/chrome-cdp-skill (3.2k ⭐)](#4-paskychrome-cdp-skill-32k-)
 05. [axtonliu/axton-obsidian-visual-skills (3.2k ⭐)](#5-axtonliuaxton-obsidian-visual-skills-32k-)
+=======
+01. [browser-act/skills (4k ⭐)](#1-browser-actskills-4k-)
+02. [Dimillian/Skills (3.8k ⭐)](#2-dimillianskills-38k-)
+03. [google-gemini/gemini-skills (3.8k ⭐)](#3-google-geminigemini-skills-38k-)
+04. [axtonliu/axton-obsidian-visual-skills (3.2k ⭐)](#4-axtonliuaxton-obsidian-visual-skills-32k-)
+05. [pasky/chrome-cdp-skill (3.2k ⭐)](#5-paskychrome-cdp-skill-32k-)
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 06. [FreedomIntelligence/OpenClaw-Medical-Skills (2.8k ⭐)](#6-freedomintelligenceopenclaw-medical-skills-28k-)
 07. [microsoft/skills (2.7k ⭐)](#7-microsoftskills-27k-)
 08. [cisco-ai-defense/skill-scanner (2.3k ⭐)](#8-cisco-ai-defenseskill-scanner-23k-)
 09. [wuji-labs/nopua (1.3k ⭐)](#9-wuji-labsnopua-13k-)
+<<<<<<< HEAD
 10. [Kappaemme-git/codex-startup-pressure-test-skill (966 ⭐)](#10-kappaemme-gitcodex-startup-pressure-test-skill-966-)
 11. [warpdotdev/oz-skills (818 ⭐)](#11-warpdotdevoz-skills-818-)
 12. [imxv/Pretty-mermaid-skills (767 ⭐)](#12-imxvpretty-mermaid-skills-767-)
@@ -28,6 +41,18 @@
 
 **🔗** https://github.com/browser-act/skills  
 **🍴** Fork 166 | **🔄** Updated 2026-06-26  
+=======
+10. [Kappaemme-git/codex-startup-pressure-test-skill (965 ⭐)](#10-kappaemme-gitcodex-startup-pressure-test-skill-965-)
+11. [warpdotdev/oz-skills (818 ⭐)](#11-warpdotdevoz-skills-818-)
+12. [imxv/Pretty-mermaid-skills (768 ⭐)](#12-imxvpretty-mermaid-skills-768-)
+
+---
+
+## 1. browser-act/skills (4k ⭐)
+
+**🔗** https://github.com/browser-act/skills  
+**🍴** Fork 176 | **🔄** Updated 2026-06-26  
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 **👤** browser-act — 浏览器自动化 CLI 团队，专注 AI agent 的浏览器控制
 
 > 浏览器自动化 CLI，为 AI agent 构建，支持多任务并行，突破反爬机制，跨平台人工交接。
@@ -44,23 +69,51 @@
 
 > Dimillian 的个人 Codex Skills 集合，Shell 实现。
 
+<<<<<<< HEAD
 **匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
+=======
+**匹配能力**：🤖 Agent 集成 · 📦 Skills 合集
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 
 ---
 
 ## 3. google-gemini/gemini-skills (3.8k ⭐)
 
 **🔗** https://github.com/google-gemini/gemini-skills  
+<<<<<<< HEAD
 **🍴** Fork 375 | **🔄** Updated 2026-06-30  
+=======
+**🍴** Fork 376 | **🔄** Updated 2026-06-30  
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 **👤** Google Gemini 官方团队 — Gemini API 和 SDK 的维护方
 
 > Gemini API、SDK 和 model/agent 交互的 Skills。
 
+<<<<<<< HEAD
 **匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
 ## 4. pasky/chrome-cdp-skill (3.2k ⭐)
+=======
+**匹配能力**：🤖 Agent 集成 · 📦 Skills 合集
+
+---
+
+## 4. axtonliu/axton-obsidian-visual-skills (3.2k ⭐)
+
+**🔗** https://github.com/axtonliu/axton-obsidian-visual-skills  
+**🍴** Fork 288 | **🔄** Updated 2026-06-26  
+**👤** Axton Liu — Obsidian 可视化领域实践者
+
+> Obsidian 可视化 skills，生成 Canvas/Excalidraw/Mermaid 图表。
+
+**匹配能力**：🤖 Agent 集成 · 📦 Skills 合集
+
+---
+
+## 5. pasky/chrome-cdp-skill (3.2k ⭐)
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 
 **🔗** https://github.com/pasky/chrome-cdp-skill  
 **🍴** Fork 201 | **🔄** Updated 2026-06-28  
@@ -72,6 +125,7 @@
 
 ---
 
+<<<<<<< HEAD
 ## 5. axtonliu/axton-obsidian-visual-skills (3.2k ⭐)
 
 **🔗** https://github.com/axtonliu/axton-obsidian-visual-skills  
@@ -84,6 +138,8 @@
 
 ---
 
+=======
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 ## 6. FreedomIntelligence/OpenClaw-Medical-Skills (2.8k ⭐)
 
 **🔗** https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills  
@@ -99,7 +155,11 @@
 ## 7. microsoft/skills (2.7k ⭐)
 
 **🔗** https://github.com/microsoft/skills  
+<<<<<<< HEAD
 **🍴** Fork 304 | **🔄** Updated 2026-07-06  
+=======
+**🍴** Fork 305 | **🔄** Updated 2026-07-07  
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 **👤** Microsoft 官方团队 — SDK 和开发者工具生态的构建者
 
 > Microsoft 官方出品，SDK 用的 Skills、MCP servers、Custom Agents。TypeScript 实现。
@@ -111,7 +171,11 @@
 ## 8. cisco-ai-defense/skill-scanner (2.3k ⭐)
 
 **🔗** https://github.com/cisco-ai-defense/skill-scanner  
+<<<<<<< HEAD
 **🍴** Fork 284 | **🔄** Updated 2026-06-29  
+=======
+**🍴** Fork 286 | **🔄** Updated 2026-06-29  
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 **👤** Cisco AI Defense — Cisco 旗下 AI 安全团队
 
 > Cisco 出品，Agent Skills 安全扫描器。
@@ -132,7 +196,11 @@
 
 ---
 
+<<<<<<< HEAD
 ## 10. Kappaemme-git/codex-startup-pressure-test-skill (966 ⭐)
+=======
+## 10. Kappaemme-git/codex-startup-pressure-test-skill (965 ⭐)
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 
 **🔗** https://github.com/Kappaemme-git/codex-startup-pressure-test-skill  
 **🍴** Fork 91 | **🔄** Updated 2026-05-03  
@@ -156,7 +224,11 @@
 
 ---
 
+<<<<<<< HEAD
 ## 12. imxv/Pretty-mermaid-skills (767 ⭐)
+=======
+## 12. imxv/Pretty-mermaid-skills (768 ⭐)
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 
 **🔗** https://github.com/imxv/Pretty-mermaid-skills  
 **🍴** Fork 39 | **🔄** Updated 2026-01-31  
@@ -175,6 +247,7 @@
 
 ### 📦 领域 Skills 合集
 
+<<<<<<< HEAD
 - [axton-obsidian-visual-skills](#5-axtonliuaxton-obsidian-visual-skills-32k-) — Obsidian 可视化 skills，生成 Canvas/Excalidraw/Mermaid 图表
 
 ### 🔧 工具与质量
@@ -189,6 +262,22 @@
 - [codex-startup-pressure-test-skill](#10-kappaemme-gitcodex-startup-pressure-test-skill-966-) — Codex 创业点子压力测试 Skill：对 startup idea 做创始人式诊断，输出 verdict、核心假设、…
 - [oz-skills](#11-warpdotdevoz-skills-818-) — Warp AI / Oz 的可复用 Agent Skills 精选集：以 .agents/skills/ 下的 Mark…
 - [Pretty-mermaid-skills](#12-imxvpretty-mermaid-skills-767-) — 为 AI agent 提供 Mermaid 图表渲染能力的 Skill，支持 SVG 与 ASCII 两种输出格式
+=======
+- [axton-obsidian-visual-skills](#4-axtonliuaxton-obsidian-visual-skills-32k-) — Obsidian 可视化 skills，生成 Canvas/Excalidraw/Mermaid 图表
+
+### 🔧 工具与质量
+
+- [skills](#1-browser-actskills-4k-) — 浏览器自动化 CLI，为 AI agent 构建，支持多任务并行，突破反爬机制，跨平台人工交接
+- [Skills](#2-dimillianskills-38k-) — Dimillian 的个人 Codex Skills 集合，Shell 实现
+- [gemini-skills](#3-google-geminigemini-skills-38k-) — Gemini API、SDK 和 model/agent 交互的 Skills
+- [chrome-cdp-skill](#5-paskychrome-cdp-skill-32k-) — 让 AI agent 直接接管已打开的 Chrome 标签页，CDP 协议实现
+- [OpenClaw-Medical-Skills](#6-freedomintelligenceopenclaw-medical-skills-28k-) — 最大开源医疗 AI 技能库，专为 OpenClaw 构建
+- [skill-scanner](#8-cisco-ai-defenseskill-scanner-23k-) — Cisco 出品，Agent Skills 安全扫描器
+- [nopua](#9-wuji-labsnopua-13k-) — 用爱解放 AI 潜能的 Skill
+- [codex-startup-pressure-test-skill](#10-kappaemme-gitcodex-startup-pressure-test-skill-965-) — Codex 创业点子压力测试 Skill：对 startup idea 做创始人式诊断，输出 verdict、核心假设、…
+- [oz-skills](#11-warpdotdevoz-skills-818-) — Warp AI / Oz 的可复用 Agent Skills 精选集：以 .agents/skills/ 下的 Mark…
+- [Pretty-mermaid-skills](#12-imxvpretty-mermaid-skills-768-) — 为 AI agent 提供 Mermaid 图表渲染能力的 Skill，支持 SVG 与 ASCII 两种输出格式
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 
 
 ---
@@ -208,4 +297,8 @@
 
 ---
 
+<<<<<<< HEAD
 *由 wind8 整理 | 2026-07-07*
+=======
+*由 wind8 整理 | 2026-07-08*
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)

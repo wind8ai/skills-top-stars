@@ -3,21 +3,34 @@
 [中文](./README.overflow.md) | **English** · [Formal List](./README.en.md)
 
 > Eligible Star List entries beyond the formal cap of 42, ranked by total GitHub Stars (minimum 500 stars)  
+<<<<<<< HEAD
 > Source: [wind8ai skills list](https://github.com/stars/wind8ai/lists/skills) · Updated: 2026-07-07
+=======
+> Source: [wind8ai skills list](https://github.com/stars/wind8ai/lists/skills) · Updated: 2026-07-08
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 
 ---
 
 ## Contents
 
+<<<<<<< HEAD
 01. [browser-act/skills (3.8k ⭐)](#1-browser-actskills-38k-)
 02. [Dimillian/Skills (3.8k ⭐)](#2-dimillianskills-38k-)
 03. [google-gemini/gemini-skills (3.8k ⭐)](#3-google-geminigemini-skills-38k-)
 04. [pasky/chrome-cdp-skill (3.2k ⭐)](#4-paskychrome-cdp-skill-32k-)
 05. [axtonliu/axton-obsidian-visual-skills (3.2k ⭐)](#5-axtonliuaxton-obsidian-visual-skills-32k-)
+=======
+01. [browser-act/skills (4k ⭐)](#1-browser-actskills-4k-)
+02. [Dimillian/Skills (3.8k ⭐)](#2-dimillianskills-38k-)
+03. [google-gemini/gemini-skills (3.8k ⭐)](#3-google-geminigemini-skills-38k-)
+04. [axtonliu/axton-obsidian-visual-skills (3.2k ⭐)](#4-axtonliuaxton-obsidian-visual-skills-32k-)
+05. [pasky/chrome-cdp-skill (3.2k ⭐)](#5-paskychrome-cdp-skill-32k-)
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 06. [FreedomIntelligence/OpenClaw-Medical-Skills (2.8k ⭐)](#6-freedomintelligenceopenclaw-medical-skills-28k-)
 07. [microsoft/skills (2.7k ⭐)](#7-microsoftskills-27k-)
 08. [cisco-ai-defense/skill-scanner (2.3k ⭐)](#8-cisco-ai-defenseskill-scanner-23k-)
 09. [wuji-labs/nopua (1.3k ⭐)](#9-wuji-labsnopua-13k-)
+<<<<<<< HEAD
 10. [Kappaemme-git/codex-startup-pressure-test-skill (966 ⭐)](#10-kappaemme-gitcodex-startup-pressure-test-skill-966-)
 11. [warpdotdev/oz-skills (818 ⭐)](#11-warpdotdevoz-skills-818-)
 12. [imxv/Pretty-mermaid-skills (767 ⭐)](#12-imxvpretty-mermaid-skills-767-)
@@ -28,6 +41,18 @@
 
 **🔗** https://github.com/browser-act/skills  
 **🍴** Forks 166 | **🔄** Updated 2026-06-26  
+=======
+10. [Kappaemme-git/codex-startup-pressure-test-skill (965 ⭐)](#10-kappaemme-gitcodex-startup-pressure-test-skill-965-)
+11. [warpdotdev/oz-skills (818 ⭐)](#11-warpdotdevoz-skills-818-)
+12. [imxv/Pretty-mermaid-skills (768 ⭐)](#12-imxvpretty-mermaid-skills-768-)
+
+---
+
+## 1. browser-act/skills (4k ⭐)
+
+**🔗** https://github.com/browser-act/skills  
+**🍴** Forks 176 | **🔄** Updated 2026-06-26  
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 **👤** browser-act — Browser automation CLI team, focused on AI agent browser control
 
 > Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution.
@@ -51,7 +76,11 @@
 ## 3. google-gemini/gemini-skills (3.8k ⭐)
 
 **🔗** https://github.com/google-gemini/gemini-skills  
+<<<<<<< HEAD
 **🍴** Forks 375 | **🔄** Updated 2026-06-30  
+=======
+**🍴** Forks 376 | **🔄** Updated 2026-06-30  
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 **👤** Google Gemini Official Team — Maintainers of the Gemini API and SDK
 
 > Skills for Gemini API, SDK, and model/agent interaction.
@@ -60,7 +89,23 @@
 
 ---
 
+<<<<<<< HEAD
 ## 4. pasky/chrome-cdp-skill (3.2k ⭐)
+=======
+## 4. axtonliu/axton-obsidian-visual-skills (3.2k ⭐)
+
+**🔗** https://github.com/axtonliu/axton-obsidian-visual-skills  
+**🍴** Forks 288 | **🔄** Updated 2026-06-26  
+**👤** Axton Liu — Practitioner in the Obsidian visualization space
+
+> Obsidian visual skills for generating Canvas/Excalidraw/Mermaid diagrams.
+
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
+
+---
+
+## 5. pasky/chrome-cdp-skill (3.2k ⭐)
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 
 **🔗** https://github.com/pasky/chrome-cdp-skill  
 **🍴** Forks 201 | **🔄** Updated 2026-06-28  
@@ -72,6 +117,7 @@
 
 ---
 
+<<<<<<< HEAD
 ## 5. axtonliu/axton-obsidian-visual-skills (3.2k ⭐)
 
 **🔗** https://github.com/axtonliu/axton-obsidian-visual-skills  
@@ -84,6 +130,8 @@
 
 ---
 
+=======
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 ## 6. FreedomIntelligence/OpenClaw-Medical-Skills (2.8k ⭐)
 
 **🔗** https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills  
@@ -99,7 +147,11 @@
 ## 7. microsoft/skills (2.7k ⭐)
 
 **🔗** https://github.com/microsoft/skills  
+<<<<<<< HEAD
 **🍴** Forks 304 | **🔄** Updated 2026-07-06  
+=======
+**🍴** Forks 305 | **🔄** Updated 2026-07-07  
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 **👤** Microsoft Official Team — Builders of the SDK and developer tools ecosystem
 
 > Microsoft official Skills, MCP servers, and Custom Agents for SDKs. TypeScript implementation.
@@ -111,7 +163,11 @@
 ## 8. cisco-ai-defense/skill-scanner (2.3k ⭐)
 
 **🔗** https://github.com/cisco-ai-defense/skill-scanner  
+<<<<<<< HEAD
 **🍴** Forks 284 | **🔄** Updated 2026-06-29  
+=======
+**🍴** Forks 286 | **🔄** Updated 2026-06-29  
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 **👤** Cisco AI Defense — Cisco's AI security team
 
 > Agent Skills security scanner by Cisco.
@@ -132,7 +188,11 @@
 
 ---
 
+<<<<<<< HEAD
 ## 10. Kappaemme-git/codex-startup-pressure-test-skill (966 ⭐)
+=======
+## 10. Kappaemme-git/codex-startup-pressure-test-skill (965 ⭐)
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 
 **🔗** https://github.com/Kappaemme-git/codex-startup-pressure-test-skill  
 **🍴** Forks 91 | **🔄** Updated 2026-05-03  
@@ -156,7 +216,11 @@
 
 ---
 
+<<<<<<< HEAD
 ## 12. imxv/Pretty-mermaid-skills (767 ⭐)
+=======
+## 12. imxv/Pretty-mermaid-skills (768 ⭐)
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 
 **🔗** https://github.com/imxv/Pretty-mermaid-skills  
 **🍴** Forks 39 | **🔄** Updated 2026-01-31  
@@ -175,6 +239,7 @@
 
 ### 📦 Domain Skills Collections
 
+<<<<<<< HEAD
 - [axton-obsidian-visual-skills](#5-axtonliuaxton-obsidian-visual-skills-32k-) — Obsidian visual skills for generating Canvas/Excalidraw/Merm…
 
 ### 🔧 Tooling & Quality
@@ -189,6 +254,22 @@
 - [codex-startup-pressure-test-skill](#10-kappaemme-gitcodex-startup-pressure-test-skill-966-) — Codex skill that brutally pressure-tests startup ideas — ret…
 - [oz-skills](#11-warpdotdevoz-skills-818-) — Curated reusable Agent Skills for Warp AI agents and Oz — ma…
 - [Pretty-mermaid-skills](#12-imxvpretty-mermaid-skills-767-) — Agent Skill for Mermaid chart rendering with SVG and ASCII o…
+=======
+- [axton-obsidian-visual-skills](#4-axtonliuaxton-obsidian-visual-skills-32k-) — Obsidian visual skills for generating Canvas/Excalidraw/Merm…
+
+### 🔧 Tooling & Quality
+
+- [skills](#1-browser-actskills-4k-) — Browser automation CLI built for AI agents
+- [Skills](#2-dimillianskills-38k-) — Dimillian's personal Codex Skills collection
+- [gemini-skills](#3-google-geminigemini-skills-38k-) — Skills for Gemini API, SDK, and model/agent interaction
+- [chrome-cdp-skill](#5-paskychrome-cdp-skill-32k-) — Give your AI agent access to your live Chrome session — work…
+- [OpenClaw-Medical-Skills](#6-freedomintelligenceopenclaw-medical-skills-28k-) — The largest open-source medical AI skills library, built spe…
+- [skill-scanner](#8-cisco-ai-defenseskill-scanner-23k-) — Agent Skills security scanner by Cisco
+- [nopua](#9-wuji-labsnopua-13k-) — A skill that unlocks your AI's potential through love
+- [codex-startup-pressure-test-skill](#10-kappaemme-gitcodex-startup-pressure-test-skill-965-) — Codex skill that brutally pressure-tests startup ideas — ret…
+- [oz-skills](#11-warpdotdevoz-skills-818-) — Curated reusable Agent Skills for Warp AI agents and Oz — ma…
+- [Pretty-mermaid-skills](#12-imxvpretty-mermaid-skills-768-) — Agent Skill for Mermaid chart rendering with SVG and ASCII o…
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
 
 
 ---
@@ -208,4 +289,8 @@ Linked projects remain under their respective upstream licenses.
 
 ---
 
+<<<<<<< HEAD
 *Curated by wind8 | 2026-07-07*
+=======
+*Curated by wind8 | 2026-07-08*
+>>>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
