@@ -3,7 +3,7 @@
 [中文](./README.overflow.md) | **English** · [Formal List](./README.en.md)
 
 > Eligible Star List entries beyond the formal cap of 42, ranked by total GitHub Stars (minimum 500 stars)  
-> Source: [wind8ai skills list](https://github.com/stars/wind8ai/lists/skills) · Updated: 2026-07-11
+> Source: [wind8ai skills list](https://github.com/stars/wind8ai/lists/skills) · Updated: 2026-07-13
 
 ---
 
@@ -18,16 +18,16 @@
 07. [microsoft/skills (2.7k ⭐)](#7-microsoftskills-27k-)
 08. [cisco-ai-defense/skill-scanner (2.3k ⭐)](#8-cisco-ai-defenseskill-scanner-23k-)
 09. [wuji-labs/nopua (1.4k ⭐)](#9-wuji-labsnopua-14k-)
-10. [Kappaemme-git/codex-startup-pressure-test-skill (966 ⭐)](#10-kappaemme-gitcodex-startup-pressure-test-skill-966-)
-11. [warpdotdev/oz-skills (818 ⭐)](#11-warpdotdevoz-skills-818-)
-12. [imxv/Pretty-mermaid-skills (775 ⭐)](#12-imxvpretty-mermaid-skills-775-)
+10. [Kappaemme-git/codex-startup-pressure-test-skill (968 ⭐)](#10-kappaemme-gitcodex-startup-pressure-test-skill-968-)
+11. [warpdotdev/oz-skills (817 ⭐)](#11-warpdotdevoz-skills-817-)
+12. [imxv/Pretty-mermaid-skills (773 ⭐)](#12-imxvpretty-mermaid-skills-773-)
 
 ---
 
 ## 1. browser-act/skills (4.3k ⭐)
 
 **🔗** https://github.com/browser-act/skills  
-**🍴** Forks 201 | **🔄** Updated 2026-07-08  
+**🍴** Forks 204 | **🔄** Updated 2026-07-08  
 **👤** browser-act — Browser automation CLI team, focused on AI agent browser control
 
 > Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution.
@@ -51,7 +51,7 @@
 ## 3. google-gemini/gemini-skills (3.8k ⭐)
 
 **🔗** https://github.com/google-gemini/gemini-skills  
-**🍴** Forks 378 | **🔄** Updated 2026-06-30  
+**🍴** Forks 380 | **🔄** Updated 2026-06-30  
 **👤** Google Gemini Official Team — Maintainers of the Gemini API and SDK
 
 > Skills for Gemini API, SDK, and model/agent interaction.
@@ -75,7 +75,7 @@
 ## 5. pasky/chrome-cdp-skill (3.2k ⭐)
 
 **🔗** https://github.com/pasky/chrome-cdp-skill  
-**🍴** Forks 201 | **🔄** Updated 2026-06-28  
+**🍴** Forks 200 | **🔄** Updated 2026-06-28  
 **👤** pasky — Independent developer, focused on browser automation and AI agent integration
 
 > Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open. CDP protocol implementation. JavaScript implementation.
@@ -87,7 +87,7 @@
 ## 6. FreedomIntelligence/OpenClaw-Medical-Skills (2.8k ⭐)
 
 **🔗** https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills  
-**🍴** Forks 393 | **🔄** Updated 2026-06-18  
+**🍴** Forks 394 | **🔄** Updated 2026-06-18  
 **👤** FreedomIntelligence — Open-source team in the Medical AI space
 
 > The largest open-source medical AI skills library, built specifically for OpenClaw.
@@ -132,7 +132,7 @@
 
 ---
 
-## 10. Kappaemme-git/codex-startup-pressure-test-skill (966 ⭐)
+## 10. Kappaemme-git/codex-startup-pressure-test-skill (968 ⭐)
 
 **🔗** https://github.com/Kappaemme-git/codex-startup-pressure-test-skill  
 **🍴** Forks 91 | **🔄** Updated 2026-05-03  
@@ -144,7 +144,7 @@
 
 ---
 
-## 11. warpdotdev/oz-skills (818 ⭐)
+## 11. warpdotdev/oz-skills (817 ⭐)
 
 **🔗** https://github.com/warpdotdev/oz-skills  
 **🍴** Forks 61 | **🔄** Updated 2026-05-12  
@@ -156,7 +156,7 @@
 
 ---
 
-## 12. imxv/Pretty-mermaid-skills (775 ⭐)
+## 12. imxv/Pretty-mermaid-skills (773 ⭐)
 
 **🔗** https://github.com/imxv/Pretty-mermaid-skills  
 **🍴** Forks 40 | **🔄** Updated 2026-01-31  
@@ -186,9 +186,9 @@
 - [OpenClaw-Medical-Skills](#6-freedomintelligenceopenclaw-medical-skills-28k-) — The largest open-source medical AI skills library, built spe…
 - [skill-scanner](#8-cisco-ai-defenseskill-scanner-23k-) — Agent Skills security scanner by Cisco
 - [nopua](#9-wuji-labsnopua-14k-) — A skill that unlocks your AI's potential through love
-- [codex-startup-pressure-test-skill](#10-kappaemme-gitcodex-startup-pressure-test-skill-966-) — Codex skill that brutally pressure-tests startup ideas — ret…
-- [oz-skills](#11-warpdotdevoz-skills-818-) — Curated reusable Agent Skills for Warp AI agents and Oz — ma…
-- [Pretty-mermaid-skills](#12-imxvpretty-mermaid-skills-775-) — Agent Skill for Mermaid chart rendering with SVG and ASCII o…
+- [codex-startup-pressure-test-skill](#10-kappaemme-gitcodex-startup-pressure-test-skill-968-) — Codex skill that brutally pressure-tests startup ideas — ret…
+- [oz-skills](#11-warpdotdevoz-skills-817-) — Curated reusable Agent Skills for Warp AI agents and Oz — ma…
+- [Pretty-mermaid-skills](#12-imxvpretty-mermaid-skills-773-) — Agent Skill for Mermaid chart rendering with SVG and ASCII o…
 
 
 ---
@@ -208,4 +208,4 @@ Linked projects remain under their respective upstream licenses.
 
 ---
 
-*Curated by wind8 | 2026-07-11*
+*Curated by wind8 | 2026-07-13*

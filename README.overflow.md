@@ -3,7 +3,7 @@
 **中文** | [English](./README.en.overflow.md) · [正式榜](./README.md)
 
 > Star List 中超出正式榜 42 上限、仍满足收录门槛（Star ≥ 500）的条目，按 GitHub Star 总数降序  
-> 来源：[wind8ai 的 skills 列表](https://github.com/stars/wind8ai/lists/skills) · 更新：2026-07-11
+> 来源：[wind8ai 的 skills 列表](https://github.com/stars/wind8ai/lists/skills) · 更新：2026-07-13
 
 ---
 
@@ -18,16 +18,16 @@
 07. [microsoft/skills (2.7k ⭐)](#7-microsoftskills-27k-)
 08. [cisco-ai-defense/skill-scanner (2.3k ⭐)](#8-cisco-ai-defenseskill-scanner-23k-)
 09. [wuji-labs/nopua (1.4k ⭐)](#9-wuji-labsnopua-14k-)
-10. [Kappaemme-git/codex-startup-pressure-test-skill (966 ⭐)](#10-kappaemme-gitcodex-startup-pressure-test-skill-966-)
-11. [warpdotdev/oz-skills (818 ⭐)](#11-warpdotdevoz-skills-818-)
-12. [imxv/Pretty-mermaid-skills (775 ⭐)](#12-imxvpretty-mermaid-skills-775-)
+10. [Kappaemme-git/codex-startup-pressure-test-skill (968 ⭐)](#10-kappaemme-gitcodex-startup-pressure-test-skill-968-)
+11. [warpdotdev/oz-skills (817 ⭐)](#11-warpdotdevoz-skills-817-)
+12. [imxv/Pretty-mermaid-skills (773 ⭐)](#12-imxvpretty-mermaid-skills-773-)
 
 ---
 
 ## 1. browser-act/skills (4.3k ⭐)
 
 **🔗** https://github.com/browser-act/skills  
-**🍴** Fork 201 | **🔄** Updated 2026-07-08  
+**🍴** Fork 204 | **🔄** Updated 2026-07-08  
 **👤** browser-act — 浏览器自动化 CLI 团队，专注 AI agent 的浏览器控制
 
 > 浏览器自动化 CLI，为 AI agent 构建，支持多任务并行，突破反爬机制，跨平台人工交接。
@@ -51,7 +51,7 @@
 ## 3. google-gemini/gemini-skills (3.8k ⭐)
 
 **🔗** https://github.com/google-gemini/gemini-skills  
-**🍴** Fork 378 | **🔄** Updated 2026-06-30  
+**🍴** Fork 380 | **🔄** Updated 2026-06-30  
 **👤** Google Gemini 官方团队 — Gemini API 和 SDK 的维护方
 
 > Gemini API、SDK 和 model/agent 交互的 Skills。
@@ -75,7 +75,7 @@
 ## 5. pasky/chrome-cdp-skill (3.2k ⭐)
 
 **🔗** https://github.com/pasky/chrome-cdp-skill  
-**🍴** Fork 201 | **🔄** Updated 2026-06-28  
+**🍴** Fork 200 | **🔄** Updated 2026-06-28  
 **👤** pasky — 独立开发者，专注浏览器自动化与 AI agent 集成
 
 > 让 AI agent 直接接管已打开的 Chrome 标签页，CDP 协议实现。JavaScript 实现。
@@ -87,7 +87,7 @@
 ## 6. FreedomIntelligence/OpenClaw-Medical-Skills (2.8k ⭐)
 
 **🔗** https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills  
-**🍴** Fork 393 | **🔄** Updated 2026-06-18  
+**🍴** Fork 394 | **🔄** Updated 2026-06-18  
 **👤** FreedomIntelligence — 医疗 AI 领域开源团队
 
 > 最大开源医疗 AI 技能库，专为 OpenClaw 构建。
@@ -132,7 +132,7 @@
 
 ---
 
-## 10. Kappaemme-git/codex-startup-pressure-test-skill (966 ⭐)
+## 10. Kappaemme-git/codex-startup-pressure-test-skill (968 ⭐)
 
 **🔗** https://github.com/Kappaemme-git/codex-startup-pressure-test-skill  
 **🍴** Fork 91 | **🔄** Updated 2026-05-03  
@@ -144,7 +144,7 @@
 
 ---
 
-## 11. warpdotdev/oz-skills (818 ⭐)
+## 11. warpdotdev/oz-skills (817 ⭐)
 
 **🔗** https://github.com/warpdotdev/oz-skills  
 **🍴** Fork 61 | **🔄** Updated 2026-05-12  
@@ -156,7 +156,7 @@
 
 ---
 
-## 12. imxv/Pretty-mermaid-skills (775 ⭐)
+## 12. imxv/Pretty-mermaid-skills (773 ⭐)
 
 **🔗** https://github.com/imxv/Pretty-mermaid-skills  
 **🍴** Fork 40 | **🔄** Updated 2026-01-31  
@@ -186,9 +186,9 @@
 - [OpenClaw-Medical-Skills](#6-freedomintelligenceopenclaw-medical-skills-28k-) — 最大开源医疗 AI 技能库，专为 OpenClaw 构建
 - [skill-scanner](#8-cisco-ai-defenseskill-scanner-23k-) — Cisco 出品，Agent Skills 安全扫描器
 - [nopua](#9-wuji-labsnopua-14k-) — 用爱解放 AI 潜能的 Skill
-- [codex-startup-pressure-test-skill](#10-kappaemme-gitcodex-startup-pressure-test-skill-966-) — Codex 创业点子压力测试 Skill：对 startup idea 做创始人式诊断，输出 verdict、核心假设、…
-- [oz-skills](#11-warpdotdevoz-skills-818-) — Warp AI / Oz 的可复用 Agent Skills 精选集：以 .agents/skills/ 下的 Mark…
-- [Pretty-mermaid-skills](#12-imxvpretty-mermaid-skills-775-) — 为 AI agent 提供 Mermaid 图表渲染能力的 Skill，支持 SVG 与 ASCII 两种输出格式
+- [codex-startup-pressure-test-skill](#10-kappaemme-gitcodex-startup-pressure-test-skill-968-) — Codex 创业点子压力测试 Skill：对 startup idea 做创始人式诊断，输出 verdict、核心假设、…
+- [oz-skills](#11-warpdotdevoz-skills-817-) — Warp AI / Oz 的可复用 Agent Skills 精选集：以 .agents/skills/ 下的 Mark…
+- [Pretty-mermaid-skills](#12-imxvpretty-mermaid-skills-773-) — 为 AI agent 提供 Mermaid 图表渲染能力的 Skill，支持 SVG 与 ASCII 两种输出格式
 
 
 ---
@@ -208,4 +208,4 @@
 
 ---
 
-*由 wind8 整理 | 2026-07-11*
+*由 wind8 整理 | 2026-07-13*
