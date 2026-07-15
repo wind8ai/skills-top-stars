@@ -3,31 +3,31 @@
 **中文** | [English](./README.en.overflow.md) · [正式榜](./README.md)
 
 > Star List 中超出正式榜 42 上限、仍满足收录门槛（Star ≥ 500）的条目，按 GitHub Star 总数降序  
-> 来源：[wind8ai 的 skills 列表](https://github.com/stars/wind8ai/lists/skills) · 更新：2026-07-13
+> 来源：[wind8ai 的 skills 列表](https://github.com/stars/wind8ai/lists/skills) · 更新：2026-07-15
 
 ---
 
 ## Contents
 
-01. [browser-act/skills (4.3k ⭐)](#1-browser-actskills-43k-)
+01. [browser-act/skills (4.4k ⭐)](#1-browser-actskills-44k-)
 02. [Dimillian/Skills (3.8k ⭐)](#2-dimillianskills-38k-)
 03. [google-gemini/gemini-skills (3.8k ⭐)](#3-google-geminigemini-skills-38k-)
 04. [axtonliu/axton-obsidian-visual-skills (3.2k ⭐)](#4-axtonliuaxton-obsidian-visual-skills-32k-)
 05. [pasky/chrome-cdp-skill (3.2k ⭐)](#5-paskychrome-cdp-skill-32k-)
 06. [FreedomIntelligence/OpenClaw-Medical-Skills (2.8k ⭐)](#6-freedomintelligenceopenclaw-medical-skills-28k-)
 07. [microsoft/skills (2.7k ⭐)](#7-microsoftskills-27k-)
-08. [cisco-ai-defense/skill-scanner (2.3k ⭐)](#8-cisco-ai-defenseskill-scanner-23k-)
+08. [cisco-ai-defense/skill-scanner (2.4k ⭐)](#8-cisco-ai-defenseskill-scanner-24k-)
 09. [wuji-labs/nopua (1.4k ⭐)](#9-wuji-labsnopua-14k-)
-10. [Kappaemme-git/codex-startup-pressure-test-skill (968 ⭐)](#10-kappaemme-gitcodex-startup-pressure-test-skill-968-)
-11. [warpdotdev/oz-skills (817 ⭐)](#11-warpdotdevoz-skills-817-)
-12. [imxv/Pretty-mermaid-skills (773 ⭐)](#12-imxvpretty-mermaid-skills-773-)
+10. [Kappaemme-git/codex-startup-pressure-test-skill (975 ⭐)](#10-kappaemme-gitcodex-startup-pressure-test-skill-975-)
+11. [warpdotdev/oz-skills (816 ⭐)](#11-warpdotdevoz-skills-816-)
+12. [imxv/Pretty-mermaid-skills (778 ⭐)](#12-imxvpretty-mermaid-skills-778-)
 
 ---
 
-## 1. browser-act/skills (4.3k ⭐)
+## 1. browser-act/skills (4.4k ⭐)
 
 **🔗** https://github.com/browser-act/skills  
-**🍴** Fork 204 | **🔄** Updated 2026-07-08  
+**🍴** Fork 210 | **🔄** Updated 2026-07-14  
 **👤** browser-act — 浏览器自动化 CLI 团队，专注 AI agent 的浏览器控制
 
 > 浏览器自动化 CLI，为 AI agent 构建，支持多任务并行，突破反爬机制，跨平台人工交接。
@@ -39,7 +39,7 @@
 ## 2. Dimillian/Skills (3.8k ⭐)
 
 **🔗** https://github.com/Dimillian/Skills  
-**🍴** Fork 202 | **🔄** Updated 2026-03-29  
+**🍴** Fork 203 | **🔄** Updated 2026-03-29  
 **👤** Thomas Ricou (Dimillian) — 独立 iOS 开发者，前 Carousell 首席 iOS 工程师
 
 > Dimillian 的个人 Codex Skills 集合，Shell 实现。
@@ -51,7 +51,7 @@
 ## 3. google-gemini/gemini-skills (3.8k ⭐)
 
 **🔗** https://github.com/google-gemini/gemini-skills  
-**🍴** Fork 380 | **🔄** Updated 2026-06-30  
+**🍴** Fork 382 | **🔄** Updated 2026-06-30  
 **👤** Google Gemini 官方团队 — Gemini API 和 SDK 的维护方
 
 > Gemini API、SDK 和 model/agent 交互的 Skills。
@@ -63,7 +63,7 @@
 ## 4. axtonliu/axton-obsidian-visual-skills (3.2k ⭐)
 
 **🔗** https://github.com/axtonliu/axton-obsidian-visual-skills  
-**🍴** Fork 290 | **🔄** Updated 2026-06-26  
+**🍴** Fork 291 | **🔄** Updated 2026-06-26  
 **👤** Axton Liu — Obsidian 可视化领域实践者
 
 > Obsidian 可视化 skills，生成 Canvas/Excalidraw/Mermaid 图表。
@@ -87,7 +87,7 @@
 ## 6. FreedomIntelligence/OpenClaw-Medical-Skills (2.8k ⭐)
 
 **🔗** https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills  
-**🍴** Fork 394 | **🔄** Updated 2026-06-18  
+**🍴** Fork 395 | **🔄** Updated 2026-06-18  
 **👤** FreedomIntelligence — 医疗 AI 领域开源团队
 
 > 最大开源医疗 AI 技能库，专为 OpenClaw 构建。
@@ -99,7 +99,7 @@
 ## 7. microsoft/skills (2.7k ⭐)
 
 **🔗** https://github.com/microsoft/skills  
-**🍴** Fork 309 | **🔄** Updated 2026-07-11  
+**🍴** Fork 311 | **🔄** Updated 2026-07-14  
 **👤** Microsoft 官方团队 — SDK 和开发者工具生态的构建者
 
 > Microsoft 官方出品，SDK 用的 Skills、MCP servers、Custom Agents。TypeScript 实现。
@@ -108,10 +108,10 @@
 
 ---
 
-## 8. cisco-ai-defense/skill-scanner (2.3k ⭐)
+## 8. cisco-ai-defense/skill-scanner (2.4k ⭐)
 
 **🔗** https://github.com/cisco-ai-defense/skill-scanner  
-**🍴** Fork 288 | **🔄** Updated 2026-06-29  
+**🍴** Fork 290 | **🔄** Updated 2026-06-29  
 **👤** Cisco AI Defense — Cisco 旗下 AI 安全团队
 
 > Cisco 出品，Agent Skills 安全扫描器。
@@ -132,10 +132,10 @@
 
 ---
 
-## 10. Kappaemme-git/codex-startup-pressure-test-skill (968 ⭐)
+## 10. Kappaemme-git/codex-startup-pressure-test-skill (975 ⭐)
 
 **🔗** https://github.com/Kappaemme-git/codex-startup-pressure-test-skill  
-**🍴** Fork 91 | **🔄** Updated 2026-05-03  
+**🍴** Fork 92 | **🔄** Updated 2026-05-03  
 **👤** Francesco（Kappaemme-git）— 那不勒斯 Federico II 计算机科学学生，创业压力测试 Skill 作者
 
 > Codex 创业点子压力测试 Skill：对 startup idea 做创始人式诊断，输出 verdict、核心假设、致命缺陷、首批客户动作与 2 周 MVP 方向。
@@ -144,7 +144,7 @@
 
 ---
 
-## 11. warpdotdev/oz-skills (817 ⭐)
+## 11. warpdotdev/oz-skills (816 ⭐)
 
 **🔗** https://github.com/warpdotdev/oz-skills  
 **🍴** Fork 61 | **🔄** Updated 2026-05-12  
@@ -156,7 +156,7 @@
 
 ---
 
-## 12. imxv/Pretty-mermaid-skills (773 ⭐)
+## 12. imxv/Pretty-mermaid-skills (778 ⭐)
 
 **🔗** https://github.com/imxv/Pretty-mermaid-skills  
 **🍴** Fork 40 | **🔄** Updated 2026-01-31  
@@ -179,16 +179,16 @@
 
 ### 🔧 工具与质量
 
-- [skills](#1-browser-actskills-43k-) — 浏览器自动化 CLI，为 AI agent 构建，支持多任务并行，突破反爬机制，跨平台人工交接
+- [skills](#1-browser-actskills-44k-) — 浏览器自动化 CLI，为 AI agent 构建，支持多任务并行，突破反爬机制，跨平台人工交接
 - [Skills](#2-dimillianskills-38k-) — Dimillian 的个人 Codex Skills 集合，Shell 实现
 - [gemini-skills](#3-google-geminigemini-skills-38k-) — Gemini API、SDK 和 model/agent 交互的 Skills
 - [chrome-cdp-skill](#5-paskychrome-cdp-skill-32k-) — 让 AI agent 直接接管已打开的 Chrome 标签页，CDP 协议实现
 - [OpenClaw-Medical-Skills](#6-freedomintelligenceopenclaw-medical-skills-28k-) — 最大开源医疗 AI 技能库，专为 OpenClaw 构建
-- [skill-scanner](#8-cisco-ai-defenseskill-scanner-23k-) — Cisco 出品，Agent Skills 安全扫描器
+- [skill-scanner](#8-cisco-ai-defenseskill-scanner-24k-) — Cisco 出品，Agent Skills 安全扫描器
 - [nopua](#9-wuji-labsnopua-14k-) — 用爱解放 AI 潜能的 Skill
-- [codex-startup-pressure-test-skill](#10-kappaemme-gitcodex-startup-pressure-test-skill-968-) — Codex 创业点子压力测试 Skill：对 startup idea 做创始人式诊断，输出 verdict、核心假设、…
-- [oz-skills](#11-warpdotdevoz-skills-817-) — Warp AI / Oz 的可复用 Agent Skills 精选集：以 .agents/skills/ 下的 Mark…
-- [Pretty-mermaid-skills](#12-imxvpretty-mermaid-skills-773-) — 为 AI agent 提供 Mermaid 图表渲染能力的 Skill，支持 SVG 与 ASCII 两种输出格式
+- [codex-startup-pressure-test-skill](#10-kappaemme-gitcodex-startup-pressure-test-skill-975-) — Codex 创业点子压力测试 Skill：对 startup idea 做创始人式诊断，输出 verdict、核心假设、…
+- [oz-skills](#11-warpdotdevoz-skills-816-) — Warp AI / Oz 的可复用 Agent Skills 精选集：以 .agents/skills/ 下的 Mark…
+- [Pretty-mermaid-skills](#12-imxvpretty-mermaid-skills-778-) — 为 AI agent 提供 Mermaid 图表渲染能力的 Skill，支持 SVG 与 ASCII 两种输出格式
 
 
 ---
@@ -208,4 +208,4 @@
 
 ---
 
-*由 wind8 整理 | 2026-07-13*
+*由 wind8 整理 | 2026-07-15*
