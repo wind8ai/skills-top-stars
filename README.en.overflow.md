@@ -85,7 +85,7 @@
 **🍴** Forks 3.4k | **🔄** Updated 2026-10-08  
 **👤** jnMetaCode — maintainer of agency-agents-zh and the Chinese superpowers community edition
 
-> >>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
+> Chinese community edition of agency-agents with ready-to-use AI expert roles for engineering, design, marketing, finance, and other departments. Adds roles tailored to Chinese platforms and business workflows, with integrations for Claude Code, Cursor, GitHub Copilot, and other AI coding tools.
 
 **Matched Capabilities**: 🤖 Agent Integration
 
@@ -915,7 +915,7 @@
 
 ### 🔁 Development Workflows & Agent Harnesses
 
-- [agency-agents-zh](#1-jnmetacodeagency-agents-zh-21k-) — >>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
+- [agency-agents-zh](#1-jnmetacodeagency-agents-zh-21k-) — Chinese community edition of agency-agents with ready-to-use…
 - [SkillOpt](#2-microsoftskillopt-18k-) — Text-space optimizer that trains reusable natural-language s…
 - [Agent-Skills-for-Context-Engineering](#3-muratcankoylanagent-skills-for-context-engineering-18k-) — Comprehensive skill set for Context Engineering, multi-agent…
 - [Auto-claude-code-research-in-sleep](#5-wanshuiyinauto-claude-code-research-in-sleep-17k-) — ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only…
@@ -972,7 +972,7 @@
 
 ### 📈 Product, Career & Business
 
-- [agency-agents-zh](#1-jnmetacodeagency-agents-zh-21k-) — >>>>>> 38aa891 (chore: update skills-top-stars 2026-07-08)
+- [agency-agents-zh](#1-jnmetacodeagency-agents-zh-21k-) — Chinese community edition of agency-agents with ready-to-use…
 - [patent-disclosure-skill](#12-handsomestweipatent-disclosure-skill-11k-) — Agent skill for Chinese patent workflows, identifying patent…
 - [skills](#15-slavingiaskills-11k-) — Claude Code skills based on Sahil Lavingia's "The Minimalist…
 - [Product-Manager-Skills](#22-deanpetersproduct-manager-skills-73k-) — Product management skills framework, compatible with Claude …
