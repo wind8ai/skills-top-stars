@@ -3,7 +3,7 @@
 **中文** | [English](./README.en.md) · [备选榜](./README.overflow.md)
 
 > GitHub 高星 Skills 项目精选  
-> 来源：[wind8ai 的 skills 列表](https://github.com/stars/wind8ai/lists/skills) · 更新：2026-10-12
+> 来源：[wind8ai 的 skills 列表](https://github.com/stars/wind8ai/lists/skills) · 更新：2026-10-13
 
 ---
 
@@ -670,4 +670,4 @@
 
 ---
 
-*由 wind8 整理 | 2026-10-12*
+*由 wind8 整理 | 2026-10-13*
