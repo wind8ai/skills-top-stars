@@ -3,7 +3,7 @@
 **中文** | [English](./README.en.overflow.md) · [正式榜](./README.md)
 
 > Star List 中超出正式榜 42 个上限的条目，按 GitHub Star 总数降序  
-> 来源：[wind8ai 的 skills 列表](https://github.com/stars/wind8ai/lists/skills) · 更新：2026-10-18
+> 来源：[wind8ai 的 skills 列表](https://github.com/stars/wind8ai/lists/skills) · 更新：2026-10-20
 
 ---
 
@@ -14,64 +14,64 @@
 03. [muratcankoylan/Agent-Skills-for-Context-Engineering (18k ⭐)](#3-muratcankoylanagent-skills-for-context-engineering-18k-)
 04. [hardikpandya/stop-slop (18k ⭐)](#4-hardikpandyastop-slop-18k-)
 05. [wanshuiyin/Auto-claude-code-research-in-sleep (18k ⭐)](#5-wanshuiyinauto-claude-code-research-in-sleep-18k-)
-06. [composio-community/awesome-codex-skills (17k ⭐)](#6-composio-communityawesome-codex-skills-17k-)
-07. [greensock/gsap-skills (17k ⭐)](#7-greensockgsap-skills-17k-)
-08. [wheresryan22/anatomy (15k ⭐)](#8-wheresryan22anatomy-15k-)
+06. [wheresryan22/anatomy (17k ⭐)](#6-wheresryan22anatomy-17k-)
+07. [composio-community/awesome-codex-skills (17k ⭐)](#7-composio-communityawesome-codex-skills-17k-)
+08. [greensock/gsap-skills (17k ⭐)](#8-greensockgsap-skills-17k-)
 09. [yusufkaraaslan/Skill_Seekers (15k ⭐)](#9-yusufkaraaslanskill_seekers-15k-)
 10. [mindfold-ai/Trellis (15k ⭐)](#10-mindfold-aitrellis-15k-)
 11. [MiniMax-AI/skills (14k ⭐)](#11-minimax-aiskills-14k-)
-12. [cursor/plugins (12k ⭐)](#12-cursorplugins-12k-)
+12. [cursor/plugins (13k ⭐)](#12-cursorplugins-13k-)
 13. [tw93/Kami (12k ⭐)](#13-tw93kami-12k-)
 14. [handsomestWei/patent-disclosure-skill (12k ⭐)](#14-handsomestweipatent-disclosure-skill-12k-)
 15. [kangarooking/cangjie-skill (11k ⭐)](#15-kangarookingcangjie-skill-11k-)
 16. [slavingia/skills (11k ⭐)](#16-slavingiaskills-11k-)
-17. [revfactory/harness (9.2k ⭐)](#17-revfactoryharness-92k-)
-18. [nexu-io/html-anything (9.2k ⭐)](#18-nexu-iohtml-anything-92k-)
-19. [Tencent/BrowserSkill (9.1k ⭐)](#19-tencentbrowserskill-91k-)
+17. [Tencent/BrowserSkill (9.2k ⭐)](#17-tencentbrowserskill-92k-)
+18. [revfactory/harness (9.2k ⭐)](#18-revfactoryharness-92k-)
+19. [nexu-io/html-anything (9.2k ⭐)](#19-nexu-iohtml-anything-92k-)
 20. [jnMetaCode/superpowers-zh (8.3k ⭐)](#20-jnmetacodesuperpowers-zh-83k-)
-21. [trailofbits/skills (7.6k ⭐)](#21-trailofbitsskills-76k-)
-22. [lijigang/ljg-skills (7.5k ⭐)](#22-lijigangljg-skills-75k-)
-23. [deanpeters/Product-Manager-Skills (7.5k ⭐)](#23-deanpetersproduct-manager-skills-75k-)
+21. [trailofbits/skills (7.7k ⭐)](#21-trailofbitsskills-77k-)
+22. [deanpeters/Product-Manager-Skills (7.5k ⭐)](#22-deanpetersproduct-manager-skills-75k-)
+23. [lijigang/ljg-skills (7.5k ⭐)](#23-lijigangljg-skills-75k-)
 24. [alchaincyf/darwin-skill (6.4k ⭐)](#24-alchaincyfdarwin-skill-64k-)
 25. [browser-act/skills (6.2k ⭐)](#25-browser-actskills-62k-)
 26. [antfu/skills (6k ⭐)](#26-antfuskills-6k-)
-27. [yang0/handraw-style (5.6k ⭐)](#27-yang0handraw-style-56k-)
-28. [humanlayer/skills (5.3k ⭐)](#28-humanlayerskills-53k-)
+27. [yang0/handraw-style (5.8k ⭐)](#27-yang0handraw-style-58k-)
+28. [humanlayer/skills (5.4k ⭐)](#28-humanlayerskills-54k-)
 29. [anthropics/claude-plugins-community (4.7k ⭐)](#29-anthropicsclaude-plugins-community-47k-)
 30. [geeklee/srt-whiteboard-animation (4.6k ⭐)](#30-geekleesrt-whiteboard-animation-46k-)
-31. [google-gemini/gemini-skills (4.3k ⭐)](#31-google-geminigemini-skills-43k-)
-32. [alchaincyf/huashu-art-motion (4.2k ⭐)](#32-alchaincyfhuashu-art-motion-42k-)
+31. [alchaincyf/huashu-art-motion (4.5k ⭐)](#31-alchaincyfhuashu-art-motion-45k-)
+32. [google-gemini/gemini-skills (4.3k ⭐)](#32-google-geminigemini-skills-43k-)
 33. [Dimillian/Skills (4k ⭐)](#33-dimillianskills-4k-)
 34. [gotalab/cc-sdd (3.7k ⭐)](#34-gotalabcc-sdd-37k-)
-35. [axtonliu/axton-obsidian-visual-skills (3.6k ⭐)](#35-axtonliuaxton-obsidian-visual-skills-36k-)
-36. [yanliudesign/mono-color-skill (3.4k ⭐)](#36-yanliudesignmono-color-skill-34k-)
-37. [pasky/chrome-cdp-skill (3.3k ⭐)](#37-paskychrome-cdp-skill-33k-)
-38. [Nanako0129/sepia (3.2k ⭐)](#38-nanako0129sepia-32k-)
-39. [microsoft/skills (3.1k ⭐)](#39-microsoftskills-31k-)
-40. [FreedomIntelligence/OpenClaw-Medical-Skills (3.1k ⭐)](#40-freedomintelligenceopenclaw-medical-skills-31k-)
-41. [larashero3-dotcom/lieflat-less-ai-tone (2.9k ⭐)](#41-larashero3-dotcomlieflat-less-ai-tone-29k-)
+35. [axtonliu/axton-obsidian-visual-skills (3.7k ⭐)](#35-axtonliuaxton-obsidian-visual-skills-37k-)
+36. [yanliudesign/mono-color-skill (3.5k ⭐)](#36-yanliudesignmono-color-skill-35k-)
+37. [larashero3-dotcom/lieflat-less-ai-tone (3.3k ⭐)](#37-larashero3-dotcomlieflat-less-ai-tone-33k-)
+38. [pasky/chrome-cdp-skill (3.3k ⭐)](#38-paskychrome-cdp-skill-33k-)
+39. [Nanako0129/sepia (3.3k ⭐)](#39-nanako0129sepia-33k-)
+40. [microsoft/skills (3.1k ⭐)](#40-microsoftskills-31k-)
+41. [FreedomIntelligence/OpenClaw-Medical-Skills (3.1k ⭐)](#41-freedomintelligenceopenclaw-medical-skills-31k-)
 42. [cisco-ai-defense/skill-scanner (2.6k ⭐)](#42-cisco-ai-defenseskill-scanner-26k-)
 43. [larashero3-dotcom/writing-dna-skill (2.5k ⭐)](#43-larashero3-dotcomwriting-dna-skill-25k-)
-44. [threerocks/hand-drawn-styles (2.4k ⭐)](#44-threerockshand-drawn-styles-24k-)
-45. [imxv/Pretty-mermaid-skills (1.5k ⭐)](#45-imxvpretty-mermaid-skills-15k-)
-46. [hyhmrright/brooks-lint (1.5k ⭐)](#46-hyhmrrightbrooks-lint-15k-)
+44. [threerocks/hand-drawn-styles (2.5k ⭐)](#44-threerockshand-drawn-styles-25k-)
+45. [hyhmrright/brooks-lint (1.5k ⭐)](#45-hyhmrrightbrooks-lint-15k-)
+46. [imxv/Pretty-mermaid-skills (1.5k ⭐)](#46-imxvpretty-mermaid-skills-15k-)
 47. [wuji-labs/nopua (1.4k ⭐)](#47-wuji-labsnopua-14k-)
 48. [open-gsd/gsd-pi (1.3k ⭐)](#48-open-gsdgsd-pi-13k-)
 49. [modu-ai/moai-adk (1.2k ⭐)](#49-modu-aimoai-adk-12k-)
 50. [Kappaemme-git/codex-startup-pressure-test-skill (991 ⭐)](#50-kappaemme-gitcodex-startup-pressure-test-skill-991-)
-51. [warpdotdev/oz-skills (823 ⭐)](#51-warpdotdevoz-skills-823-)
-52. [alesha-pro/tools (682 ⭐)](#52-alesha-protools-682-)
+51. [warpdotdev/oz-skills (822 ⭐)](#51-warpdotdevoz-skills-822-)
+52. [alesha-pro/tools (685 ⭐)](#52-alesha-protools-685-)
 53. [warpdotdev/common-skills (613 ⭐)](#53-warpdotdevcommon-skills-613-)
 54. [microsoft/Resource2Skill (537 ⭐)](#54-microsoftresource2skill-537-)
 55. [antvis/chart-visualization-skills (512 ⭐)](#55-antvischart-visualization-skills-512-)
-56. [almendili/skills (382 ⭐)](#56-almendiliskills-382-)
-57. [zhouwei713/luobo-ppt (377 ⭐)](#57-zhouwei713luobo-ppt-377-)
+56. [zhouwei713/luobo-ppt (393 ⭐)](#56-zhouwei713luobo-ppt-393-)
+57. [almendili/skills (382 ⭐)](#57-almendiliskills-382-)
 58. [lazypay/Archscribe (367 ⭐)](#58-lazypayarchscribe-367-)
 59. [provencher/codex-skills (274 ⭐)](#59-provenchercodex-skills-274-)
-60. [gnipbao/dao-skill (245 ⭐)](#60-gnipbaodao-skill-245-)
+60. [gnipbao/dao-skill (246 ⭐)](#60-gnipbaodao-skill-246-)
 61. [liby/dotfiles (151 ⭐)](#61-libydotfiles-151-)
-62. [gnurio/nurijanian-skills (125 ⭐)](#62-gnurionurijanian-skills-125-)
-63. [share-skills/pi (108 ⭐)](#63-share-skillspi-108-)
+62. [gnurio/nurijanian-skills (126 ⭐)](#62-gnurionurijanian-skills-126-)
+63. [share-skills/pi (107 ⭐)](#63-share-skillspi-107-)
 64. [didixuxu/didi-skills (86 ⭐)](#64-didixuxudidi-skills-86-)
 65. [YouMind-OpenLab/skills (73 ⭐)](#65-youmind-openlabskills-73-)
 66. [MichaelRochonnn/mckinsey-bcg-consulting (73 ⭐)](#66-michaelrochonnnmckinsey-bcg-consulting-73-)
@@ -82,7 +82,7 @@
 ## 1. jnMetaCode/agency-agents-zh (21k ⭐)
 
 **🔗** https://github.com/jnMetaCode/agency-agents-zh  
-**🍴** Fork 3.5k | **🔄** Updated 2026-10-18  
+**🍴** Fork 3.6k | **🔄** Updated 2026-10-20  
 **👤** AI不止语（jnMetaCode）— 266 角色 Agent 编排与 superpowers 中文社区版维护者
 
 > 266 个即插即用的 AI 专家角色，覆盖工程/设计/营销/金融等 20 个部门；含 50 个中国市场原创智能体，配合 agency-orchestrator 实现 DAG 多专家协作。
@@ -94,7 +94,7 @@
 ## 2. microsoft/SkillOpt (19k ⭐)
 
 **🔗** https://github.com/microsoft/SkillOpt  
-**🍴** Fork 1.8k | **🔄** Updated 2026-10-17  
+**🍴** Fork 1.8k | **🔄** Updated 2026-10-18  
 **👤** Microsoft 研究团队 — SkillOpt Skill 文本优化器出品方
 
 > Microsoft 出品的 Skill 文本优化器：通过轨迹驱动编辑与验证门控，为冻结权重的 LLM agent 训练可复用的自然语言 Skill，产出 best_skill.md。
@@ -130,7 +130,7 @@
 ## 5. wanshuiyin/Auto-claude-code-research-in-sleep (18k ⭐)
 
 **🔗** https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep  
-**🍴** Fork 1.6k | **🔄** Updated 2026-10-17  
+**🍴** Fork 1.7k | **🔄** Updated 2026-10-19  
 **👤** 杨若风（wanshuiyin）— 上海交通大学，ARIS 睡后 ML 研究 Skills 作者
 
 > ARIS 纯 Markdown Skills，支持跨模型评审、idea 发现与实验自动化，实现「睡后」自主 ML 研究循环。无框架绑定，兼容 Claude Code / Codex 等主流 Agent。
@@ -139,34 +139,10 @@
 
 ---
 
-## 6. composio-community/awesome-codex-skills (17k ⭐)
-
-**🔗** https://github.com/composio-community/awesome-codex-skills  
-**🍴** Fork 1.7k | **🔄** Updated 2026-07-26  
-**👤** ComposioHQ — AI 工具集成平台公司，专注 agent 工具链生态建设
-
-> Codex Skills 实用精选列表，涵盖 Codex CLI 和 API 的自动化工作流 skills。
-
-**匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
-
----
-
-## 7. greensock/gsap-skills (17k ⭐)
-
-**🔗** https://github.com/greensock/gsap-skills  
-**🍴** Fork 985 | **🔄** Updated 2026-07-29  
-**👤** GreenSock — GSAP 动画平台与官方 AI Skills 维护团队
-
-> GSAP 官方动画开发 Skills，覆盖核心 API、时间线、ScrollTrigger、插件与性能实践。提供 React、Vue、Svelte 和原生 JavaScript 的使用指导，帮助 Agent 正确组织动画与清理生命周期。
-
-**匹配能力**：🏛️ 官方标准 · 🎨 视觉设计 · 📦 Skills 合集 · 🤖 Agent 集成
-
----
-
-## 8. wheresryan22/anatomy (15k ⭐)
+## 6. wheresryan22/anatomy (17k ⭐)
 
 **🔗** https://github.com/wheresryan22/anatomy  
-**🍴** Fork 1.2k | **🔄** Updated 2026-10-15  
+**🍴** Fork 1.3k | **🔄** Updated 2026-10-18  
 **👤** wheresryan22 — Anatomy 交互式可视化 Skill 作者
 
 > 通过可交互的实体隐喻解释技术概念的可视化 Skill。使用 SVG、WebGL 与 3D 构建由同一小型模型驱动的图形、动作和读数，并提供视觉检查工具。
@@ -175,10 +151,34 @@
 
 ---
 
+## 7. composio-community/awesome-codex-skills (17k ⭐)
+
+**🔗** https://github.com/composio-community/awesome-codex-skills  
+**🍴** Fork 1.8k | **🔄** Updated 2026-07-26  
+**👤** ComposioHQ — AI 工具集成平台公司，专注 agent 工具链生态建设
+
+> Codex Skills 实用精选列表，涵盖 Codex CLI 和 API 的自动化工作流 skills。
+
+**匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
+
+---
+
+## 8. greensock/gsap-skills (17k ⭐)
+
+**🔗** https://github.com/greensock/gsap-skills  
+**🍴** Fork 1k | **🔄** Updated 2026-07-29  
+**👤** GreenSock — GSAP 动画平台与官方 AI Skills 维护团队
+
+> GSAP 官方动画开发 Skills，覆盖核心 API、时间线、ScrollTrigger、插件与性能实践。提供 React、Vue、Svelte 和原生 JavaScript 的使用指导，帮助 Agent 正确组织动画与清理生命周期。
+
+**匹配能力**：🏛️ 官方标准 · 🎨 视觉设计 · 📦 Skills 合集 · 🤖 Agent 集成
+
+---
+
 ## 9. yusufkaraaslan/Skill_Seekers (15k ⭐)
 
 **🔗** https://github.com/yusufkaraaslan/Skill_Seekers  
-**🍴** Fork 1.7k | **🔄** Updated 2026-09-30  
+**🍴** Fork 1.8k | **🔄** Updated 2026-09-30  
 **👤** Yusuf Karaaslan — Skill Seekers 项目维护者
 
 > 将文档站、GitHub 仓库、PDF 等来源转为结构化知识资产的工具。支持导出 Agent Skills、RAG 数据与编码助手上下文，减少为不同平台重复整理材料的工作。
@@ -190,7 +190,7 @@
 ## 10. mindfold-ai/Trellis (15k ⭐)
 
 **🔗** https://github.com/mindfold-ai/Trellis  
-**🍴** Fork 862 | **🔄** Updated 2026-09-29  
+**🍴** Fork 864 | **🔄** Updated 2026-09-29  
 **👤** Mindfold AI — Trellis Agent Harness 开源团队
 
 > 为长周期软件研发提供结构化上下文和多 Agent 协作的 Harness，内置需求拆解、brainstorm、进度检查、续跑、收尾和工程规范等 Skills，帮助跨会话保持可验证的开发状态。
@@ -211,10 +211,10 @@
 
 ---
 
-## 12. cursor/plugins (12k ⭐)
+## 12. cursor/plugins (13k ⭐)
 
 **🔗** https://github.com/cursor/plugins  
-**🍴** Fork 1.2k | **🔄** Updated 2026-10-17  
+**🍴** Fork 1.3k | **🔄** Updated 2026-10-20  
 **👤** Cursor — Cursor 插件规范与官方 marketplace 团队
 
 > Cursor 官方插件规范与 marketplace 仓库，每个插件以独立 manifest 组合 Skills、Rules 和 MCP 配置，覆盖开发工作流、Agent 编排以及 GitHub、Playwright、Gmail 等第三方集成。
@@ -226,7 +226,7 @@
 ## 13. tw93/Kami (12k ⭐)
 
 **🔗** https://github.com/tw93/Kami  
-**🍴** Fork 558 | **🔄** Updated 2026-10-15  
+**🍴** Fork 558 | **🔄** Updated 2026-10-18  
 **👤** Tw93 — Kami、Kaku 与 Waza 等开源工具作者
 
 > 面向 Claude Code、Codex、Cursor 等 Agent 的专业文档与落地页设计 Skill，提供多语言模板、排版规则、结构检查和视觉复核，可输出 PDF、PNG、可编辑 PPTX 及部署型网页。
@@ -238,7 +238,7 @@
 ## 14. handsomestWei/patent-disclosure-skill (12k ⭐)
 
 **🔗** https://github.com/handsomestWei/patent-disclosure-skill  
-**🍴** Fork 1.2k | **🔄** Updated 2026-10-17  
+**🍴** Fork 1.3k | **🔄** Updated 2026-10-19  
 **👤** handsomestWei — 中国专利.skill 作者
 
 > 面向中国专利工作的 Agent Skill，从设计文档、代码和附图中梳理专利点，生成交底书、申请材料与可编辑 Word，并支持专利检索、通俗解读、知识库整理和审查答复辅助。
@@ -271,7 +271,19 @@
 
 ---
 
-## 17. revfactory/harness (9.2k ⭐)
+## 17. Tencent/BrowserSkill (9.2k ⭐)
+
+**🔗** https://github.com/Tencent/BrowserSkill  
+**🍴** Fork 661 | **🔄** Updated 2026-10-19  
+**👤** 腾讯开源团队 — BrowserSkill 浏览器自动化工具维护方
+
+> 让 shell 型 AI Agent 安全复用用户真实登录态浏览器的 CLI、daemon、扩展与配套 Skill；任务在独立可见窗口运行，并支持借用指定标签页、人机接管及完成后归还。
+
+**匹配能力**：🤖 Agent 集成 · 🔌 CLI 转化 · ⚡ 本地优先
+
+---
+
+## 18. revfactory/harness (9.2k ⭐)
 
 **🔗** https://github.com/revfactory/harness  
 **🍴** Fork 1.3k | **🔄** Updated 2026-09-28  
@@ -283,10 +295,10 @@
 
 ---
 
-## 18. nexu-io/html-anything (9.2k ⭐)
+## 19. nexu-io/html-anything (9.2k ⭐)
 
 **🔗** https://github.com/nexu-io/html-anything  
-**🍴** Fork 883 | **🔄** Updated 2026-10-13  
+**🍴** Fork 891 | **🔄** Updated 2026-10-13  
 **👤** nexu — 开源 Claude Design 替代品团队，本地优先、BYOK 模式
 
 > Agentic HTML 编辑器——本地 AI agent 写 HTML，你直接发布。75 Skills × 9 Surfaces（杂志、幻灯片、海报、XHS/tweet、原型、数据报告、Hyperframes），沙盒 iframe 预览，导出 HTML/PDF/PPTX/ZIP。
@@ -295,22 +307,10 @@
 
 ---
 
-## 19. Tencent/BrowserSkill (9.1k ⭐)
-
-**🔗** https://github.com/Tencent/BrowserSkill  
-**🍴** Fork 656 | **🔄** Updated 2026-10-15  
-**👤** 腾讯开源团队 — BrowserSkill 浏览器自动化工具维护方
-
-> 让 shell 型 AI Agent 安全复用用户真实登录态浏览器的 CLI、daemon、扩展与配套 Skill；任务在独立可见窗口运行，并支持借用指定标签页、人机接管及完成后归还。
-
-**匹配能力**：🤖 Agent 集成 · 🔌 CLI 转化 · ⚡ 本地优先
-
----
-
 ## 20. jnMetaCode/superpowers-zh (8.3k ⭐)
 
 **🔗** https://github.com/jnMetaCode/superpowers-zh  
-**🍴** Fork 773 | **🔄** Updated 2026-10-17  
+**🍴** Fork 775 | **🔄** Updated 2026-10-19  
 **👤** AI不止语（jnMetaCode）— superpowers 中文社区版维护者
 
 > superpowers 完整汉化 + 6 个中国原创 skills，让 Claude Code、Cursor、Hermes Agent 等 18 款 AI 编程工具真正会干活。
@@ -319,10 +319,10 @@
 
 ---
 
-## 21. trailofbits/skills (7.6k ⭐)
+## 21. trailofbits/skills (7.7k ⭐)
 
 **🔗** https://github.com/trailofbits/skills  
-**🍴** Fork 659 | **🔄** Updated 2026-10-15  
+**🍴** Fork 662 | **🔄** Updated 2026-10-19  
 **👤** Trail of Bits — 顶级软件安全研究公司，专注漏洞检测与安全审计
 
 > Trail of Bits 的安全研究、漏洞检测和审计工作流 Claude Code skills。Python 实现。
@@ -331,22 +331,10 @@
 
 ---
 
-## 22. lijigang/ljg-skills (7.5k ⭐)
-
-**🔗** https://github.com/lijigang/ljg-skills  
-**🍴** Fork 847 | **🔄** Updated 2026-10-12  
-**👤** lijigang — 个人开发者，中文 skills 场景深度实践者
-
-> 个人 skills 集合，涵盖闪卡、学习、论文、写作等中文场景。
-
-**匹配能力**：🤖 Agent 集成 · 📦 Skills 合集
-
----
-
-## 23. deanpeters/Product-Manager-Skills (7.5k ⭐)
+## 22. deanpeters/Product-Manager-Skills (7.5k ⭐)
 
 **🔗** https://github.com/deanpeters/Product-Manager-Skills  
-**🍴** Fork 896 | **🔄** Updated 2026-10-16  
+**🍴** Fork 920 | **🔄** Updated 2026-10-16  
 **👤** Dean Peters — 产品管理领域资深从业者，PM 技能框架实践者
 
 > 产品管理技能框架，适配 Claude Code / Cowork / Codex。
@@ -355,10 +343,22 @@
 
 ---
 
+## 23. lijigang/ljg-skills (7.5k ⭐)
+
+**🔗** https://github.com/lijigang/ljg-skills  
+**🍴** Fork 850 | **🔄** Updated 2026-10-19  
+**👤** lijigang — 个人开发者，中文 skills 场景深度实践者
+
+> 个人 skills 集合，涵盖闪卡、学习、论文、写作等中文场景。
+
+**匹配能力**：🤖 Agent 集成 · 📦 Skills 合集
+
+---
+
 ## 24. alchaincyf/darwin-skill (6.4k ⭐)
 
 **🔗** https://github.com/alchaincyf/darwin-skill  
-**🍴** Fork 667 | **🔄** Updated 2026-09-18  
+**🍴** Fork 669 | **🔄** Updated 2026-09-18  
 **👤** 花叔（alchaincyf）— 不会写代码但用 AI 做出 AppStore Top 1 付费产品，写了 9 本技术书，开源 skill 共近 6 万 star
 
 > 达尔文.skill —— 让所有 Skill 自主进化的系统。受 Karpathy autoresearch 启发，用自主实验循环批量优化 Skill。9 维度评估、棘轮机制（只保留改进，自动回滚退步）。
@@ -370,7 +370,7 @@
 ## 25. browser-act/skills (6.2k ⭐)
 
 **🔗** https://github.com/browser-act/skills  
-**🍴** Fork 321 | **🔄** Updated 2026-08-24  
+**🍴** Fork 344 | **🔄** Updated 2026-08-24  
 **👤** browser-act — 浏览器自动化 CLI 团队，专注 AI agent 的浏览器控制
 
 > 浏览器自动化 CLI，为 AI agent 构建，支持多任务并行，突破反爬机制，跨平台人工交接。
@@ -391,10 +391,10 @@
 
 ---
 
-## 27. yang0/handraw-style (5.6k ⭐)
+## 27. yang0/handraw-style (5.8k ⭐)
 
 **🔗** https://github.com/yang0/handraw-style  
-**🍴** Fork 655 | **🔄** Updated 2026-10-18  
+**🍴** Fork 665 | **🔄** Updated 2026-10-19  
 **👤** 杨凌（yang0）— handraw-style 手绘风格提示词库作者
 
 > 收录 261 种手绘风格的编号画廊与双语提示词 Skill，用户只需选择编号并提供主题，即可生成风格一致的中英文生图提示词。
@@ -403,7 +403,7 @@
 
 ---
 
-## 28. humanlayer/skills (5.3k ⭐)
+## 28. humanlayer/skills (5.4k ⭐)
 
 **🔗** https://github.com/humanlayer/skills  
 **🍴** Fork 177 | **🔄** Updated 2026-10-08  
@@ -418,7 +418,7 @@
 ## 29. anthropics/claude-plugins-community (4.7k ⭐)
 
 **🔗** https://github.com/anthropics/claude-plugins-community  
-**🍴** Fork 335 | **🔄** Updated 2026-10-17  
+**🍴** Fork 343 | **🔄** Updated 2026-10-19  
 **👤** Anthropic — Claude 社区插件目录维护团队
 
 > Claude Cowork 与 Claude Code 社区插件 marketplace 的只读镜像，收录经提交、自动安全扫描和分发审核的插件，并由 Anthropic 内部审核流水线每日同步。
@@ -430,7 +430,7 @@
 ## 30. geeklee/srt-whiteboard-animation (4.6k ⭐)
 
 **🔗** https://github.com/geeklee/srt-whiteboard-animation  
-**🍴** Fork 707 | **🔄** Updated 2026-07-27  
+**🍴** Fork 723 | **🔄** Updated 2026-07-27  
 **👤** 江哥是老登啊（geeklee）— SRT 白板手绘动画 Skill 作者
 
 > 将 SRT 字幕按叙事顺序转为白板手绘动画的 Skill，通过分区遮罩、连续笔迹和逐步添彩编排场景，并导出 MP4 成片。
@@ -439,27 +439,27 @@
 
 ---
 
-## 31. google-gemini/gemini-skills (4.3k ⭐)
-
-**🔗** https://github.com/google-gemini/gemini-skills  
-**🍴** Fork 461 | **🔄** Updated 2026-10-13  
-**👤** Google Gemini 官方团队 — Gemini API 和 SDK 的维护方
-
-> Gemini API、SDK 和 model/agent 交互的 Skills。
-
-**匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
-
----
-
-## 32. alchaincyf/huashu-art-motion (4.2k ⭐)
+## 31. alchaincyf/huashu-art-motion (4.5k ⭐)
 
 **🔗** https://github.com/alchaincyf/huashu-art-motion  
-**🍴** Fork 459 | **🔄** Updated 2026-10-16  
+**🍴** Fork 492 | **🔄** Updated 2026-10-16  
 **👤** 花叔（alchaincyf）— huashu-art-motion、女娲与达尔文 Skill 作者
 
 > 面向 Coding Agent 的代码动画 Skill，提供艺术风格配方、解说动画语法和可复用渲染组件。支持参考动画拆解、口播分镜、角色合成与逐帧导出，并通过质量检查脚本验证成片。
 
 **匹配能力**：🎨 视觉设计 · 🤖 Agent 集成 · ⚡ 本地优先
+
+---
+
+## 32. google-gemini/gemini-skills (4.3k ⭐)
+
+**🔗** https://github.com/google-gemini/gemini-skills  
+**🍴** Fork 462 | **🔄** Updated 2026-10-13  
+**👤** Google Gemini 官方团队 — Gemini API 和 SDK 的维护方
+
+> Gemini API、SDK 和 model/agent 交互的 Skills。
+
+**匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -487,7 +487,7 @@
 
 ---
 
-## 35. axtonliu/axton-obsidian-visual-skills (3.6k ⭐)
+## 35. axtonliu/axton-obsidian-visual-skills (3.7k ⭐)
 
 **🔗** https://github.com/axtonliu/axton-obsidian-visual-skills  
 **🍴** Fork 330 | **🔄** Updated 2026-06-26  
@@ -499,10 +499,10 @@
 
 ---
 
-## 36. yanliudesign/mono-color-skill (3.4k ⭐)
+## 36. yanliudesign/mono-color-skill (3.5k ⭐)
 
 **🔗** https://github.com/yanliudesign/mono-color-skill  
-**🍴** Fork 103 | **🔄** Updated 2026-09-02  
+**🍴** Fork 106 | **🔄** Updated 2026-09-02  
 **👤** Yan Liu — 交互设计师，mono-color-skill 作者
 
 > 单色编辑印刷风格的视觉设计 Skill，用暖色纸张、半调照片、主动留白和克制排版生成具有统一视觉语言的海报与内容图像。
@@ -511,10 +511,22 @@
 
 ---
 
-## 37. pasky/chrome-cdp-skill (3.3k ⭐)
+## 37. larashero3-dotcom/lieflat-less-ai-tone (3.3k ⭐)
+
+**🔗** https://github.com/larashero3-dotcom/lieflat-less-ai-tone  
+**🍴** Fork 203 | **🔄** Updated 2026-08-24  
+**👤** Lara Shero — lieflat-less-ai-tone 作者
+
+> 基于 283 万字语料统计的去 AI 味写作 Skill，用可复用规则识别并减弱机械化表达。
+
+**匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
+
+---
+
+## 38. pasky/chrome-cdp-skill (3.3k ⭐)
 
 **🔗** https://github.com/pasky/chrome-cdp-skill  
-**🍴** Fork 202 | **🔄** Updated 2026-06-28  
+**🍴** Fork 203 | **🔄** Updated 2026-06-28  
 **👤** pasky — 独立开发者，专注浏览器自动化与 AI agent 集成
 
 > 让 AI agent 直接接管已打开的 Chrome 标签页，CDP 协议实现。JavaScript 实现。
@@ -523,10 +535,10 @@
 
 ---
 
-## 38. Nanako0129/sepia (3.2k ⭐)
+## 39. Nanako0129/sepia (3.3k ⭐)
 
 **🔗** https://github.com/Nanako0129/sepia  
-**🍴** Fork 210 | **🔄** Updated 2026-10-15  
+**🍴** Fork 213 | **🔄** Updated 2026-10-15  
 **👤** Nyanako（Nanako0129）— Sepia 去 AI 化写作 Skills 作者
 
 > 面向 Agent Skills 兼容工具的去 AI 化写作技能组，分别支持创作、重写、评审与结构修复，并针对小说叙事和专业文体提供可复用规则。
@@ -535,10 +547,10 @@
 
 ---
 
-## 39. microsoft/skills (3.1k ⭐)
+## 40. microsoft/skills (3.1k ⭐)
 
 **🔗** https://github.com/microsoft/skills  
-**🍴** Fork 353 | **🔄** Updated 2026-10-18  
+**🍴** Fork 354 | **🔄** Updated 2026-10-18  
 **👤** Microsoft 官方团队 — SDK 和开发者工具生态的构建者
 
 > Microsoft 官方出品，SDK 用的 Skills、MCP servers、Custom Agents。TypeScript 实现。
@@ -547,7 +559,7 @@
 
 ---
 
-## 40. FreedomIntelligence/OpenClaw-Medical-Skills (3.1k ⭐)
+## 41. FreedomIntelligence/OpenClaw-Medical-Skills (3.1k ⭐)
 
 **🔗** https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills  
 **🍴** Fork 419 | **🔄** Updated 2026-07-21  
@@ -559,22 +571,10 @@
 
 ---
 
-## 41. larashero3-dotcom/lieflat-less-ai-tone (2.9k ⭐)
-
-**🔗** https://github.com/larashero3-dotcom/lieflat-less-ai-tone  
-**🍴** Fork 183 | **🔄** Updated 2026-08-24  
-**👤** Lara Shero — lieflat-less-ai-tone 作者
-
-> 基于 283 万字语料统计的去 AI 味写作 Skill，用可复用规则识别并减弱机械化表达。
-
-**匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
-
----
-
 ## 42. cisco-ai-defense/skill-scanner (2.6k ⭐)
 
 **🔗** https://github.com/cisco-ai-defense/skill-scanner  
-**🍴** Fork 333 | **🔄** Updated 2026-10-15  
+**🍴** Fork 335 | **🔄** Updated 2026-10-15  
 **👤** Cisco AI Defense — Cisco 旗下 AI 安全团队
 
 > Cisco 出品，Agent Skills 安全扫描器。
@@ -586,7 +586,7 @@
 ## 43. larashero3-dotcom/writing-dna-skill (2.5k ⭐)
 
 **🔗** https://github.com/larashero3-dotcom/writing-dna-skill  
-**🍴** Fork 237 | **🔄** Updated 2026-08-24  
+**🍴** Fork 238 | **🔄** Updated 2026-08-24  
 **👤** Lara Shero — Writing DNA Distiller 作者
 
 > 写作风格蒸馏 Agent Skill，可从样本文本提取可复用的风格特征，并据此复刻目标写作表达。
@@ -595,10 +595,10 @@
 
 ---
 
-## 44. threerocks/hand-drawn-styles (2.4k ⭐)
+## 44. threerocks/hand-drawn-styles (2.5k ⭐)
 
 **🔗** https://github.com/threerocks/hand-drawn-styles  
-**🍴** Fork 262 | **🔄** Updated 2026-10-16  
+**🍴** Fork 263 | **🔄** Updated 2026-10-16  
 **👤** liulei（threerocks）— hand-drawn-styles 手绘画风配方库维护者
 
 > 工具无关的手绘画风提示词 Skill。将主体、文案和比例要求填入可复用的画风配方，输出图像模型可用的提示词或参考图调用包，适配 Claude Code、Cursor 与 Codex 等 Agent。
@@ -607,27 +607,27 @@
 
 ---
 
-## 45. imxv/Pretty-mermaid-skills (1.5k ⭐)
-
-**🔗** https://github.com/imxv/Pretty-mermaid-skills  
-**🍴** Fork 86 | **🔄** Updated 2026-08-22  
-**👤** imxv — Pretty Mermaid Skills 独立开发者
-
-> 为 AI agent 提供 Mermaid 图表渲染能力的 Skill，支持 SVG 与 ASCII 两种输出格式。
-
-**匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
-
----
-
-## 46. hyhmrright/brooks-lint (1.5k ⭐)
+## 45. hyhmrright/brooks-lint (1.5k ⭐)
 
 **🔗** https://github.com/hyhmrright/brooks-lint  
-**🍴** Fork 75 | **🔄** Updated 2026-10-16  
+**🍴** Fork 79 | **🔄** Updated 2026-10-19  
 **👤** hyhmrright — brooks-lint AI 代码评审 Skill 作者
 
 > 以 12 本经典软件工程著作为依据的 AI 代码评审 Skill，从生产代码与测试套件的衰退风险出发，生成带书籍引用、严重级别、具体修复建议和健康分数的可追溯诊断。
 
 **匹配能力**：🏗️ 架构梳理 · 🛡️ 安全审计 · 🧪 TDD 工作流 · 🤖 Agent 集成
+
+---
+
+## 46. imxv/Pretty-mermaid-skills (1.5k ⭐)
+
+**🔗** https://github.com/imxv/Pretty-mermaid-skills  
+**🍴** Fork 95 | **🔄** Updated 2026-08-22  
+**👤** imxv — Pretty Mermaid Skills 独立开发者
+
+> 为 AI agent 提供 Mermaid 图表渲染能力的 Skill，支持 SVG 与 ASCII 两种输出格式。
+
+**匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
 
 ---
 
@@ -646,7 +646,7 @@
 ## 48. open-gsd/gsd-pi (1.3k ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-pi  
-**🍴** Fork 110 | **🔄** Updated 2026-10-17  
+**🍴** Fork 112 | **🔄** Updated 2026-10-19  
 **👤** Open GSD — GSD-Pi 长周期 Agent 研发系统维护团队
 
 > 基于 Pi coding agent 的 Spec 驱动开发系统，用元提示、上下文工程和 orchestration Skill 支撑长周期自主任务，在迭代中保持上下文精简、验证闭环与 Git 历史清晰。
@@ -658,7 +658,7 @@
 ## 49. modu-ai/moai-adk (1.2k ⭐)
 
 **🔗** https://github.com/modu-ai/moai-adk  
-**🍴** Fork 226 | **🔄** Updated 2026-10-17  
+**🍴** Fork 226 | **🔄** Updated 2026-10-20  
 **👤** 모두의AI（modu-ai）— MoAI-ADK 开源维护团队
 
 > 面向 Claude Code 的 Spec 驱动研发 Harness，通过 plan、run、sync 流程、TRUST 5 质量门和多模型路由组织后端、数据库、前端、测试、文档及 CI 等领域 Skills。
@@ -679,7 +679,7 @@
 
 ---
 
-## 51. warpdotdev/oz-skills (823 ⭐)
+## 51. warpdotdev/oz-skills (822 ⭐)
 
 **🔗** https://github.com/warpdotdev/oz-skills  
 **🍴** Fork 69 | **🔄** Updated 2026-08-15  
@@ -691,7 +691,7 @@
 
 ---
 
-## 52. alesha-pro/tools (682 ⭐)
+## 52. alesha-pro/tools (685 ⭐)
 
 **🔗** https://github.com/alesha-pro/tools  
 **🍴** Fork 76 | **🔄** Updated 2026-09-28  
@@ -706,7 +706,7 @@
 ## 53. warpdotdev/common-skills (613 ⭐)
 
 **🔗** https://github.com/warpdotdev/common-skills  
-**🍴** Fork 35 | **🔄** Updated 2026-10-09  
+**🍴** Fork 35 | **🔄** Updated 2026-10-18  
 **👤** Warp — Warp Agent 与共享工程工作流团队
 
 > Warp 跨仓共享的 Agent Skills 集合，将 Spec 驱动实现、PR 与 CI、代码评审、研究决策和 Skill 维护等可复用工作流统一放在 `.agents/skills/` 目录中。
@@ -739,7 +739,19 @@
 
 ---
 
-## 56. almendili/skills (382 ⭐)
+## 56. zhouwei713/luobo-ppt (393 ⭐)
+
+**🔗** https://github.com/zhouwei713/luobo-ppt  
+**🍴** Fork 74 | **🔄** Updated 2026-10-19  
+**👤** zhouwei713 — 萝卜 AI 笔记作者、萝卜 PPT Skill 维护者
+
+> 生成和美化原生可编辑 PowerPoint 的 Agent Skill。支持将文章或大纲转为带结论式标题与口播备注的演示文稿，也可按参考图调整旧 PPT 的视觉样式并保留原文。
+
+**匹配能力**：🎨 视觉设计 · 📝 文档生成 · 🤖 Agent 集成
+
+---
+
+## 57. almendili/skills (382 ⭐)
 
 **🔗** https://github.com/almendili/skills  
 **🍴** Fork 28 | **🔄** Updated 2026-08-18  
@@ -748,18 +760,6 @@
 > 可跨 Claude Code、Codex、Cursor、Gemini CLI 等 Harness 使用的 SKILL.md 指令包；当前包含 architecture-map，用真实度量与调用路径生成交互式代码库地图，并以 drift 检查约束文档同步。
 
 **匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
-
----
-
-## 57. zhouwei713/luobo-ppt (377 ⭐)
-
-**🔗** https://github.com/zhouwei713/luobo-ppt  
-**🍴** Fork 72 | **🔄** Updated 2026-10-17  
-**👤** zhouwei713 — 萝卜 AI 笔记作者、萝卜 PPT Skill 维护者
-
-> 生成和美化原生可编辑 PowerPoint 的 Agent Skill。支持将文章或大纲转为带结论式标题与口播备注的演示文稿，也可按参考图调整旧 PPT 的视觉样式并保留原文。
-
-**匹配能力**：🎨 视觉设计 · 📝 文档生成 · 🤖 Agent 集成
 
 ---
 
@@ -787,7 +787,7 @@
 
 ---
 
-## 60. gnipbao/dao-skill (245 ⭐)
+## 60. gnipbao/dao-skill (246 ⭐)
 
 **🔗** https://github.com/gnipbao/dao-skill  
 **🍴** Fork 22 | **🔄** Updated 2026-07-28  
@@ -802,7 +802,7 @@
 ## 61. liby/dotfiles (151 ⭐)
 
 **🔗** https://github.com/liby/dotfiles  
-**🍴** Fork 13 | **🔄** Updated 2026-10-17  
+**🍴** Fork 13 | **🔄** Updated 2026-10-19  
 **👤** Bryan Lee（liby）— 开发者与 dotfiles 维护者
 
 > 同时服务开发者与 coding agent 的个人开发环境配置，包含 Shell、编辑器及 Agent 工作流约定，便于复用一致的工程上下文。
@@ -811,7 +811,7 @@
 
 ---
 
-## 62. gnurio/nurijanian-skills (125 ⭐)
+## 62. gnurio/nurijanian-skills (126 ⭐)
 
 **🔗** https://github.com/gnurio/nurijanian-skills  
 **🍴** Fork 9 | **🔄** Updated 2026-08-13  
@@ -823,7 +823,7 @@
 
 ---
 
-## 63. share-skills/pi (108 ⭐)
+## 63. share-skills/pi (107 ⭐)
 
 **🔗** https://github.com/share-skills/pi  
 **🍴** Fork 5 | **🔄** Updated 2026-06-23  
@@ -890,27 +890,27 @@
 - [Agent-Skills-for-Context-Engineering](#3-muratcankoylanagent-skills-for-context-engineering-18k-) — Context Engineering、多 Agent 架构和生产级 agent 系统的全面技能集合
 - [Auto-claude-code-research-in-sleep](#5-wanshuiyinauto-claude-code-research-in-sleep-18k-) — ARIS 纯 Markdown Skills，支持跨模型评审、idea 发现与实验自动化，实现「睡后」自主 ML 研究循…
 - [Trellis](#10-mindfold-aitrellis-15k-) — 为长周期软件研发提供结构化上下文和多 Agent 协作的 Harness，内置需求拆解、brainstorm、进度检查、…
-- [plugins](#12-cursorplugins-12k-) — Cursor 官方插件规范与 marketplace 仓库，每个插件以独立 manifest 组合 Skills、Rul…
-- [harness](#17-revfactoryharness-92k-) — 元 Skill：自动设计领域专属 Agent 团队、定义专岗 Agent 并生成其所需 Skills，适合快速搭建多角色…
-- [BrowserSkill](#19-tencentbrowserskill-91k-) — 让 shell 型 AI Agent 安全复用用户真实登录态浏览器的 CLI、daemon、扩展与配套 Skill；任务…
+- [plugins](#12-cursorplugins-13k-) — Cursor 官方插件规范与 marketplace 仓库，每个插件以独立 manifest 组合 Skills、Rul…
+- [BrowserSkill](#17-tencentbrowserskill-92k-) — 让 shell 型 AI Agent 安全复用用户真实登录态浏览器的 CLI、daemon、扩展与配套 Skill；任务…
+- [harness](#18-revfactoryharness-92k-) — 元 Skill：自动设计领域专属 Agent 团队、定义专岗 Agent 并生成其所需 Skills，适合快速搭建多角色…
 - [superpowers-zh](#20-jnmetacodesuperpowers-zh-83k-) — superpowers 完整汉化 + 6 个中国原创 skills，让 Claude Code、Cursor、Herme…
-- [skills](#21-trailofbitsskills-76k-) — Trail of Bits 的安全研究、漏洞检测和审计工作流 Claude Code skills
+- [skills](#21-trailofbitsskills-77k-) — Trail of Bits 的安全研究、漏洞检测和审计工作流 Claude Code skills
 - [darwin-skill](#24-alchaincyfdarwin-skill-64k-) — 达尔文.skill —— 让所有 Skill 自主进化的系统
 - [skills](#25-browser-actskills-62k-) — 浏览器自动化 CLI，为 AI agent 构建，支持多任务并行，突破反爬机制，跨平台人工交接
-- [skills](#28-humanlayerskills-53k-) — HumanLayer 提供的 Claude Code Skills 集合，覆盖 CLAUDE.md 指令优化、React…
+- [skills](#28-humanlayerskills-54k-) — HumanLayer 提供的 Claude Code Skills 集合，覆盖 CLAUDE.md 指令优化、React…
 - [cc-sdd](#34-gotalabcc-sdd-37k-) — 将已批准 Spec 转为长周期自主实现的轻量 SDD Harness，以 requirements、design、tas…
-- [chrome-cdp-skill](#37-paskychrome-cdp-skill-33k-) — 让 AI agent 直接接管已打开的 Chrome 标签页，CDP 协议实现
-- [skills](#39-microsoftskills-31k-) — Microsoft 官方出品，SDK 用的 Skills、MCP servers、Custom Agents
+- [chrome-cdp-skill](#38-paskychrome-cdp-skill-33k-) — 让 AI agent 直接接管已打开的 Chrome 标签页，CDP 协议实现
+- [skills](#40-microsoftskills-31k-) — Microsoft 官方出品，SDK 用的 Skills、MCP servers、Custom Agents
 - [skill-scanner](#42-cisco-ai-defenseskill-scanner-26k-) — Cisco 出品，Agent Skills 安全扫描器
-- [brooks-lint](#46-hyhmrrightbrooks-lint-15k-) — 以 12 本经典软件工程著作为依据的 AI 代码评审 Skill，从生产代码与测试套件的衰退风险出发，生成带书籍引用、严…
+- [brooks-lint](#45-hyhmrrightbrooks-lint-15k-) — 以 12 本经典软件工程著作为依据的 AI 代码评审 Skill，从生产代码与测试套件的衰退风险出发，生成带书籍引用、严…
 - [gsd-pi](#48-open-gsdgsd-pi-13k-) — 基于 Pi coding agent 的 Spec 驱动开发系统，用元提示、上下文工程和 orchestration S…
 - [moai-adk](#49-modu-aimoai-adk-12k-) — 面向 Claude Code 的 Spec 驱动研发 Harness，通过 plan、run、sync 流程、TRUST…
-- [oz-skills](#51-warpdotdevoz-skills-823-) — Warp AI / Oz 的可复用 Agent Skills 精选集：以 .agents/skills/ 下的 Mark…
-- [tools](#52-alesha-protools-682-) — 基于本地多 GPU 推理实践整理的独立工具、ComfyUI 工作流与 Agent Skills 集合，当前覆盖 Mini…
+- [oz-skills](#51-warpdotdevoz-skills-822-) — Warp AI / Oz 的可复用 Agent Skills 精选集：以 .agents/skills/ 下的 Mark…
+- [tools](#52-alesha-protools-685-) — 基于本地多 GPU 推理实践整理的独立工具、ComfyUI 工作流与 Agent Skills 集合，当前覆盖 Mini…
 - [common-skills](#53-warpdotdevcommon-skills-613-) — Warp 跨仓共享的 Agent Skills 集合，将 Spec 驱动实现、PR 与 CI、代码评审、研究决策和 Sk…
-- [skills](#56-almendiliskills-382-) — 可跨 Claude Code、Codex、Cursor、Gemini CLI 等 Harness 使用的 SKILL.m…
+- [skills](#57-almendiliskills-382-) — 可跨 Claude Code、Codex、Cursor、Gemini CLI 等 Harness 使用的 SKILL.m…
 - [codex-skills](#59-provenchercodex-skills-274-) — 面向 ChatGPT Work 与 Codex 的可复用 Skills 集合；其中 orchestrate Skill …
-- [dao-skill](#60-gnipbaodao-skill-245-) — 从模糊需求出发设计、生成、评估和持续改进 Agent Skill 的元设计器，通过归根、形态选择、Trust Gate、…
+- [dao-skill](#60-gnipbaodao-skill-246-) — 从模糊需求出发设计、生成、评估和持续改进 Agent Skill 的元设计器，通过归根、形态选择、Trust Gate、…
 - [dotfiles](#61-libydotfiles-151-) — 同时服务开发者与 coding agent 的个人开发环境配置，包含 Shell、编辑器及 Agent 工作流约定，便于…
 
 ### 🔁 研发流程与 Agent Harness
@@ -920,37 +920,37 @@
 - [Agent-Skills-for-Context-Engineering](#3-muratcankoylanagent-skills-for-context-engineering-18k-) — Context Engineering、多 Agent 架构和生产级 agent 系统的全面技能集合
 - [Auto-claude-code-research-in-sleep](#5-wanshuiyinauto-claude-code-research-in-sleep-18k-) — ARIS 纯 Markdown Skills，支持跨模型评审、idea 发现与实验自动化，实现「睡后」自主 ML 研究循…
 - [Trellis](#10-mindfold-aitrellis-15k-) — 为长周期软件研发提供结构化上下文和多 Agent 协作的 Harness，内置需求拆解、brainstorm、进度检查、…
-- [harness](#17-revfactoryharness-92k-) — 元 Skill：自动设计领域专属 Agent 团队、定义专岗 Agent 并生成其所需 Skills，适合快速搭建多角色…
-- [BrowserSkill](#19-tencentbrowserskill-91k-) — 让 shell 型 AI Agent 安全复用用户真实登录态浏览器的 CLI、daemon、扩展与配套 Skill；任务…
+- [BrowserSkill](#17-tencentbrowserskill-92k-) — 让 shell 型 AI Agent 安全复用用户真实登录态浏览器的 CLI、daemon、扩展与配套 Skill；任务…
+- [harness](#18-revfactoryharness-92k-) — 元 Skill：自动设计领域专属 Agent 团队、定义专岗 Agent 并生成其所需 Skills，适合快速搭建多角色…
 - [superpowers-zh](#20-jnmetacodesuperpowers-zh-83k-) — superpowers 完整汉化 + 6 个中国原创 skills，让 Claude Code、Cursor、Herme…
 - [darwin-skill](#24-alchaincyfdarwin-skill-64k-) — 达尔文.skill —— 让所有 Skill 自主进化的系统
-- [skills](#28-humanlayerskills-53k-) — HumanLayer 提供的 Claude Code Skills 集合，覆盖 CLAUDE.md 指令优化、React…
+- [skills](#28-humanlayerskills-54k-) — HumanLayer 提供的 Claude Code Skills 集合，覆盖 CLAUDE.md 指令优化、React…
 - [cc-sdd](#34-gotalabcc-sdd-37k-) — 将已批准 Spec 转为长周期自主实现的轻量 SDD Harness，以 requirements、design、tas…
-- [brooks-lint](#46-hyhmrrightbrooks-lint-15k-) — 以 12 本经典软件工程著作为依据的 AI 代码评审 Skill，从生产代码与测试套件的衰退风险出发，生成带书籍引用、严…
+- [brooks-lint](#45-hyhmrrightbrooks-lint-15k-) — 以 12 本经典软件工程著作为依据的 AI 代码评审 Skill，从生产代码与测试套件的衰退风险出发，生成带书籍引用、严…
 - [nopua](#47-wuji-labsnopua-14k-) — 用爱解放 AI 潜能的 Skill
 - [gsd-pi](#48-open-gsdgsd-pi-13k-) — 基于 Pi coding agent 的 Spec 驱动开发系统，用元提示、上下文工程和 orchestration S…
 - [moai-adk](#49-modu-aimoai-adk-12k-) — 面向 Claude Code 的 Spec 驱动研发 Harness，通过 plan、run、sync 流程、TRUST…
 - [common-skills](#53-warpdotdevcommon-skills-613-) — Warp 跨仓共享的 Agent Skills 集合，将 Spec 驱动实现、PR 与 CI、代码评审、研究决策和 Sk…
 - [codex-skills](#59-provenchercodex-skills-274-) — 面向 ChatGPT Work 与 Codex 的可复用 Skills 集合；其中 orchestrate Skill …
-- [dao-skill](#60-gnipbaodao-skill-245-) — 从模糊需求出发设计、生成、评估和持续改进 Agent Skill 的元设计器，通过归根、形态选择、Trust Gate、…
+- [dao-skill](#60-gnipbaodao-skill-246-) — 从模糊需求出发设计、生成、评估和持续改进 Agent Skill 的元设计器，通过归根、形态选择、Trust Gate、…
 
 ### 🎨 视觉、UI 与内容设计
 
-- [gsap-skills](#7-greensockgsap-skills-17k-) — GSAP 官方动画开发 Skills，覆盖核心 API、时间线、ScrollTrigger、插件与性能实践
-- [anatomy](#8-wheresryan22anatomy-15k-) — 通过可交互的实体隐喻解释技术概念的可视化 Skill
+- [anatomy](#6-wheresryan22anatomy-17k-) — 通过可交互的实体隐喻解释技术概念的可视化 Skill
+- [gsap-skills](#8-greensockgsap-skills-17k-) — GSAP 官方动画开发 Skills，覆盖核心 API、时间线、ScrollTrigger、插件与性能实践
 - [Kami](#13-tw93kami-12k-) — 面向 Claude Code、Codex、Cursor 等 Agent 的专业文档与落地页设计 Skill，提供多语言模…
-- [html-anything](#18-nexu-iohtml-anything-92k-) — Agentic HTML 编辑器——本地 AI agent 写 HTML，你直接发布
-- [handraw-style](#27-yang0handraw-style-56k-) — 收录 261 种手绘风格的编号画廊与双语提示词 Skill，用户只需选择编号并提供主题，即可生成风格一致的中英文生图提示…
+- [html-anything](#19-nexu-iohtml-anything-92k-) — Agentic HTML 编辑器——本地 AI agent 写 HTML，你直接发布
+- [handraw-style](#27-yang0handraw-style-58k-) — 收录 261 种手绘风格的编号画廊与双语提示词 Skill，用户只需选择编号并提供主题，即可生成风格一致的中英文生图提示…
 - [srt-whiteboard-animation](#30-geekleesrt-whiteboard-animation-46k-) — 将 SRT 字幕按叙事顺序转为白板手绘动画的 Skill，通过分区遮罩、连续笔迹和逐步添彩编排场景，并导出 MP4 成片
-- [huashu-art-motion](#32-alchaincyfhuashu-art-motion-42k-) — 面向 Coding Agent 的代码动画 Skill，提供艺术风格配方、解说动画语法和可复用渲染组件
-- [axton-obsidian-visual-skills](#35-axtonliuaxton-obsidian-visual-skills-36k-) — Obsidian 可视化 skills，生成 Canvas/Excalidraw/Mermaid 图表
-- [mono-color-skill](#36-yanliudesignmono-color-skill-34k-) — 单色编辑印刷风格的视觉设计 Skill，用暖色纸张、半调照片、主动留白和克制排版生成具有统一视觉语言的海报与内容图像
-- [hand-drawn-styles](#44-threerockshand-drawn-styles-24k-) — 工具无关的手绘画风提示词 Skill
-- [Pretty-mermaid-skills](#45-imxvpretty-mermaid-skills-15k-) — 为 AI agent 提供 Mermaid 图表渲染能力的 Skill，支持 SVG 与 ASCII 两种输出格式
-- [tools](#52-alesha-protools-682-) — 基于本地多 GPU 推理实践整理的独立工具、ComfyUI 工作流与 Agent Skills 集合，当前覆盖 Mini…
+- [huashu-art-motion](#31-alchaincyfhuashu-art-motion-45k-) — 面向 Coding Agent 的代码动画 Skill，提供艺术风格配方、解说动画语法和可复用渲染组件
+- [axton-obsidian-visual-skills](#35-axtonliuaxton-obsidian-visual-skills-37k-) — Obsidian 可视化 skills，生成 Canvas/Excalidraw/Mermaid 图表
+- [mono-color-skill](#36-yanliudesignmono-color-skill-35k-) — 单色编辑印刷风格的视觉设计 Skill，用暖色纸张、半调照片、主动留白和克制排版生成具有统一视觉语言的海报与内容图像
+- [hand-drawn-styles](#44-threerockshand-drawn-styles-25k-) — 工具无关的手绘画风提示词 Skill
+- [Pretty-mermaid-skills](#46-imxvpretty-mermaid-skills-15k-) — 为 AI agent 提供 Mermaid 图表渲染能力的 Skill，支持 SVG 与 ASCII 两种输出格式
+- [tools](#52-alesha-protools-685-) — 基于本地多 GPU 推理实践整理的独立工具、ComfyUI 工作流与 Agent Skills 集合，当前覆盖 Mini…
 - [chart-visualization-skills](#55-antvischart-visualization-skills-512-) — AntV 面向 AI coding agent 的图表可视化 Skills，用可复用技能把数据分析结果转成合适的视觉表达…
-- [skills](#56-almendiliskills-382-) — 可跨 Claude Code、Codex、Cursor、Gemini CLI 等 Harness 使用的 SKILL.m…
-- [luobo-ppt](#57-zhouwei713luobo-ppt-377-) — 生成和美化原生可编辑 PowerPoint 的 Agent Skill
+- [luobo-ppt](#56-zhouwei713luobo-ppt-393-) — 生成和美化原生可编辑 PowerPoint 的 Agent Skill
+- [skills](#57-almendiliskills-382-) — 可跨 Claude Code、Codex、Cursor、Gemini CLI 等 Harness 使用的 SKILL.m…
 - [Archscribe](#58-lazypayarchscribe-367-) — 面向 Codex 与 Claude 的手绘技术图 Skill 和本地渲染器，可从 JSON 生成可编辑 Excalidr…
 
 ### 📚 研究、写作与知识管理
@@ -960,13 +960,13 @@
 - [patent-disclosure-skill](#14-handsomestweipatent-disclosure-skill-12k-) — 面向中国专利工作的 Agent Skill，从设计文档、代码和附图中梳理专利点，生成交底书、申请材料与可编辑 Word，…
 - [cangjie-skill](#15-kangarookingcangjie-skill-11k-) — 将书籍、长视频和播客等高价值内容蒸馏为可执行 Agent Skills 的工具链，便于把知识材料转成可复用工作流
 - [skills](#16-slavingiaskills-11k-) — 基于 Sahil Lavingia 的《The Minimalist Entrepreneur》理念的 Claude C…
-- [ljg-skills](#22-lijigangljg-skills-75k-) — 个人 skills 集合，涵盖闪卡、学习、论文、写作等中文场景
-- [sepia](#38-nanako0129sepia-32k-) — 面向 Agent Skills 兼容工具的去 AI 化写作技能组，分别支持创作、重写、评审与结构修复，并针对小说叙事和专…
-- [OpenClaw-Medical-Skills](#40-freedomintelligenceopenclaw-medical-skills-31k-) — 最大开源医疗 AI 技能库，专为 OpenClaw 构建
-- [lieflat-less-ai-tone](#41-larashero3-dotcomlieflat-less-ai-tone-29k-) — 基于 283 万字语料统计的去 AI 味写作 Skill，用可复用规则识别并减弱机械化表达
+- [ljg-skills](#23-lijigangljg-skills-75k-) — 个人 skills 集合，涵盖闪卡、学习、论文、写作等中文场景
+- [lieflat-less-ai-tone](#37-larashero3-dotcomlieflat-less-ai-tone-33k-) — 基于 283 万字语料统计的去 AI 味写作 Skill，用可复用规则识别并减弱机械化表达
+- [sepia](#39-nanako0129sepia-33k-) — 面向 Agent Skills 兼容工具的去 AI 化写作技能组，分别支持创作、重写、评审与结构修复，并针对小说叙事和专…
+- [OpenClaw-Medical-Skills](#41-freedomintelligenceopenclaw-medical-skills-31k-) — 最大开源医疗 AI 技能库，专为 OpenClaw 构建
 - [writing-dna-skill](#43-larashero3-dotcomwriting-dna-skill-25k-) — 写作风格蒸馏 Agent Skill，可从样本文本提取可复用的风格特征，并据此复刻目标写作表达
 - [Resource2Skill](#54-microsoftresource2skill-537-) — Microsoft 开源的多模态资源到可执行 Skill 蒸馏框架，把教程视频、文章、代码和参考素材转成可浏览、组合与运…
-- [pi](#63-share-skillspi-108-) — 将《孙子兵法》的策略框架与认知科学结合的 Agent Skills 套件，为 AI 提供分析、决策与行动复盘方法
+- [pi](#63-share-skillspi-107-) — 将《孙子兵法》的策略框架与认知科学结合的 Agent Skills 套件，为 AI 提供分析、决策与行动复盘方法
 - [didi-skills](#64-didixuxudidi-skills-86-) — 面向 Claude Code 的商业与研究 Skills，覆盖竞品分析、市场规模估算和学术论文阅读等结构化工作流
 - [skills](#65-youmind-openlabskills-73-) — YouMind OpenLab 提供的 Claude Code Skills 集合，把 AI 辅助学习、思考与内容创作流…
 
@@ -975,31 +975,31 @@
 - [agency-agents-zh](#1-jnmetacodeagency-agents-zh-21k-) — 266 个即插即用的 AI 专家角色，覆盖工程/设计/营销/金融等 20 个部门；含 50 个中国市场原创智能体，配合 …
 - [patent-disclosure-skill](#14-handsomestweipatent-disclosure-skill-12k-) — 面向中国专利工作的 Agent Skill，从设计文档、代码和附图中梳理专利点，生成交底书、申请材料与可编辑 Word，…
 - [skills](#16-slavingiaskills-11k-) — 基于 Sahil Lavingia 的《The Minimalist Entrepreneur》理念的 Claude C…
-- [Product-Manager-Skills](#23-deanpetersproduct-manager-skills-75k-) — 产品管理技能框架，适配 Claude Code / Cowork / Codex
+- [Product-Manager-Skills](#22-deanpetersproduct-manager-skills-75k-) — 产品管理技能框架，适配 Claude Code / Cowork / Codex
 - [codex-startup-pressure-test-skill](#50-kappaemme-gitcodex-startup-pressure-test-skill-991-) — Codex 创业点子压力测试 Skill：对 startup idea 做创始人式诊断，输出 verdict、核心假设、…
-- [nurijanian-skills](#62-gnurionurijanian-skills-125-) — 面向产品经理的 Claude Code、Cursor 与 Codex Skills 集合，覆盖 PM 协作教练、技术趋势…
-- [pi](#63-share-skillspi-108-) — 将《孙子兵法》的策略框架与认知科学结合的 Agent Skills 套件，为 AI 提供分析、决策与行动复盘方法
+- [nurijanian-skills](#62-gnurionurijanian-skills-126-) — 面向产品经理的 Claude Code、Cursor 与 Codex Skills 集合，覆盖 PM 协作教练、技术趋势…
+- [pi](#63-share-skillspi-107-) — 将《孙子兵法》的策略框架与认知科学结合的 Agent Skills 套件，为 AI 提供分析、决策与行动复盘方法
 - [didi-skills](#64-didixuxudidi-skills-86-) — 面向 Claude Code 的商业与研究 Skills，覆盖竞品分析、市场规模估算和学术论文阅读等结构化工作流
 - [mckinsey-bcg-consulting](#66-michaelrochonnnmckinsey-bcg-consulting-73-) — 基于 McKinsey 与 BCG 方法论整理的 Codex Skill 库，以 hub router 和 75 个子 …
 
 ### 🌐 标准、生态与 Skills 合集
 
-- [awesome-codex-skills](#6-composio-communityawesome-codex-skills-17k-) — Codex Skills 实用精选列表，涵盖 Codex CLI 和 API 的自动化工作流 skills
+- [awesome-codex-skills](#7-composio-communityawesome-codex-skills-17k-) — Codex Skills 实用精选列表，涵盖 Codex CLI 和 API 的自动化工作流 skills
 - [Skill_Seekers](#9-yusufkaraaslanskill_seekers-15k-) — 将文档站、GitHub 仓库、PDF 等来源转为结构化知识资产的工具
 - [skills](#11-minimax-aiskills-14k-) — MiniMax AI Skills 集合，C# 实现
-- [plugins](#12-cursorplugins-12k-) — Cursor 官方插件规范与 marketplace 仓库，每个插件以独立 manifest 组合 Skills、Rul…
-- [ljg-skills](#22-lijigangljg-skills-75k-) — 个人 skills 集合，涵盖闪卡、学习、论文、写作等中文场景
+- [plugins](#12-cursorplugins-13k-) — Cursor 官方插件规范与 marketplace 仓库，每个插件以独立 manifest 组合 Skills、Rul…
+- [ljg-skills](#23-lijigangljg-skills-75k-) — 个人 skills 集合，涵盖闪卡、学习、论文、写作等中文场景
 - [skills](#26-antfuskills-6k-) — Anthony Fu 策展的前端 / Vue 生态 Agent Skills 合集
 - [claude-plugins-community](#29-anthropicsclaude-plugins-community-47k-) — Claude Cowork 与 Claude Code 社区插件 marketplace 的只读镜像，收录经提交、自动安…
-- [gemini-skills](#31-google-geminigemini-skills-43k-) — Gemini API、SDK 和 model/agent 交互的 Skills
+- [gemini-skills](#32-google-geminigemini-skills-43k-) — Gemini API、SDK 和 model/agent 交互的 Skills
 - [Skills](#33-dimillianskills-4k-) — Dimillian 的个人 Codex Skills 集合，Shell 实现
-- [skills](#39-microsoftskills-31k-) — Microsoft 官方出品，SDK 用的 Skills、MCP servers、Custom Agents
+- [skills](#40-microsoftskills-31k-) — Microsoft 官方出品，SDK 用的 Skills、MCP servers、Custom Agents
 - [skill-scanner](#42-cisco-ai-defenseskill-scanner-26k-) — Cisco 出品，Agent Skills 安全扫描器
-- [oz-skills](#51-warpdotdevoz-skills-823-) — Warp AI / Oz 的可复用 Agent Skills 精选集：以 .agents/skills/ 下的 Mark…
+- [oz-skills](#51-warpdotdevoz-skills-822-) — Warp AI / Oz 的可复用 Agent Skills 精选集：以 .agents/skills/ 下的 Mark…
 - [Resource2Skill](#54-microsoftresource2skill-537-) — Microsoft 开源的多模态资源到可执行 Skill 蒸馏框架，把教程视频、文章、代码和参考素材转成可浏览、组合与运…
-- [skills](#56-almendiliskills-382-) — 可跨 Claude Code、Codex、Cursor、Gemini CLI 等 Harness 使用的 SKILL.m…
+- [skills](#57-almendiliskills-382-) — 可跨 Claude Code、Codex、Cursor、Gemini CLI 等 Harness 使用的 SKILL.m…
 - [codex-skills](#59-provenchercodex-skills-274-) — 面向 ChatGPT Work 与 Codex 的可复用 Skills 集合；其中 orchestrate Skill …
-- [dao-skill](#60-gnipbaodao-skill-245-) — 从模糊需求出发设计、生成、评估和持续改进 Agent Skill 的元设计器，通过归根、形态选择、Trust Gate、…
+- [dao-skill](#60-gnipbaodao-skill-246-) — 从模糊需求出发设计、生成、评估和持续改进 Agent Skill 的元设计器，通过归根、形态选择、Trust Gate、…
 - [skills](#65-youmind-openlabskills-73-) — YouMind OpenLab 提供的 Claude Code Skills 集合，把 AI 辅助学习、思考与内容创作流…
 - [plan-handoff](#67-wind8aiplan-handoff-1-) — 将口头方案、Plan Mode 结果或已有设计沉淀为仓库内可追踪、可校验、可跨会话交接的实施计划
 
@@ -1027,4 +1027,4 @@
 
 ---
 
-*由 wind8 整理 | 2026-10-18*
+*由 wind8 整理 | 2026-10-20*
