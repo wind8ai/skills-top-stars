@@ -3,7 +3,7 @@
 [中文](./README.overflow.md) | **English** · [Formal List](./README.en.md)
 
 > Star List entries beyond the formal cap of 42, ranked by total GitHub Stars  
-> Source: [wind8ai skills list](https://github.com/stars/wind8ai/lists/skills) · Updated: 2026-11-01
+> Source: [wind8ai skills list](https://github.com/stars/wind8ai/lists/skills) · Updated: 2026-11-03
 
 ---
 
@@ -13,35 +13,35 @@
 02. [google/skills (22k ⭐)](#2-googleskills-22k-)
 03. [microsoft/SkillOpt (19k ⭐)](#3-microsoftskillopt-19k-)
 04. [hardikpandya/stop-slop (19k ⭐)](#4-hardikpandyastop-slop-19k-)
-05. [wanshuiyin/Auto-claude-code-research-in-sleep (18k ⭐)](#5-wanshuiyinauto-claude-code-research-in-sleep-18k-)
+05. [wanshuiyin/Auto-claude-code-research-in-sleep (19k ⭐)](#5-wanshuiyinauto-claude-code-research-in-sleep-19k-)
 06. [muratcankoylan/Agent-Skills-for-Context-Engineering (18k ⭐)](#6-muratcankoylanagent-skills-for-context-engineering-18k-)
 07. [greensock/gsap-skills (18k ⭐)](#7-greensockgsap-skills-18k-)
 08. [composio-community/awesome-codex-skills (17k ⭐)](#8-composio-communityawesome-codex-skills-17k-)
 09. [yusufkaraaslan/Skill_Seekers (15k ⭐)](#9-yusufkaraaslanskill_seekers-15k-)
-10. [mindfold-ai/Trellis (15k ⭐)](#10-mindfold-aitrellis-15k-)
-11. [cursor/plugins (15k ⭐)](#11-cursorplugins-15k-)
+10. [cursor/plugins (15k ⭐)](#10-cursorplugins-15k-)
+11. [mindfold-ai/Trellis (15k ⭐)](#11-mindfold-aitrellis-15k-)
 12. [MiniMax-AI/skills (14k ⭐)](#12-minimax-aiskills-14k-)
 13. [handsomestWei/patent-disclosure-skill (13k ⭐)](#13-handsomestweipatent-disclosure-skill-13k-)
 14. [tw93/Kami (12k ⭐)](#14-tw93kami-12k-)
 15. [kangarooking/cangjie-skill (12k ⭐)](#15-kangarookingcangjie-skill-12k-)
 16. [slavingia/skills (11k ⭐)](#16-slavingiaskills-11k-)
-17. [Tencent/BrowserSkill (9.8k ⭐)](#17-tencentbrowserskill-98k-)
-18. [nexu-io/html-anything (9.3k ⭐)](#18-nexu-iohtml-anything-93k-)
+17. [Tencent/BrowserSkill (9.9k ⭐)](#17-tencentbrowserskill-99k-)
+18. [nexu-io/html-anything (9.4k ⭐)](#18-nexu-iohtml-anything-94k-)
 19. [revfactory/harness (9.3k ⭐)](#19-revfactoryharness-93k-)
 20. [jnMetaCode/superpowers-zh (8.4k ⭐)](#20-jnmetacodesuperpowers-zh-84k-)
-21. [trailofbits/skills (7.9k ⭐)](#21-trailofbitsskills-79k-)
+21. [trailofbits/skills (8k ⭐)](#21-trailofbitsskills-8k-)
 22. [deanpeters/Product-Manager-Skills (7.8k ⭐)](#22-deanpetersproduct-manager-skills-78k-)
 23. [lijigang/ljg-skills (7.6k ⭐)](#23-lijigangljg-skills-76k-)
-24. [yang0/handraw-style (6.8k ⭐)](#24-yang0handraw-style-68k-)
-25. [alchaincyf/darwin-skill (6.7k ⭐)](#25-alchaincyfdarwin-skill-67k-)
-26. [browser-act/skills (6.3k ⭐)](#26-browser-actskills-63k-)
-27. [antfu/skills (6k ⭐)](#27-antfuskills-6k-)
-28. [alchaincyf/huashu-art-motion (5.9k ⭐)](#28-alchaincyfhuashu-art-motion-59k-)
-29. [unclebob/ub-mode (5.8k ⭐)](#29-unclebobub-mode-58k-)
-30. [humanlayer/skills (5.5k ⭐)](#30-humanlayerskills-55k-)
-31. [geeklee/srt-whiteboard-animation (5.2k ⭐)](#31-geekleesrt-whiteboard-animation-52k-)
-32. [anthropics/claude-plugins-community (4.8k ⭐)](#32-anthropicsclaude-plugins-community-48k-)
-33. [larashero3-dotcom/lieflat-less-ai-tone (4.7k ⭐)](#33-larashero3-dotcomlieflat-less-ai-tone-47k-)
+24. [yang0/handraw-style (6.9k ⭐)](#24-yang0handraw-style-69k-)
+25. [alchaincyf/darwin-skill (6.8k ⭐)](#25-alchaincyfdarwin-skill-68k-)
+26. [unclebob/ub-mode (6.6k ⭐)](#26-unclebobub-mode-66k-)
+27. [browser-act/skills (6.3k ⭐)](#27-browser-actskills-63k-)
+28. [antfu/skills (6k ⭐)](#28-antfuskills-6k-)
+29. [alchaincyf/huashu-art-motion (6k ⭐)](#29-alchaincyfhuashu-art-motion-6k-)
+30. [humanlayer/skills (5.6k ⭐)](#30-humanlayerskills-56k-)
+31. [geeklee/srt-whiteboard-animation (5.3k ⭐)](#31-geekleesrt-whiteboard-animation-53k-)
+32. [larashero3-dotcom/lieflat-less-ai-tone (4.9k ⭐)](#32-larashero3-dotcomlieflat-less-ai-tone-49k-)
+33. [anthropics/claude-plugins-community (4.8k ⭐)](#33-anthropicsclaude-plugins-community-48k-)
 34. [google-gemini/gemini-skills (4.4k ⭐)](#34-google-geminigemini-skills-44k-)
 35. [Dimillian/Skills (4k ⭐)](#35-dimillianskills-4k-)
 36. [gotalab/cc-sdd (3.7k ⭐)](#36-gotalabcc-sdd-37k-)
@@ -51,31 +51,31 @@
 40. [pasky/chrome-cdp-skill (3.3k ⭐)](#40-paskychrome-cdp-skill-33k-)
 41. [microsoft/skills (3.2k ⭐)](#41-microsoftskills-32k-)
 42. [FreedomIntelligence/OpenClaw-Medical-Skills (3.1k ⭐)](#42-freedomintelligenceopenclaw-medical-skills-31k-)
-43. [larashero3-dotcom/writing-dna-skill (2.8k ⭐)](#43-larashero3-dotcomwriting-dna-skill-28k-)
+43. [larashero3-dotcom/writing-dna-skill (2.9k ⭐)](#43-larashero3-dotcomwriting-dna-skill-29k-)
 44. [cisco-ai-defense/skill-scanner (2.7k ⭐)](#44-cisco-ai-defenseskill-scanner-27k-)
 45. [threerocks/hand-drawn-styles (2.6k ⭐)](#45-threerockshand-drawn-styles-26k-)
 46. [imxv/Pretty-mermaid-skills (1.6k ⭐)](#46-imxvpretty-mermaid-skills-16k-)
 47. [hyhmrright/brooks-lint (1.6k ⭐)](#47-hyhmrrightbrooks-lint-16k-)
 48. [wuji-labs/nopua (1.4k ⭐)](#48-wuji-labsnopua-14k-)
-49. [open-gsd/gsd-pi (1.3k ⭐)](#49-open-gsdgsd-pi-13k-)
+49. [open-gsd/gsd-pi (1.4k ⭐)](#49-open-gsdgsd-pi-14k-)
 50. [modu-ai/moai-adk (1.2k ⭐)](#50-modu-aimoai-adk-12k-)
 51. [Kappaemme-git/codex-startup-pressure-test-skill (996 ⭐)](#51-kappaemme-gitcodex-startup-pressure-test-skill-996-)
 52. [warpdotdev/oz-skills (823 ⭐)](#52-warpdotdevoz-skills-823-)
 53. [alesha-pro/tools (695 ⭐)](#53-alesha-protools-695-)
-54. [warpdotdev/common-skills (643 ⭐)](#54-warpdotdevcommon-skills-643-)
-55. [microsoft/Resource2Skill (543 ⭐)](#55-microsoftresource2skill-543-)
-56. [antvis/chart-visualization-skills (523 ⭐)](#56-antvischart-visualization-skills-523-)
-57. [zhouwei713/luobo-ppt (430 ⭐)](#57-zhouwei713luobo-ppt-430-)
+54. [warpdotdev/common-skills (645 ⭐)](#54-warpdotdevcommon-skills-645-)
+55. [microsoft/Resource2Skill (546 ⭐)](#55-microsoftresource2skill-546-)
+56. [antvis/chart-visualization-skills (526 ⭐)](#56-antvischart-visualization-skills-526-)
+57. [zhouwei713/luobo-ppt (444 ⭐)](#57-zhouwei713luobo-ppt-444-)
 58. [almendili/skills (383 ⭐)](#58-almendiliskills-383-)
-59. [lazypay/Archscribe (374 ⭐)](#59-lazypayarchscribe-374-)
+59. [lazypay/Archscribe (371 ⭐)](#59-lazypayarchscribe-371-)
 60. [provencher/codex-skills (275 ⭐)](#60-provenchercodex-skills-275-)
 61. [gnipbao/dao-skill (247 ⭐)](#61-gnipbaodao-skill-247-)
 62. [liby/dotfiles (152 ⭐)](#62-libydotfiles-152-)
-63. [gnurio/nurijanian-skills (127 ⭐)](#63-gnurionurijanian-skills-127-)
+63. [gnurio/nurijanian-skills (128 ⭐)](#63-gnurionurijanian-skills-128-)
 64. [share-skills/pi (108 ⭐)](#64-share-skillspi-108-)
 65. [didixuxu/didi-skills (86 ⭐)](#65-didixuxudidi-skills-86-)
 66. [YouMind-OpenLab/skills (77 ⭐)](#66-youmind-openlabskills-77-)
-67. [MichaelRochonnn/mckinsey-bcg-consulting (76 ⭐)](#67-michaelrochonnnmckinsey-bcg-consulting-76-)
+67. [MichaelRochonnn/mckinsey-bcg-consulting (77 ⭐)](#67-michaelrochonnnmckinsey-bcg-consulting-77-)
 68. [wind8ai/plan-handoff (1 ⭐)](#68-wind8aiplan-handoff-1-)
 
 ---
@@ -95,7 +95,7 @@
 ## 2. google/skills (22k ⭐)
 
 **🔗** https://github.com/google/skills  
-**🍴** Forks 1.9k | **🔄** Updated 2026-10-31  
+**🍴** Forks 1.9k | **🔄** Updated 2026-11-02  
 **👤** Google — open-source teams maintaining agent skills for Google products and technologies
 
 > Google's official agent-skills repository for its products and technologies. Provides installable task guidance for Google Cloud, AI/ML, infrastructure, and developer tools in the Agent Skills format.
@@ -107,7 +107,7 @@
 ## 3. microsoft/SkillOpt (19k ⭐)
 
 **🔗** https://github.com/microsoft/SkillOpt  
-**🍴** Forks 1.8k | **🔄** Updated 2026-10-29  
+**🍴** Forks 1.8k | **🔄** Updated 2026-11-01  
 **👤** Microsoft Research — creators of the SkillOpt skill text optimizer
 
 > Text-space optimizer that trains reusable natural-language skills for frozen LLM agents via trajectory-driven edits and deployable best_skill.md artifacts.
@@ -128,10 +128,10 @@
 
 ---
 
-## 5. wanshuiyin/Auto-claude-code-research-in-sleep (18k ⭐)
+## 5. wanshuiyin/Auto-claude-code-research-in-sleep (19k ⭐)
 
 **🔗** https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep  
-**🍴** Forks 1.5k | **🔄** Updated 2026-10-31  
+**🍴** Forks 1.5k | **🔄** Updated 2026-11-02  
 **👤** Yang Ruofeng (wanshuiyin) — Shanghai Jiao Tong University; author of ARIS sleep-mode ML research skills
 
 > ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea discovery, and experiment automation. No framework, no lock-in — works with Claude Code, Codex, OpenClaw, or any LLM agent.
@@ -188,27 +188,27 @@
 
 ---
 
-## 10. mindfold-ai/Trellis (15k ⭐)
-
-**🔗** https://github.com/mindfold-ai/Trellis  
-**🍴** Forks 879 | **🔄** Updated 2026-09-29  
-**👤** Mindfold AI — open-source team behind the Trellis agent harness
-
-> Harness for structured context and multi-agent collaboration in long-running software development, with skills for requirements, brainstorming, progress checks, continuation, completion, and engineering conventions across sessions.
-
-**Matched Capabilities**: 🦞 Harness Runtime · 📋 Spec-Driven · 🔀 Multi-Agent Orchestration · 💾 Memory System
-
----
-
-## 11. cursor/plugins (15k ⭐)
+## 10. cursor/plugins (15k ⭐)
 
 **🔗** https://github.com/cursor/plugins  
-**🍴** Forks 1.5k | **🔄** Updated 2026-11-01  
+**🍴** Forks 1.6k | **🔄** Updated 2026-11-01  
 **👤** Cursor — team behind the Cursor plugin specification and official marketplace
 
 > Cursor's official plugin specification and marketplace repository, where standalone manifests package skills, rules, and MCP configuration for developer workflows, agent orchestration, and integrations such as GitHub, Playwright, and Gmail.
 
 **Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection
+
+---
+
+## 11. mindfold-ai/Trellis (15k ⭐)
+
+**🔗** https://github.com/mindfold-ai/Trellis  
+**🍴** Forks 882 | **🔄** Updated 2026-09-29  
+**👤** Mindfold AI — open-source team behind the Trellis agent harness
+
+> Harness for structured context and multi-agent collaboration in long-running software development, with skills for requirements, brainstorming, progress checks, continuation, completion, and engineering conventions across sessions.
+
+**Matched Capabilities**: 🦞 Harness Runtime · 📋 Spec-Driven · 🔀 Multi-Agent Orchestration · 💾 Memory System
 
 ---
 
@@ -227,7 +227,7 @@
 ## 13. handsomestWei/patent-disclosure-skill (13k ⭐)
 
 **🔗** https://github.com/handsomestWei/patent-disclosure-skill  
-**🍴** Forks 1.4k | **🔄** Updated 2026-10-31  
+**🍴** Forks 1.4k | **🔄** Updated 2026-11-02  
 **👤** handsomestWei — creator of the Chinese patent disclosure skill
 
 > Agent skill for Chinese patent workflows, identifying patentable ideas from designs, code, and figures, producing disclosure documents and editable Word files, and assisting with patent search, plain-language interpretation, knowledge management, and examination responses.
@@ -239,7 +239,7 @@
 ## 14. tw93/Kami (12k ⭐)
 
 **🔗** https://github.com/tw93/Kami  
-**🍴** Forks 574 | **🔄** Updated 2026-11-01  
+**🍴** Forks 575 | **🔄** Updated 2026-11-01  
 **👤** Tw93 — creator of Kami, Kaku, Waza, and other open-source tools
 
 > Professional document and landing-page design skill for Claude Code, Codex, Cursor, and other agents, with multilingual templates, layout rules, structural checks, and visual review for PDF, PNG, editable PPTX, and deployable web output.
@@ -272,10 +272,10 @@
 
 ---
 
-## 17. Tencent/BrowserSkill (9.8k ⭐)
+## 17. Tencent/BrowserSkill (9.9k ⭐)
 
 **🔗** https://github.com/Tencent/BrowserSkill  
-**🍴** Forks 702 | **🔄** Updated 2026-10-31  
+**🍴** Forks 709 | **🔄** Updated 2026-11-02  
 **👤** Tencent open-source team — maintainers of the BrowserSkill browser-automation toolkit
 
 > CLI, daemon, browser extension, and companion skill that let shell-capable AI agents reuse a real signed-in browser in a separate visible window, with explicit tab borrowing, human takeover, and return-on-completion.
@@ -284,10 +284,10 @@
 
 ---
 
-## 18. nexu-io/html-anything (9.3k ⭐)
+## 18. nexu-io/html-anything (9.4k ⭐)
 
 **🔗** https://github.com/nexu-io/html-anything  
-**🍴** Forks 893 | **🔄** Updated 2026-10-13  
+**🍴** Forks 899 | **🔄** Updated 2026-10-13  
 **👤** nexu — Open-source Claude Design alternative team, local-first, BYOK model
 
 > The agentic HTML editor — your local AI agent writes the HTML, you ship it. 75 Skills × 9 Surfaces (magazine, deck, poster, XHS/tweet, prototype, data report, Hyperframes), sandboxed iframe preview, exports as HTML/PDF/PPTX/ZIP.
@@ -311,7 +311,7 @@
 ## 20. jnMetaCode/superpowers-zh (8.4k ⭐)
 
 **🔗** https://github.com/jnMetaCode/superpowers-zh  
-**🍴** Forks 779 | **🔄** Updated 2026-10-26  
+**🍴** Forks 781 | **🔄** Updated 2026-10-26  
 **👤** jnMetaCode — maintainer of the Chinese community edition of superpowers
 
 > Chinese community edition of superpowers — full translation plus 6 China-specific skills for 18 AI coding tools including Claude Code, Cursor, and Hermes Agent.
@@ -320,10 +320,10 @@
 
 ---
 
-## 21. trailofbits/skills (7.9k ⭐)
+## 21. trailofbits/skills (8k ⭐)
 
 **🔗** https://github.com/trailofbits/skills  
-**🍴** Forks 675 | **🔄** Updated 2026-10-28  
+**🍴** Forks 678 | **🔄** Updated 2026-11-02  
 **👤** Trail of Bits — Top-tier software security research firm, specializing in vulnerability detection and security auditing
 
 > Trail of Bits' security research, vulnerability detection, and audit workflow Claude Code skills. Python implementation.
@@ -335,7 +335,7 @@
 ## 22. deanpeters/Product-Manager-Skills (7.8k ⭐)
 
 **🔗** https://github.com/deanpeters/Product-Manager-Skills  
-**🍴** Forks 942 | **🔄** Updated 2026-10-16  
+**🍴** Forks 946 | **🔄** Updated 2026-10-16  
 **👤** Dean Peters — Senior product management practitioner, PM skills framework practitioner
 
 > Product management skills framework, compatible with Claude Code / Cowork / Codex.
@@ -347,7 +347,7 @@
 ## 23. lijigang/ljg-skills (7.6k ⭐)
 
 **🔗** https://github.com/lijigang/ljg-skills  
-**🍴** Forks 855 | **🔄** Updated 2026-10-30  
+**🍴** Forks 855 | **🔄** Updated 2026-11-02  
 **👤** lijigang — Individual developer, deep practitioner of Chinese-language skill scenarios
 
 > Personal skills collection covering flashcards, learning, academic papers, and writing — optimized for Chinese-language scenarios.
@@ -356,10 +356,10 @@
 
 ---
 
-## 24. yang0/handraw-style (6.8k ⭐)
+## 24. yang0/handraw-style (6.9k ⭐)
 
 **🔗** https://github.com/yang0/handraw-style  
-**🍴** Forks 787 | **🔄** Updated 2026-10-28  
+**🍴** Forks 806 | **🔄** Updated 2026-11-02  
 **👤** Yang Ling (yang0) — creator of the handraw-style prompt library
 
 > Numbered gallery and bilingual prompting skill covering 261 hand-drawn styles; users select a style number and subject to produce consistent Chinese and English image-generation prompts.
@@ -368,10 +368,10 @@
 
 ---
 
-## 25. alchaincyf/darwin-skill (6.7k ⭐)
+## 25. alchaincyf/darwin-skill (6.8k ⭐)
 
 **🔗** https://github.com/alchaincyf/darwin-skill  
-**🍴** Forks 693 | **🔄** Updated 2026-09-18  
+**🍴** Forks 697 | **🔄** Updated 2026-09-18  
 **👤** Huashu (alchaincyf) — Can't write a line of code but built an AppStore #1 paid product with AI, authored 9 tech books, open-source skills totaling nearly 60k stars
 
 > Darwin.skill — An autonomous skill evolution system. Inspired by Karpathy's autoresearch, uses autonomous experiment loops to batch-optimize skills. 9-dimension evaluation, ratchet mechanism (only retains improvements, auto-rolls back regressions).
@@ -380,10 +380,22 @@
 
 ---
 
-## 26. browser-act/skills (6.3k ⭐)
+## 26. unclebob/ub-mode (6.6k ⭐)
+
+**🔗** https://github.com/unclebob/ub-mode  
+**🍴** Forks 371 | **🔄** Updated 2026-11-02  
+**👤** Robert C. Martin (Uncle Bob) — author of Clean Code and maintainer of ub-mode
+
+> Uncle Bob's software-engineering agent skill, drawing on parts of pstack to guide TDD, root-cause fixes, and refactoring. Uses companion tools such as Crapper, Dryer, and Mutator for deterministic checks of complexity, duplication, and test effectiveness.
+
+**Matched Capabilities**: 🧪 TDD Workflow · 🚦 Quality Gates · 🤖 Agent Integration
+
+---
+
+## 27. browser-act/skills (6.3k ⭐)
 
 **🔗** https://github.com/browser-act/skills  
-**🍴** Forks 337 | **🔄** Updated 2026-08-24  
+**🍴** Forks 340 | **🔄** Updated 2026-08-24  
 **👤** browser-act — Browser automation CLI team, focused on AI agent browser control
 
 > Browser automation CLI built for AI agents. Break through anti-bot walls, hand off to humans across platforms when stuck. Parallel multi-task execution.
@@ -392,7 +404,7 @@
 
 ---
 
-## 27. antfu/skills (6k ⭐)
+## 28. antfu/skills (6k ⭐)
 
 **🔗** https://github.com/antfu/skills  
 **🍴** Forks 341 | **🔄** Updated 2026-10-30  
@@ -404,10 +416,10 @@
 
 ---
 
-## 28. alchaincyf/huashu-art-motion (5.9k ⭐)
+## 29. alchaincyf/huashu-art-motion (6k ⭐)
 
 **🔗** https://github.com/alchaincyf/huashu-art-motion  
-**🍴** Forks 594 | **🔄** Updated 2026-10-16  
+**🍴** Forks 610 | **🔄** Updated 2026-10-16  
 **👤** Huashu (alchaincyf) — creator of huashu-art-motion, Nuwa, and Darwin skills
 
 > An animation skill for coding agents, with art-style recipes, explainer-video patterns, and reusable rendering components. Supports reference-animation analysis, narration storyboards, character compositing, and frame-accurate export, with scripts for output quality checks.
@@ -416,22 +428,10 @@
 
 ---
 
-## 29. unclebob/ub-mode (5.8k ⭐)
-
-**🔗** https://github.com/unclebob/ub-mode  
-**🍴** Forks 319 | **🔄** Updated 2026-10-25  
-**👤** Robert C. Martin (Uncle Bob) — author of Clean Code and maintainer of ub-mode
-
-> Uncle Bob's software-engineering agent skill, drawing on parts of pstack to guide TDD, root-cause fixes, and refactoring. Uses companion tools such as Crapper, Dryer, and Mutator for deterministic checks of complexity, duplication, and test effectiveness.
-
-**Matched Capabilities**: 🧪 TDD Workflow · 🚦 Quality Gates · 🤖 Agent Integration
-
----
-
-## 30. humanlayer/skills (5.5k ⭐)
+## 30. humanlayer/skills (5.6k ⭐)
 
 **🔗** https://github.com/humanlayer/skills  
-**🍴** Forks 182 | **🔄** Updated 2026-10-31  
+**🍴** Forks 183 | **🔄** Updated 2026-11-01  
 **👤** HumanLayer — team behind HumanLayer agent-development tooling
 
 > Claude Code skills from HumanLayer for CLAUDE.md instruction improvement, React prop-type narrowing, iterated coding-agent loops, control-loop design, and concise visual explanations.
@@ -440,10 +440,10 @@
 
 ---
 
-## 31. geeklee/srt-whiteboard-animation (5.2k ⭐)
+## 31. geeklee/srt-whiteboard-animation (5.3k ⭐)
 
 **🔗** https://github.com/geeklee/srt-whiteboard-animation  
-**🍴** Forks 825 | **🔄** Updated 2026-07-27  
+**🍴** Forks 835 | **🔄** Updated 2026-07-27  
 **👤** geeklee — creator of the SRT whiteboard-animation skill
 
 > Skill that turns SRT subtitles into narratively sequenced whiteboard animations, orchestrating scenes with region masks, continuous ink strokes, progressive coloring, and MP4 export.
@@ -452,22 +452,10 @@
 
 ---
 
-## 32. anthropics/claude-plugins-community (4.8k ⭐)
-
-**🔗** https://github.com/anthropics/claude-plugins-community  
-**🍴** Forks 350 | **🔄** Updated 2026-10-31  
-**👤** Anthropic — maintainers of the Claude community plugin directory
-
-> Read-only mirror of the community plugin marketplace for Claude Cowork and Claude Code, nightly synchronized from Anthropic's review pipeline after submission, automated security scanning, and distribution approval.
-
-**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection · 🏛️ Official Standard
-
----
-
-## 33. larashero3-dotcom/lieflat-less-ai-tone (4.7k ⭐)
+## 32. larashero3-dotcom/lieflat-less-ai-tone (4.9k ⭐)
 
 **🔗** https://github.com/larashero3-dotcom/lieflat-less-ai-tone  
-**🍴** Forks 268 | **🔄** Updated 2026-10-27  
+**🍴** Forks 287 | **🔄** Updated 2026-10-27  
 **👤** Lara Shero — creator of lieflat-less-ai-tone
 
 > Writing skill grounded in a 2.83-million-character corpus study, using reusable rules to detect and reduce formulaic AI phrasing.
@@ -476,10 +464,22 @@
 
 ---
 
+## 33. anthropics/claude-plugins-community (4.8k ⭐)
+
+**🔗** https://github.com/anthropics/claude-plugins-community  
+**🍴** Forks 352 | **🔄** Updated 2026-11-02  
+**👤** Anthropic — maintainers of the Claude community plugin directory
+
+> Read-only mirror of the community plugin marketplace for Claude Cowork and Claude Code, nightly synchronized from Anthropic's review pipeline after submission, automated security scanning, and distribution approval.
+
+**Matched Capabilities**: 🤖 Agent Integration · 📦 Skills Collection · 🏛️ Official Standard
+
+---
+
 ## 34. google-gemini/gemini-skills (4.4k ⭐)
 
 **🔗** https://github.com/google-gemini/gemini-skills  
-**🍴** Forks 473 | **🔄** Updated 2026-10-30  
+**🍴** Forks 475 | **🔄** Updated 2026-11-02  
 **👤** Google Gemini Official Team — Maintainers of the Gemini API and SDK
 
 > Skills for Gemini API, SDK, and model/agent interaction.
@@ -503,7 +503,7 @@
 ## 36. gotalab/cc-sdd (3.7k ⭐)
 
 **🔗** https://github.com/gotalab/cc-sdd  
-**🍴** Forks 284 | **🔄** Updated 2026-10-22  
+**🍴** Forks 285 | **🔄** Updated 2026-10-22  
 **👤** Gota — agentic AI engineer and creator of cc-sdd
 
 > Lightweight SDD harness that turns approved specs into long-running autonomous implementation, organizing requirements, design, tasks, implementation, and review as skills across Claude Code, Codex, Cursor, and other tools.
@@ -527,7 +527,7 @@
 ## 38. Nanako0129/sepia (3.6k ⭐)
 
 **🔗** https://github.com/Nanako0129/sepia  
-**🍴** Forks 219 | **🔄** Updated 2026-10-31  
+**🍴** Forks 219 | **🔄** Updated 2026-11-03  
 **👤** Nyanako (Nanako0129) — creator of the Sepia de-AI writing skills
 
 > De-AI writing skill suite for Agent Skills-compatible tools, supporting drafting, rewriting, review, and structural repair with reusable rules for fiction narratives and professional prose.
@@ -539,7 +539,7 @@
 ## 39. yanliudesign/mono-color-skill (3.6k ⭐)
 
 **🔗** https://github.com/yanliudesign/mono-color-skill  
-**🍴** Forks 111 | **🔄** Updated 2026-09-02  
+**🍴** Forks 110 | **🔄** Updated 2026-09-02  
 **👤** Yan Liu — interaction designer and creator of mono-color-skill
 
 > Visual-design skill for one-ink editorial print imagery, using warm paper, halftone photography, active negative space, and restrained typography to produce coherent posters and content graphics.
@@ -563,7 +563,7 @@
 ## 41. microsoft/skills (3.2k ⭐)
 
 **🔗** https://github.com/microsoft/skills  
-**🍴** Forks 358 | **🔄** Updated 2026-10-31  
+**🍴** Forks 360 | **🔄** Updated 2026-11-02  
 **👤** Microsoft Official Team — Builders of the SDK and developer tools ecosystem
 
 > Microsoft official Skills, MCP servers, and Custom Agents for SDKs. TypeScript implementation.
@@ -575,7 +575,7 @@
 ## 42. FreedomIntelligence/OpenClaw-Medical-Skills (3.1k ⭐)
 
 **🔗** https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills  
-**🍴** Forks 420 | **🔄** Updated 2026-07-21  
+**🍴** Forks 422 | **🔄** Updated 2026-07-21  
 **👤** FreedomIntelligence — Open-source team in the Medical AI space
 
 > The largest open-source medical AI skills library, built specifically for OpenClaw.
@@ -584,10 +584,10 @@
 
 ---
 
-## 43. larashero3-dotcom/writing-dna-skill (2.8k ⭐)
+## 43. larashero3-dotcom/writing-dna-skill (2.9k ⭐)
 
 **🔗** https://github.com/larashero3-dotcom/writing-dna-skill  
-**🍴** Forks 253 | **🔄** Updated 2026-08-24  
+**🍴** Forks 260 | **🔄** Updated 2026-11-02  
 **👤** Lara Shero — creator of Writing DNA Distiller
 
 > Agent skill that distills reusable style traits from sample text and applies them to recreate a target writing voice.
@@ -599,7 +599,7 @@
 ## 44. cisco-ai-defense/skill-scanner (2.7k ⭐)
 
 **🔗** https://github.com/cisco-ai-defense/skill-scanner  
-**🍴** Forks 340 | **🔄** Updated 2026-10-26  
+**🍴** Forks 342 | **🔄** Updated 2026-10-26  
 **👤** Cisco AI Defense — Cisco's AI security team
 
 > Agent Skills security scanner by Cisco.
@@ -611,7 +611,7 @@
 ## 45. threerocks/hand-drawn-styles (2.6k ⭐)
 
 **🔗** https://github.com/threerocks/hand-drawn-styles  
-**🍴** Forks 275 | **🔄** Updated 2026-10-23  
+**🍴** Forks 276 | **🔄** Updated 2026-10-23  
 **👤** liulei (threerocks) — maintainer of the hand-drawn-styles recipe library
 
 > A tool-agnostic skill for hand-drawn image prompts. Combines subject, text, and aspect-ratio requirements with reusable style recipes to produce prompts or reference-image invocation packages for agents such as Claude Code, Cursor, and Codex.
@@ -635,7 +635,7 @@
 ## 47. hyhmrright/brooks-lint (1.6k ⭐)
 
 **🔗** https://github.com/hyhmrright/brooks-lint  
-**🍴** Forks 72 | **🔄** Updated 2026-10-26  
+**🍴** Forks 72 | **🔄** Updated 2026-11-02  
 **👤** hyhmrright — creator of the brooks-lint AI code-review skill
 
 > AI code-review skill grounded in twelve classic software-engineering books, diagnosing production-code and test-suite decay risks with cited sources, severity levels, concrete remedies, and a health score.
@@ -656,10 +656,10 @@
 
 ---
 
-## 49. open-gsd/gsd-pi (1.3k ⭐)
+## 49. open-gsd/gsd-pi (1.4k ⭐)
 
 **🔗** https://github.com/open-gsd/gsd-pi  
-**🍴** Forks 115 | **🔄** Updated 2026-10-31  
+**🍴** Forks 116 | **🔄** Updated 2026-11-03  
 **👤** Open GSD — maintainers of the GSD-Pi long-running agent development system
 
 > Spec-driven development system built on the Pi coding agent, using meta-prompting, context engineering, and an orchestration skill to keep long-running autonomous work focused, verified, and reflected in clear Git history.
@@ -671,7 +671,7 @@
 ## 50. modu-ai/moai-adk (1.2k ⭐)
 
 **🔗** https://github.com/modu-ai/moai-adk  
-**🍴** Forks 226 | **🔄** Updated 2026-10-29  
+**🍴** Forks 226 | **🔄** Updated 2026-11-03  
 **👤** Modu AI — open-source maintainers of MoAI-ADK
 
 > Spec-driven development harness for Claude Code, organizing backend, database, frontend, testing, documentation, and CI skills through plan-run-sync workflows, TRUST 5 quality gates, and multi-model routing.
@@ -716,7 +716,7 @@
 
 ---
 
-## 54. warpdotdev/common-skills (643 ⭐)
+## 54. warpdotdev/common-skills (645 ⭐)
 
 **🔗** https://github.com/warpdotdev/common-skills  
 **🍴** Forks 39 | **🔄** Updated 2026-10-28  
@@ -728,7 +728,7 @@
 
 ---
 
-## 55. microsoft/Resource2Skill (543 ⭐)
+## 55. microsoft/Resource2Skill (546 ⭐)
 
 **🔗** https://github.com/microsoft/Resource2Skill  
 **🍴** Forks 60 | **🔄** Updated 2026-10-29  
@@ -740,7 +740,7 @@
 
 ---
 
-## 56. antvis/chart-visualization-skills (523 ⭐)
+## 56. antvis/chart-visualization-skills (526 ⭐)
 
 **🔗** https://github.com/antvis/chart-visualization-skills  
 **🍴** Forks 39 | **🔄** Updated 2026-09-22  
@@ -752,10 +752,10 @@
 
 ---
 
-## 57. zhouwei713/luobo-ppt (430 ⭐)
+## 57. zhouwei713/luobo-ppt (444 ⭐)
 
 **🔗** https://github.com/zhouwei713/luobo-ppt  
-**🍴** Forks 80 | **🔄** Updated 2026-10-22  
+**🍴** Forks 84 | **🔄** Updated 2026-10-22  
 **👤** zhouwei713 — author of Luobo AI Notes and maintainer of the Luobo PPT skill
 
 > An agent skill for creating and restyling natively editable PowerPoint presentations. Turns articles or outlines into slides with takeaway titles and speaker notes, or applies a reference image's visual style to an existing deck while preserving its text.
@@ -776,7 +776,7 @@
 
 ---
 
-## 59. lazypay/Archscribe (374 ⭐)
+## 59. lazypay/Archscribe (371 ⭐)
 
 **🔗** https://github.com/lazypay/Archscribe  
 **🍴** Forks 25 | **🔄** Updated 2026-07-15  
@@ -815,7 +815,7 @@
 ## 62. liby/dotfiles (152 ⭐)
 
 **🔗** https://github.com/liby/dotfiles  
-**🍴** Forks 13 | **🔄** Updated 2026-10-31  
+**🍴** Forks 13 | **🔄** Updated 2026-11-03  
 **👤** Bryan Lee (liby) — developer and maintainer of the dotfiles collection
 
 > Personal development-environment configuration for humans and coding agents, covering shell, editor, and agent workflow conventions for a consistent engineering context.
@@ -824,7 +824,7 @@
 
 ---
 
-## 63. gnurio/nurijanian-skills (127 ⭐)
+## 63. gnurio/nurijanian-skills (128 ⭐)
 
 **🔗** https://github.com/gnurio/nurijanian-skills  
 **🍴** Forks 9 | **🔄** Updated 2026-08-13  
@@ -872,7 +872,7 @@
 
 ---
 
-## 67. MichaelRochonnn/mckinsey-bcg-consulting (76 ⭐)
+## 67. MichaelRochonnn/mckinsey-bcg-consulting (77 ⭐)
 
 **🔗** https://github.com/MichaelRochonnn/mckinsey-bcg-consulting  
 **🍴** Forks 16 | **🔄** Updated 2026-05-14  
@@ -901,28 +901,28 @@
 
 - [skills](#2-googleskills-22k-) — Google's official agent-skills repository for its products a…
 - [SkillOpt](#3-microsoftskillopt-19k-) — Text-space optimizer that trains reusable natural-language s…
-- [Auto-claude-code-research-in-sleep](#5-wanshuiyinauto-claude-code-research-in-sleep-18k-) — ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only…
+- [Auto-claude-code-research-in-sleep](#5-wanshuiyinauto-claude-code-research-in-sleep-19k-) — ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only…
 - [Agent-Skills-for-Context-Engineering](#6-muratcankoylanagent-skills-for-context-engineering-18k-) — Comprehensive skill set for Context Engineering, multi-agent…
-- [Trellis](#10-mindfold-aitrellis-15k-) — Harness for structured context and multi-agent collaboration…
-- [plugins](#11-cursorplugins-15k-) — Cursor's official plugin specification and marketplace repos…
-- [BrowserSkill](#17-tencentbrowserskill-98k-) — CLI, daemon, browser extension, and companion skill that let…
+- [plugins](#10-cursorplugins-15k-) — Cursor's official plugin specification and marketplace repos…
+- [Trellis](#11-mindfold-aitrellis-15k-) — Harness for structured context and multi-agent collaboration…
+- [BrowserSkill](#17-tencentbrowserskill-99k-) — CLI, daemon, browser extension, and companion skill that let…
 - [harness](#19-revfactoryharness-93k-) — A meta-skill that designs domain-specific agent teams, defin…
 - [superpowers-zh](#20-jnmetacodesuperpowers-zh-84k-) — Chinese community edition of superpowers — full translation …
-- [skills](#21-trailofbitsskills-79k-) — Trail of Bits' security research, vulnerability detection, a…
-- [darwin-skill](#25-alchaincyfdarwin-skill-67k-) — Darwin
-- [skills](#26-browser-actskills-63k-) — Browser automation CLI built for AI agents
-- [ub-mode](#29-unclebobub-mode-58k-) — Uncle Bob's software-engineering agent skill, drawing on par…
-- [skills](#30-humanlayerskills-55k-) — Claude Code skills from HumanLayer for CLAUDE
+- [skills](#21-trailofbitsskills-8k-) — Trail of Bits' security research, vulnerability detection, a…
+- [darwin-skill](#25-alchaincyfdarwin-skill-68k-) — Darwin
+- [ub-mode](#26-unclebobub-mode-66k-) — Uncle Bob's software-engineering agent skill, drawing on par…
+- [skills](#27-browser-actskills-63k-) — Browser automation CLI built for AI agents
+- [skills](#30-humanlayerskills-56k-) — Claude Code skills from HumanLayer for CLAUDE
 - [cc-sdd](#36-gotalabcc-sdd-37k-) — Lightweight SDD harness that turns approved specs into long-…
 - [chrome-cdp-skill](#40-paskychrome-cdp-skill-33k-) — Give your AI agent access to your live Chrome session — work…
 - [skills](#41-microsoftskills-32k-) — Microsoft official Skills, MCP servers, and Custom Agents fo…
 - [skill-scanner](#44-cisco-ai-defenseskill-scanner-27k-) — Agent Skills security scanner by Cisco
 - [brooks-lint](#47-hyhmrrightbrooks-lint-16k-) — AI code-review skill grounded in twelve classic software-eng…
-- [gsd-pi](#49-open-gsdgsd-pi-13k-) — Spec-driven development system built on the Pi coding agent,…
+- [gsd-pi](#49-open-gsdgsd-pi-14k-) — Spec-driven development system built on the Pi coding agent,…
 - [moai-adk](#50-modu-aimoai-adk-12k-) — Spec-driven development harness for Claude Code, organizing …
 - [oz-skills](#52-warpdotdevoz-skills-823-) — Curated reusable Agent Skills for Warp AI agents and Oz — ma…
 - [tools](#53-alesha-protools-695-) — Collection of standalone tools, ComfyUI workflows, and agent…
-- [common-skills](#54-warpdotdevcommon-skills-643-) — Warp's cross-repository agent-skills collection, packaging r…
+- [common-skills](#54-warpdotdevcommon-skills-645-) — Warp's cross-repository agent-skills collection, packaging r…
 - [skills](#58-almendiliskills-383-) — Portable SKILL
 - [codex-skills](#60-provenchercodex-skills-275-) — Reusable skills for ChatGPT Work and Codex; its orchestrate …
 - [dao-skill](#61-gnipbaodao-skill-247-) — Meta-designer for turning ambiguous requirements into runnab…
@@ -932,21 +932,21 @@
 
 - [agency-agents-zh](#1-jnmetacodeagency-agents-zh-22k-) — Chinese community edition of agency-agents with ready-to-use…
 - [SkillOpt](#3-microsoftskillopt-19k-) — Text-space optimizer that trains reusable natural-language s…
-- [Auto-claude-code-research-in-sleep](#5-wanshuiyinauto-claude-code-research-in-sleep-18k-) — ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only…
+- [Auto-claude-code-research-in-sleep](#5-wanshuiyinauto-claude-code-research-in-sleep-19k-) — ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only…
 - [Agent-Skills-for-Context-Engineering](#6-muratcankoylanagent-skills-for-context-engineering-18k-) — Comprehensive skill set for Context Engineering, multi-agent…
-- [Trellis](#10-mindfold-aitrellis-15k-) — Harness for structured context and multi-agent collaboration…
-- [BrowserSkill](#17-tencentbrowserskill-98k-) — CLI, daemon, browser extension, and companion skill that let…
+- [Trellis](#11-mindfold-aitrellis-15k-) — Harness for structured context and multi-agent collaboration…
+- [BrowserSkill](#17-tencentbrowserskill-99k-) — CLI, daemon, browser extension, and companion skill that let…
 - [harness](#19-revfactoryharness-93k-) — A meta-skill that designs domain-specific agent teams, defin…
 - [superpowers-zh](#20-jnmetacodesuperpowers-zh-84k-) — Chinese community edition of superpowers — full translation …
-- [darwin-skill](#25-alchaincyfdarwin-skill-67k-) — Darwin
-- [ub-mode](#29-unclebobub-mode-58k-) — Uncle Bob's software-engineering agent skill, drawing on par…
-- [skills](#30-humanlayerskills-55k-) — Claude Code skills from HumanLayer for CLAUDE
+- [darwin-skill](#25-alchaincyfdarwin-skill-68k-) — Darwin
+- [ub-mode](#26-unclebobub-mode-66k-) — Uncle Bob's software-engineering agent skill, drawing on par…
+- [skills](#30-humanlayerskills-56k-) — Claude Code skills from HumanLayer for CLAUDE
 - [cc-sdd](#36-gotalabcc-sdd-37k-) — Lightweight SDD harness that turns approved specs into long-…
 - [brooks-lint](#47-hyhmrrightbrooks-lint-16k-) — AI code-review skill grounded in twelve classic software-eng…
 - [nopua](#48-wuji-labsnopua-14k-) — A skill that unlocks your AI's potential through love
-- [gsd-pi](#49-open-gsdgsd-pi-13k-) — Spec-driven development system built on the Pi coding agent,…
+- [gsd-pi](#49-open-gsdgsd-pi-14k-) — Spec-driven development system built on the Pi coding agent,…
 - [moai-adk](#50-modu-aimoai-adk-12k-) — Spec-driven development harness for Claude Code, organizing …
-- [common-skills](#54-warpdotdevcommon-skills-643-) — Warp's cross-repository agent-skills collection, packaging r…
+- [common-skills](#54-warpdotdevcommon-skills-645-) — Warp's cross-repository agent-skills collection, packaging r…
 - [codex-skills](#60-provenchercodex-skills-275-) — Reusable skills for ChatGPT Work and Codex; its orchestrate …
 - [dao-skill](#61-gnipbaodao-skill-247-) — Meta-designer for turning ambiguous requirements into runnab…
 
@@ -954,33 +954,33 @@
 
 - [gsap-skills](#7-greensockgsap-skills-18k-) — Official GSAP animation-development skills covering the core…
 - [Kami](#14-tw93kami-12k-) — Professional document and landing-page design skill for Clau…
-- [html-anything](#18-nexu-iohtml-anything-93k-) — The agentic HTML editor — your local AI agent writes the HTM…
-- [handraw-style](#24-yang0handraw-style-68k-) — Numbered gallery and bilingual prompting skill covering 261 …
-- [huashu-art-motion](#28-alchaincyfhuashu-art-motion-59k-) — An animation skill for coding agents, with art-style recipes…
-- [srt-whiteboard-animation](#31-geekleesrt-whiteboard-animation-52k-) — Skill that turns SRT subtitles into narratively sequenced wh…
+- [html-anything](#18-nexu-iohtml-anything-94k-) — The agentic HTML editor — your local AI agent writes the HTM…
+- [handraw-style](#24-yang0handraw-style-69k-) — Numbered gallery and bilingual prompting skill covering 261 …
+- [huashu-art-motion](#29-alchaincyfhuashu-art-motion-6k-) — An animation skill for coding agents, with art-style recipes…
+- [srt-whiteboard-animation](#31-geekleesrt-whiteboard-animation-53k-) — Skill that turns SRT subtitles into narratively sequenced wh…
 - [axton-obsidian-visual-skills](#37-axtonliuaxton-obsidian-visual-skills-37k-) — Obsidian visual skills for generating Canvas/Excalidraw/Merm…
 - [mono-color-skill](#39-yanliudesignmono-color-skill-36k-) — Visual-design skill for one-ink editorial print imagery, usi…
 - [hand-drawn-styles](#45-threerockshand-drawn-styles-26k-) — A tool-agnostic skill for hand-drawn image prompts
 - [Pretty-mermaid-skills](#46-imxvpretty-mermaid-skills-16k-) — Agent Skill for Mermaid chart rendering with SVG and ASCII o…
 - [tools](#53-alesha-protools-695-) — Collection of standalone tools, ComfyUI workflows, and agent…
-- [chart-visualization-skills](#56-antvischart-visualization-skills-523-) — AntV visualization skills for AI coding agents, turning data…
-- [luobo-ppt](#57-zhouwei713luobo-ppt-430-) — An agent skill for creating and restyling natively editable …
+- [chart-visualization-skills](#56-antvischart-visualization-skills-526-) — AntV visualization skills for AI coding agents, turning data…
+- [luobo-ppt](#57-zhouwei713luobo-ppt-444-) — An agent skill for creating and restyling natively editable …
 - [skills](#58-almendiliskills-383-) — Portable SKILL
-- [Archscribe](#59-lazypayarchscribe-374-) — Hand-drawn technical-diagram skill and local renderer for Co…
+- [Archscribe](#59-lazypayarchscribe-371-) — Hand-drawn technical-diagram skill and local renderer for Co…
 
 ### 📚 Research, Writing & Knowledge Management
 
 - [stop-slop](#4-hardikpandyastop-slop-19k-) — A skill file for removing AI tells from prose
-- [Auto-claude-code-research-in-sleep](#5-wanshuiyinauto-claude-code-research-in-sleep-18k-) — ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only…
+- [Auto-claude-code-research-in-sleep](#5-wanshuiyinauto-claude-code-research-in-sleep-19k-) — ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only…
 - [patent-disclosure-skill](#13-handsomestweipatent-disclosure-skill-13k-) — Agent skill for Chinese patent workflows, identifying patent…
 - [cangjie-skill](#15-kangarookingcangjie-skill-12k-) — Toolchain for distilling books, long videos, podcasts, and o…
 - [skills](#16-slavingiaskills-11k-) — Claude Code skills based on Sahil Lavingia's "The Minimalist…
 - [ljg-skills](#23-lijigangljg-skills-76k-) — Personal skills collection covering flashcards, learning, ac…
-- [lieflat-less-ai-tone](#33-larashero3-dotcomlieflat-less-ai-tone-47k-) — Writing skill grounded in a 2
+- [lieflat-less-ai-tone](#32-larashero3-dotcomlieflat-less-ai-tone-49k-) — Writing skill grounded in a 2
 - [sepia](#38-nanako0129sepia-36k-) — De-AI writing skill suite for Agent Skills-compatible tools,…
 - [OpenClaw-Medical-Skills](#42-freedomintelligenceopenclaw-medical-skills-31k-) — The largest open-source medical AI skills library, built spe…
-- [writing-dna-skill](#43-larashero3-dotcomwriting-dna-skill-28k-) — Agent skill that distills reusable style traits from sample …
-- [Resource2Skill](#55-microsoftresource2skill-543-) — Microsoft's open-source framework for distilling multimodal …
+- [writing-dna-skill](#43-larashero3-dotcomwriting-dna-skill-29k-) — Agent skill that distills reusable style traits from sample …
+- [Resource2Skill](#55-microsoftresource2skill-546-) — Microsoft's open-source framework for distilling multimodal …
 - [pi](#64-share-skillspi-108-) — Agent skills combining strategic ideas from The Art of War w…
 - [didi-skills](#65-didixuxudidi-skills-86-) — Claude Code skills for structured business and research work…
 - [skills](#66-youmind-openlabskills-77-) — Claude Code skills from YouMind OpenLab, packaging AI-assist…
@@ -992,27 +992,27 @@
 - [skills](#16-slavingiaskills-11k-) — Claude Code skills based on Sahil Lavingia's "The Minimalist…
 - [Product-Manager-Skills](#22-deanpetersproduct-manager-skills-78k-) — Product management skills framework, compatible with Claude …
 - [codex-startup-pressure-test-skill](#51-kappaemme-gitcodex-startup-pressure-test-skill-996-) — Codex skill that brutally pressure-tests startup ideas — ret…
-- [nurijanian-skills](#63-gnurionurijanian-skills-127-) — Skills collection for product managers across Claude Code, C…
+- [nurijanian-skills](#63-gnurionurijanian-skills-128-) — Skills collection for product managers across Claude Code, C…
 - [pi](#64-share-skillspi-108-) — Agent skills combining strategic ideas from The Art of War w…
 - [didi-skills](#65-didixuxudidi-skills-86-) — Claude Code skills for structured business and research work…
-- [mckinsey-bcg-consulting](#67-michaelrochonnnmckinsey-bcg-consulting-76-) — Codex skill library based on McKinsey- and BCG-style methods…
+- [mckinsey-bcg-consulting](#67-michaelrochonnnmckinsey-bcg-consulting-77-) — Codex skill library based on McKinsey- and BCG-style methods…
 
 ### 🌐 Standards, Ecosystem & Skills Collections
 
 - [skills](#2-googleskills-22k-) — Google's official agent-skills repository for its products a…
 - [awesome-codex-skills](#8-composio-communityawesome-codex-skills-17k-) — Practical curated list of Codex Skills covering automation w…
 - [Skill_Seekers](#9-yusufkaraaslanskill_seekers-15k-) — A tool for converting documentation sites, GitHub repositori…
-- [plugins](#11-cursorplugins-15k-) — Cursor's official plugin specification and marketplace repos…
+- [plugins](#10-cursorplugins-15k-) — Cursor's official plugin specification and marketplace repos…
 - [skills](#12-minimax-aiskills-14k-) — MiniMax AI Skills collection
 - [ljg-skills](#23-lijigangljg-skills-76k-) — Personal skills collection covering flashcards, learning, ac…
-- [skills](#27-antfuskills-6k-) — Anthony Fu's curated collection of agent skills for frontend…
-- [claude-plugins-community](#32-anthropicsclaude-plugins-community-48k-) — Read-only mirror of the community plugin marketplace for Cla…
+- [skills](#28-antfuskills-6k-) — Anthony Fu's curated collection of agent skills for frontend…
+- [claude-plugins-community](#33-anthropicsclaude-plugins-community-48k-) — Read-only mirror of the community plugin marketplace for Cla…
 - [gemini-skills](#34-google-geminigemini-skills-44k-) — Skills for Gemini API, SDK, and model/agent interaction
 - [Skills](#35-dimillianskills-4k-) — Dimillian's personal Codex Skills collection
 - [skills](#41-microsoftskills-32k-) — Microsoft official Skills, MCP servers, and Custom Agents fo…
 - [skill-scanner](#44-cisco-ai-defenseskill-scanner-27k-) — Agent Skills security scanner by Cisco
 - [oz-skills](#52-warpdotdevoz-skills-823-) — Curated reusable Agent Skills for Warp AI agents and Oz — ma…
-- [Resource2Skill](#55-microsoftresource2skill-543-) — Microsoft's open-source framework for distilling multimodal …
+- [Resource2Skill](#55-microsoftresource2skill-546-) — Microsoft's open-source framework for distilling multimodal …
 - [skills](#58-almendiliskills-383-) — Portable SKILL
 - [codex-skills](#60-provenchercodex-skills-275-) — Reusable skills for ChatGPT Work and Codex; its orchestrate …
 - [dao-skill](#61-gnipbaodao-skill-247-) — Meta-designer for turning ambiguous requirements into runnab…
@@ -1043,4 +1043,4 @@ Linked projects remain under their respective upstream licenses.
 
 ---
 
-*Curated by wind8 | 2026-11-01*
+*Curated by wind8 | 2026-11-03*
