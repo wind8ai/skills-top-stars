@@ -3,7 +3,7 @@
 **中文** | [English](./README.en.md) · [备选榜](./README.overflow.md)
 
 > GitHub 高星 Skills 项目精选  
-> 来源：[wind8ai 的 skills 列表](https://github.com/stars/wind8ai/lists/skills) · 更新：2026-11-08
+> 来源：[wind8ai 的 skills 列表](https://github.com/stars/wind8ai/lists/skills) · 更新：2026-11-13
 
 ---
 
@@ -11,69 +11,69 @@
 
 <p><a href="https://github.com/mattpocock"><img src="./assets/featured/matt-pocock.png" width="48" height="48" align="left" hspace="5" alt="Matt Pocock"></a>
 <strong>Matt Pocock</strong> — Total TypeScript 创始人、全职 TypeScript 教育者，曾参与 XState 核心团队并任 Vercel 开发者布道师。<br>
-<a href="https://github.com/mattpocock/skills"><strong>mattpocock/skills</strong></a> · <strong>318k ⭐</strong><br clear="left"></p>
+<a href="https://github.com/mattpocock/skills"><strong>mattpocock/skills</strong></a> · <strong>323k ⭐</strong><br clear="left"></p>
 <p><a href="https://github.com/poteto"><img src="./assets/featured/lauren-tan.png" width="48" height="48" align="left" hspace="5" alt="Lauren Tan"></a>
 <strong>Lauren Tan</strong> — SpaceXAI Grok Bot 工程师、React Compiler 核心成员，持续维护 Cursor 官方工程技能集 pstack。<br>
 <a href="https://github.com/cursor/plugins/tree/main/pstack"><strong>pstack →</strong></a> · <a href="https://github.com/cursor/plugins">cursor/plugins</a> · <strong>16k ⭐</strong><br clear="left"></p>
 <p><a href="https://github.com/affaan-m"><img src="./assets/featured/affaan-mustafa.png" width="48" height="48" align="left" hspace="5" alt="Affaan Mustafa"></a>
 <strong>Affaan Mustafa</strong> — ECC 创建者，专注 Agent 工程、工作流优化与安全。<br>
-<a href="https://github.com/affaan-m/ECC"><strong>affaan-m/ECC</strong></a> · <strong>299k ⭐</strong><br clear="left"></p>
+<a href="https://github.com/affaan-m/ECC"><strong>affaan-m/ECC</strong></a> · <strong>302k ⭐</strong><br clear="left"></p>
 
 ---
 
 ## 目录
 
-01. [mattpocock/skills (318k ⭐)](#1-mattpocockskills-318k-)
-02. [obra/superpowers (314k ⭐)](#2-obrasuperpowers-314k-)
-03. [affaan-m/ECC (299k ⭐)](#3-affaan-mecc-299k-)
-04. [multica-ai/andrej-karpathy-skills (231k ⭐)](#4-multica-aiandrej-karpathy-skills-231k-)
-05. [anthropics/skills (189k ⭐)](#5-anthropicsskills-189k-)
-06. [DietrichGebert/ponytail (186k ⭐)](#6-dietrichgebertponytail-186k-)
-07. [nextlevelbuilder/ui-ux-pro-max-skill (147k ⭐)](#7-nextlevelbuilderui-ux-pro-max-skill-147k-)
-08. [JuliusBrussee/caveman (118k ⭐)](#8-juliusbrusseecaveman-118k-)
-09. [addyosmani/agent-skills (114k ⭐)](#9-addyosmaniagent-skills-114k-)
-10. [Leonxlnx/taste-skill (112k ⭐)](#10-leonxlnxtaste-skill-112k-)
-11. [pbakaus/impeccable (106k ⭐)](#11-pbakausimpeccable-106k-)
-12. [tt-a1i/archify (94k ⭐)](#12-tt-a1iarchify-94k-)
-13. [career-ops-hq/career-ops (81k ⭐)](#13-career-ops-hqcareer-ops-81k-)
+01. [mattpocock/skills (323k ⭐)](#1-mattpocockskills-323k-)
+02. [obra/superpowers (317k ⭐)](#2-obrasuperpowers-317k-)
+03. [affaan-m/ECC (302k ⭐)](#3-affaan-mecc-302k-)
+04. [multica-ai/andrej-karpathy-skills (233k ⭐)](#4-multica-aiandrej-karpathy-skills-233k-)
+05. [anthropics/skills (194k ⭐)](#5-anthropicsskills-194k-)
+06. [DietrichGebert/ponytail (190k ⭐)](#6-dietrichgebertponytail-190k-)
+07. [nextlevelbuilder/ui-ux-pro-max-skill (149k ⭐)](#7-nextlevelbuilderui-ux-pro-max-skill-149k-)
+08. [JuliusBrussee/caveman (120k ⭐)](#8-juliusbrusseecaveman-120k-)
+09. [addyosmani/agent-skills (117k ⭐)](#9-addyosmaniagent-skills-117k-)
+10. [Leonxlnx/taste-skill (115k ⭐)](#10-leonxlnxtaste-skill-115k-)
+11. [pbakaus/impeccable (109k ⭐)](#11-pbakausimpeccable-109k-)
+12. [tt-a1i/archify (96k ⭐)](#12-tt-a1iarchify-96k-)
+13. [career-ops-hq/career-ops (82k ⭐)](#13-career-ops-hqcareer-ops-82k-)
 14. [ComposioHQ/awesome-claude-skills (79k ⭐)](#14-composiohqawesome-claude-skills-79k-)
-15. [mvanhorn/last30days-skill (67k ⭐)](#15-mvanhornlast30days-skill-67k-)
-16. [blader/humanizer (66k ⭐)](#16-bladerhumanizer-66k-)
-17. [cloudflare/security-audit-skill (66k ⭐)](#17-cloudflaresecurity-audit-skill-66k-)
-18. [cathrynlavery/diagram-design (66k ⭐)](#18-cathrynlaverydiagram-design-66k-)
-19. [coreyhaines31/marketingskills (59k ⭐)](#19-coreyhaines31marketingskills-59k-)
-20. [hesreallyhim/awesome-claude-code (57k ⭐)](#20-hesreallyhimawesome-claude-code-57k-)
-21. [K-Dense-AI/scientific-agent-skills (56k ⭐)](#21-k-dense-aiscientific-agent-skills-56k-)
-22. [Imbad0202/academic-research-skills (56k ⭐)](#22-imbad0202academic-research-skills-56k-)
-23. [emilkowalski/skills (54k ⭐)](#23-emilkowalskiskills-54k-)
-24. [VoltAgent/awesome-openclaw-skills (54k ⭐)](#24-voltagentawesome-openclaw-skills-54k-)
-25. [kepano/obsidian-skills (51k ⭐)](#25-kepanoobsidian-skills-51k-)
-26. [Nutlope/hallmark (50k ⭐)](#26-nutlopehallmark-50k-)
-27. [anthropics/claude-plugins-official (46k ⭐)](#27-anthropicsclaude-plugins-official-46k-)
-28. [zhaoxuya520/reverse-skill (44k ⭐)](#28-zhaoxuya520reverse-skill-44k-)
+15. [cloudflare/security-audit-skill (71k ⭐)](#15-cloudflaresecurity-audit-skill-71k-)
+16. [blader/humanizer (69k ⭐)](#16-bladerhumanizer-69k-)
+17. [mvanhorn/last30days-skill (67k ⭐)](#17-mvanhornlast30days-skill-67k-)
+18. [cathrynlavery/diagram-design (67k ⭐)](#18-cathrynlaverydiagram-design-67k-)
+19. [coreyhaines31/marketingskills (60k ⭐)](#19-coreyhaines31marketingskills-60k-)
+20. [hesreallyhim/awesome-claude-code (58k ⭐)](#20-hesreallyhimawesome-claude-code-58k-)
+21. [K-Dense-AI/scientific-agent-skills (57k ⭐)](#21-k-dense-aiscientific-agent-skills-57k-)
+22. [Imbad0202/academic-research-skills (57k ⭐)](#22-imbad0202academic-research-skills-57k-)
+23. [emilkowalski/skills (56k ⭐)](#23-emilkowalskiskills-56k-)
+24. [Nutlope/hallmark (54k ⭐)](#24-nutlopehallmark-54k-)
+25. [VoltAgent/awesome-openclaw-skills (54k ⭐)](#25-voltagentawesome-openclaw-skills-54k-)
+26. [kepano/obsidian-skills (52k ⭐)](#26-kepanoobsidian-skills-52k-)
+27. [anthropics/claude-plugins-official (47k ⭐)](#27-anthropicsclaude-plugins-official-47k-)
+28. [zhaoxuya520/reverse-skill (45k ⭐)](#28-zhaoxuya520reverse-skill-45k-)
 29. [vercel-labs/skills (39k ⭐)](#29-vercel-labsskills-39k-)
-30. [virgiliojr94/book-to-skill (37k ⭐)](#30-virgiliojr94book-to-skill-37k-)
+30. [virgiliojr94/book-to-skill (38k ⭐)](#30-virgiliojr94book-to-skill-38k-)
 31. [mukul975/Anthropic-Cybersecurity-Skills (36k ⭐)](#31-mukul975anthropic-cybersecurity-skills-36k-)
 32. [freestylefly/awesome-gpt-image-2 (36k ⭐)](#32-freestyleflyawesome-gpt-image-2-36k-)
-33. [anthropics/knowledge-work-plugins (35k ⭐)](#33-anthropicsknowledge-work-plugins-35k-)
+33. [anthropics/knowledge-work-plugins (36k ⭐)](#33-anthropicsknowledge-work-plugins-36k-)
 34. [vercel-labs/agent-skills (34k ⭐)](#34-vercel-labsagent-skills-34k-)
-35. [alirezarezvani/claude-skills (29k ⭐)](#35-alirezarezvaniclaude-skills-29k-)
+35. [alirezarezvani/claude-skills (30k ⭐)](#35-alirezarezvaniclaude-skills-30k-)
 36. [openai/skills (29k ⭐)](#36-openaiskills-29k-)
 37. [phuryn/pm-skills (28k ⭐)](#37-phurynpm-skills-28k-)
-38. [JimLiu/baoyu-skills (27k ⭐)](#38-jimliubaoyu-skills-27k-)
+38. [JimLiu/baoyu-skills (28k ⭐)](#38-jimliubaoyu-skills-28k-)
 39. [agentskills/agentskills (27k ⭐)](#39-agentskillsagentskills-27k-)
-40. [EveryInc/compound-engineering-plugin (26k ⭐)](#40-everyinccompound-engineering-plugin-26k-)
-41. [wheresryan22/anatomy (26k ⭐)](#41-wheresryan22anatomy-26k-)
-42. [google/skills (23k ⭐)](#42-googleskills-23k-)
+40. [wheresryan22/anatomy (27k ⭐)](#40-wheresryan22anatomy-27k-)
+41. [EveryInc/compound-engineering-plugin (26k ⭐)](#41-everyinccompound-engineering-plugin-26k-)
+42. [google/skills (24k ⭐)](#42-googleskills-24k-)
 
-→ [备选榜（68 条）](./README.overflow.md)
+→ [备选榜（69 条）](./README.overflow.md)
 
 ---
 
-## 1. mattpocock/skills (318k ⭐)
+## 1. mattpocock/skills (323k ⭐)
 
 **🔗** https://github.com/mattpocock/skills  
-**🍴** Fork 27k | **🔄** Updated 2026-11-05  
+**🍴** Fork 27k | **🔄** Updated 2026-11-12  
 **👤** Matt Pocock — TypeScript 教育领域知名 KOL，Total TypeScript 创始人，前 Vercel / Stately 工程师
 
 > Matt Pocock 的个人 skills 目录，直接从他的 .claude 目录整理而来。面向真正的工程师，Shell 实现。
@@ -82,7 +82,7 @@
 
 ---
 
-## 2. obra/superpowers (314k ⭐)
+## 2. obra/superpowers (317k ⭐)
 
 **🔗** https://github.com/obra/superpowers  
 **🍴** Fork 28k | **🔄** Updated 2026-11-03  
@@ -94,10 +94,10 @@
 
 ---
 
-## 3. affaan-m/ECC (299k ⭐)
+## 3. affaan-m/ECC (302k ⭐)
 
 **🔗** https://github.com/affaan-m/ECC  
-**🍴** Fork 44k | **🔄** Updated 2026-11-06  
+**🍴** Fork 45k | **🔄** Updated 2026-11-09  
 **👤** Affaan Mustafa — ECC 开源 Agent 工程优化系统作者
 
 > 面向 Claude Code、Codex、OpenCode 与 Cursor 等 coding agent 的工程优化系统，提供覆盖 API 设计、编码规范、测试、安全、研究和内容工作的 Skills，并结合 instincts、memory 与验证机制持续改进执行质量。
@@ -106,7 +106,7 @@
 
 ---
 
-## 4. multica-ai/andrej-karpathy-skills (231k ⭐)
+## 4. multica-ai/andrej-karpathy-skills (233k ⭐)
 
 **🔗** https://github.com/multica-ai/andrej-karpathy-skills  
 **🍴** Fork 23k | **🔄** Updated 2026-04-20  
@@ -118,10 +118,10 @@
 
 ---
 
-## 5. anthropics/skills (189k ⭐)
+## 5. anthropics/skills (194k ⭐)
 
 **🔗** https://github.com/anthropics/skills  
-**🍴** Fork 22k | **🔄** Updated 2026-11-06  
+**🍴** Fork 23k | **🔄** Updated 2026-11-06  
 **👤** Anthropic 官方团队 — Claude 母公司，Agent Skills 标准制定者
 
 > Anthropic 官方 Agent Skills 实现。Skills 是包含指令、脚本和资源的文件夹，Claude 可动态加载以提升特定任务表现。涵盖品牌文档创建、数据分析流程、自动化任务等多种场景。参看 [agentskills.io](http://agentskills.io) 了解技能标准。
@@ -130,10 +130,10 @@
 
 ---
 
-## 6. DietrichGebert/ponytail (186k ⭐)
+## 6. DietrichGebert/ponytail (190k ⭐)
 
 **🔗** https://github.com/DietrichGebert/ponytail  
-**🍴** Fork 10k | **🔄** Updated 2026-10-29  
+**🍴** Fork 11k | **🔄** Updated 2026-10-29  
 **👤** DietrichGebert — Ponytail「懒 senior dev」Skill 作者，兼容 16+ AI agent
 
 > 让 AI agent 像「最懒的 senior dev」一样思考：最好的代码，是你从未写下的那部分。
@@ -142,10 +142,10 @@
 
 ---
 
-## 7. nextlevelbuilder/ui-ux-pro-max-skill (147k ⭐)
+## 7. nextlevelbuilder/ui-ux-pro-max-skill (149k ⭐)
 
 **🔗** https://github.com/nextlevelbuilder/ui-ux-pro-max-skill  
-**🍴** Fork 16k | **🔄** Updated 2026-11-07  
+**🍴** Fork 16k | **🔄** Updated 2026-11-10  
 **👤** Next Level Builder — UI UX Pro Max Skill 作者，内置 161 条设计推理规则与 67 种 UI 风格
 
 > 面向多平台专业 UI/UX 构建的设计智能 Skill，为 AI coding agent 提供设计决策与界面产出能力。
@@ -154,10 +154,10 @@
 
 ---
 
-## 8. JuliusBrussee/caveman (118k ⭐)
+## 8. JuliusBrussee/caveman (120k ⭐)
 
 **🔗** https://github.com/JuliusBrussee/caveman  
-**🍴** Fork 6.9k | **🔄** Updated 2026-11-07  
+**🍴** Fork 7k | **🔄** Updated 2026-11-13  
 **👤** Julius Brussee — caveman Token 优化 Skill 作者
 
 > Claude Code Token 优化 Skill：用「原始人」式极简表达削减约 65% token 消耗，少字了事。
@@ -166,7 +166,7 @@
 
 ---
 
-## 9. addyosmani/agent-skills (114k ⭐)
+## 9. addyosmani/agent-skills (117k ⭐)
 
 **🔗** https://github.com/addyosmani/agent-skills  
 **🍴** Fork 12k | **🔄** Updated 2026-11-01  
@@ -178,10 +178,10 @@
 
 ---
 
-## 10. Leonxlnx/taste-skill (112k ⭐)
+## 10. Leonxlnx/taste-skill (115k ⭐)
 
 **🔗** https://github.com/Leonxlnx/taste-skill  
-**🍴** Fork 7.5k | **🔄** Updated 2026-11-07  
+**🍴** Fork 7.7k | **🔄** Updated 2026-11-08  
 **👤** Leon Lin — Taste Skill 创始人，专注 AI coding agents 的前端设计品味
 
 > 开源设计品味技能，为 Cursor、Codex、Claude Code、Devin 等 AI coding agent 提供更好的布局、排版、间距、层次、动效和整体设计方向，减少通用无味的 AI 输出。
@@ -190,10 +190,10 @@
 
 ---
 
-## 11. pbakaus/impeccable (106k ⭐)
+## 11. pbakaus/impeccable (109k ⭐)
 
 **🔗** https://github.com/pbakaus/impeccable  
-**🍴** Fork 6.3k | **🔄** Updated 2026-11-08  
+**🍴** Fork 6.5k | **🔄** Updated 2026-11-13  
 **👤** Paul Bakaus — Creative Technologist、jQuery UI 与 Impeccable 作者
 
 > 面向 AI coding agent 的前端设计指导与质量工具。通过设计命令、浏览器实时迭代和确定性检测规则，支持界面规划、审查、动效、排版与交付前打磨。
@@ -202,10 +202,10 @@
 
 ---
 
-## 12. tt-a1i/archify (94k ⭐)
+## 12. tt-a1i/archify (96k ⭐)
 
 **🔗** https://github.com/tt-a1i/archify  
-**🍴** Fork 6.4k | **🔄** Updated 2026-11-08  
+**🍴** Fork 6.6k | **🔄** Updated 2026-11-13  
 **👤** tt-a1i — Archify 可验证架构图 Skill 作者
 
 > 将代码库或系统描述转为可验证交互式系统地图的 Agent Skill，以类型化 JSON IR 和确定性检查生成自包含 HTML，并导出 PNG、SVG、WebM 与分享卡片。
@@ -214,10 +214,10 @@
 
 ---
 
-## 13. career-ops-hq/career-ops (81k ⭐)
+## 13. career-ops-hq/career-ops (82k ⭐)
 
 **🔗** https://github.com/career-ops-hq/career-ops  
-**🍴** Fork 15k | **🔄** Updated 2026-11-07  
+**🍴** Fork 15k | **🔄** Updated 2026-11-13  
 **👤** Santiago Fernández de Valderrama — Applied AI Operator，16+ 年生产经验，曾将手机维修业务以 90% AI 自助服务规模化出售
 
 > AI 驱动的求职系统，基于 Claude Code 构建。14 种技能模式，Go 仪表板，PDF 生成，批量处理。631 次评估，HITL 设计。
@@ -229,7 +229,7 @@
 ## 14. ComposioHQ/awesome-claude-skills (79k ⭐)
 
 **🔗** https://github.com/ComposioHQ/awesome-claude-skills  
-**🍴** Fork 9.6k | **🔄** Updated 2026-09-18  
+**🍴** Fork 9.7k | **🔄** Updated 2026-09-18  
 **👤** ComposioHQ — AI 工具集成平台公司，专注 agent 工具链生态建设
 
 > Claude Skills 精选列表，涵盖工作流定制、资源工具、实践案例。为 Claude AI 工作流定制提供精选资源和支持。
@@ -238,34 +238,10 @@
 
 ---
 
-## 15. mvanhorn/last30days-skill (67k ⭐)
-
-**🔗** https://github.com/mvanhorn/last30days-skill  
-**🍴** Fork 5.9k | **🔄** Updated 2026-11-05  
-**👤** Matt Van Horn (mvanhorn) — 连续创业者，Lyft 前身公司联合创始人，June（智能烤箱，被 Weber 收购）联合创始人
-
-> AI agent 研究技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket 及全网检索任意主题，并综合生成有据可查的摘要报告。
-
-**匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
-
----
-
-## 16. blader/humanizer (66k ⭐)
-
-**🔗** https://github.com/blader/humanizer  
-**🍴** Fork 5.2k | **🔄** Updated 2026-10-28  
-**👤** blader — Humanizer 文本编辑 Skill 维护者
-
-> 用于修改 AI 写作常见句式与表达习惯的文本编辑 Skill。以 Wikipedia 的 AI 写作特征指南为依据，在保留原意的前提下调整措辞与节奏，可用于 Claude Code、Codex 等 Agent。
-
-**匹配能力**：📝 文档生成 · 🤖 Agent 集成 · ⚡ 本地优先
-
----
-
-## 17. cloudflare/security-audit-skill (66k ⭐)
+## 15. cloudflare/security-audit-skill (71k ⭐)
 
 **🔗** https://github.com/cloudflare/security-audit-skill  
-**🍴** Fork 4.3k | **🔄** Updated 2026-09-14  
+**🍴** Fork 4.8k | **🔄** Updated 2026-09-14  
 **👤** Cloudflare — security-audit-skill 与漏洞发现工作流维护团队
 
 > Cloudflare 的代码安全审计 Skill，以隔离 Agent 协作执行侦察、覆盖驱动排查、候选漏洞验证与独立复核。将已确认、待验证和已否定结果分别记录，并从结构化证据生成报告。
@@ -274,10 +250,34 @@
 
 ---
 
-## 18. cathrynlavery/diagram-design (66k ⭐)
+## 16. blader/humanizer (69k ⭐)
+
+**🔗** https://github.com/blader/humanizer  
+**🍴** Fork 5.4k | **🔄** Updated 2026-11-10  
+**👤** blader — Humanizer 文本编辑 Skill 维护者
+
+> 用于修改 AI 写作常见句式与表达习惯的文本编辑 Skill。以 Wikipedia 的 AI 写作特征指南为依据，在保留原意的前提下调整措辞与节奏，可用于 Claude Code、Codex 等 Agent。
+
+**匹配能力**：📝 文档生成 · 🤖 Agent 集成 · ⚡ 本地优先
+
+---
+
+## 17. mvanhorn/last30days-skill (67k ⭐)
+
+**🔗** https://github.com/mvanhorn/last30days-skill  
+**🍴** Fork 5.9k | **🔄** Updated 2026-11-13  
+**👤** Matt Van Horn (mvanhorn) — 连续创业者，Lyft 前身公司联合创始人，June（智能烤箱，被 Weber 收购）联合创始人
+
+> AI agent 研究技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket 及全网检索任意主题，并综合生成有据可查的摘要报告。
+
+**匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
+
+---
+
+## 18. cathrynlavery/diagram-design (67k ⭐)
 
 **🔗** https://github.com/cathrynlavery/diagram-design  
-**🍴** Fork 4.3k | **🔄** Updated 2026-11-06  
+**🍴** Fork 4.4k | **🔄** Updated 2026-11-12  
 **👤** Cathryn Lavery — BestSelf.co 创始人，diagram-design 作者
 
 > 面向 Claude Code、Codex 与 Pi 的编辑级图表设计 Skill，提供 38 种架构、流程、数据与战略图表类型，输出自包含 HTML + SVG，并支持品牌适配与可选动效。
@@ -286,10 +286,10 @@
 
 ---
 
-## 19. coreyhaines31/marketingskills (59k ⭐)
+## 19. coreyhaines31/marketingskills (60k ⭐)
 
 **🔗** https://github.com/coreyhaines31/marketingskills  
-**🍴** Fork 8.6k | **🔄** Updated 2026-11-06  
+**🍴** Fork 8.8k | **🔄** Updated 2026-11-11  
 **👤** Corey Haines — 营销人员、开发者与创业者，Marketing Skills 作者
 
 > 面向技术营销人员与创业者的 Agent Skills 合集。提供转化优化、文案、SEO、分析和增长工作流，并通过共享产品营销上下文衔接各项任务。
@@ -298,10 +298,10 @@
 
 ---
 
-## 20. hesreallyhim/awesome-claude-code (57k ⭐)
+## 20. hesreallyhim/awesome-claude-code (58k ⭐)
 
 **🔗** https://github.com/hesreallyhim/awesome-claude-code  
-**🍴** Fork 4.9k | **🔄** Updated 2026-11-08  
+**🍴** Fork 4.9k | **🔄** Updated 2026-11-13  
 **👤** hesreallyhim — 社区知名整理者，专注 Claude Code 生态资源汇聚
 
 > Claude Code 精选 Skills、Hooks、Slash Commands、Agent 编排器、应用和插件列表。覆盖 Claude Code 生态最完整的社区精选资源。
@@ -310,10 +310,10 @@
 
 ---
 
-## 21. K-Dense-AI/scientific-agent-skills (56k ⭐)
+## 21. K-Dense-AI/scientific-agent-skills (57k ⭐)
 
 **🔗** https://github.com/K-Dense-AI/scientific-agent-skills  
-**🍴** Fork 5k | **🔄** Updated 2026-11-02  
+**🍴** Fork 5k | **🔄** Updated 2026-11-09  
 **👤** K-Dense — 开发科学研究 Agent 工具与 Scientific Agent Skills 的团队
 
 > K-Dense 维护的科学研究 Agent Skills 合集，覆盖科学计算、专业数据库、数据分析与学术沟通。将工具使用约定和验证步骤整理为可复用工作流，适配支持 Agent Skills 标准的宿主。
@@ -322,10 +322,10 @@
 
 ---
 
-## 22. Imbad0202/academic-research-skills (56k ⭐)
+## 22. Imbad0202/academic-research-skills (57k ⭐)
 
 **🔗** https://github.com/Imbad0202/academic-research-skills  
-**🍴** Fork 4.2k | **🔄** Updated 2026-11-06  
+**🍴** Fork 4.3k | **🔄** Updated 2026-11-11  
 **👤** Edward Cheng-I Wu (Imbad0202) — 独立开发者，专注学术研究与 AI 工作流融合
 
 > 面向 Claude Code 的学术研究 Skills：研究 → 写作 → 审阅 → 修订 → 定稿，覆盖学术论文全流程。
@@ -334,10 +334,10 @@
 
 ---
 
-## 23. emilkowalski/skills (54k ⭐)
+## 23. emilkowalski/skills (56k ⭐)
 
 **🔗** https://github.com/emilkowalski/skills  
-**🍴** Fork 3.2k | **🔄** Updated 2026-11-04  
+**🍴** Fork 3.3k | **🔄** Updated 2026-11-12  
 **👤** Emil Kowalski — 设计工程师，面向设计与工程工作流的 Skills 作者
 
 > 面向设计师与工程师的 Agent Skills 集合，覆盖 Web、Expo 与 Apple 平台的动画设计、交互动效评审、UI 库选择、原型制作和 Swift 实现。
@@ -346,7 +346,19 @@
 
 ---
 
-## 24. VoltAgent/awesome-openclaw-skills (54k ⭐)
+## 24. Nutlope/hallmark (54k ⭐)
+
+**🔗** https://github.com/Nutlope/hallmark  
+**🍴** Fork 2.9k | **🔄** Updated 2026-11-11  
+**👤** Hassan El Mghari（Nutlope）— Hallmark 与 AI 开发工具作者
+
+> 面向 Claude Code、Cursor 与 Codex 的反 AI 同质化设计 Skill，通过明确的视觉约束帮助 Agent 产出更有辨识度的界面与前端体验。
+
+**匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
+
+---
+
+## 25. VoltAgent/awesome-openclaw-skills (54k ⭐)
 
 **🔗** https://github.com/VoltAgent/awesome-openclaw-skills  
 **🍴** Fork 5.1k | **🔄** Updated 2026-10-30  
@@ -358,10 +370,10 @@
 
 ---
 
-## 25. kepano/obsidian-skills (51k ⭐)
+## 26. kepano/obsidian-skills (52k ⭐)
 
 **🔗** https://github.com/kepano/obsidian-skills  
-**🍴** Fork 3.6k | **🔄** Updated 2026-09-15  
+**🍴** Fork 3.7k | **🔄** Updated 2026-11-11  
 **👤** Steph Ango (kepano) — Obsidian CEO，极简主义设计理念倡导者
 
 > Obsidian 的 Agent Skills，教你的 agent 如何使用 Markdown、Bases、JSON Canvas 和 CLI。
@@ -370,22 +382,10 @@
 
 ---
 
-## 26. Nutlope/hallmark (50k ⭐)
-
-**🔗** https://github.com/Nutlope/hallmark  
-**🍴** Fork 2.7k | **🔄** Updated 2026-11-05  
-**👤** Hassan El Mghari（Nutlope）— Hallmark 与 AI 开发工具作者
-
-> 面向 Claude Code、Cursor 与 Codex 的反 AI 同质化设计 Skill，通过明确的视觉约束帮助 Agent 产出更有辨识度的界面与前端体验。
-
-**匹配能力**：📦 Skills 合集 · 🤖 Agent 集成
-
----
-
-## 27. anthropics/claude-plugins-official (46k ⭐)
+## 27. anthropics/claude-plugins-official (47k ⭐)
 
 **🔗** https://github.com/anthropics/claude-plugins-official  
-**🍴** Fork 4.8k | **🔄** Updated 2026-11-07  
+**🍴** Fork 4.9k | **🔄** Updated 2026-11-13  
 **👤** Anthropic 官方团队 — Claude 母公司维护的高质量插件官方目录
 
 > Anthropic 官方维护的高质量 Claude Code Plugins 目录。
@@ -394,7 +394,7 @@
 
 ---
 
-## 28. zhaoxuya520/reverse-skill (44k ⭐)
+## 28. zhaoxuya520/reverse-skill (45k ⭐)
 
 **🔗** https://github.com/zhaoxuya520/reverse-skill  
 **🍴** Fork 6.6k | **🔄** Updated 2026-09-22  
@@ -409,7 +409,7 @@
 ## 29. vercel-labs/skills (39k ⭐)
 
 **🔗** https://github.com/vercel-labs/skills  
-**🍴** Fork 3.4k | **🔄** Updated 2026-11-06  
+**🍴** Fork 3.4k | **🔄** Updated 2026-11-12  
 **👤** Vercel Labs — Vercel 官方实验室，`npx skills` 工具的发布方
 
 > `npx skills` 工具——开源 agent skills 命令行工具。快速发现、安装和管理 agent 技能。
@@ -418,10 +418,10 @@
 
 ---
 
-## 30. virgiliojr94/book-to-skill (37k ⭐)
+## 30. virgiliojr94/book-to-skill (38k ⭐)
 
 **🔗** https://github.com/virgiliojr94/book-to-skill  
-**🍴** Fork 3.9k | **🔄** Updated 2026-11-03  
+**🍴** Fork 4k | **🔄** Updated 2026-11-08  
 **👤** Virgilio Junior — Stone/Pagar.me SRE，book-to-skill PDF 转 Skill 工具作者
 
 > 将技术书籍 PDF 一键转为 Claude Code Skill，便于边开发边查阅、学习与引用书中知识。
@@ -445,7 +445,7 @@
 ## 32. freestylefly/awesome-gpt-image-2 (36k ⭐)
 
 **🔗** https://github.com/freestylefly/awesome-gpt-image-2  
-**🍴** Fork 3.4k | **🔄** Updated 2026-11-05  
+**🍴** Fork 3.4k | **🔄** Updated 2026-11-10  
 **👤** 苍何（freestylefly）— WeSight 创始人、Microsoft MVP，awesome-gpt-image-2 作者
 
 > 面向 GPT-Image-2 的 Prompt-as-Code 引擎、案例库与 Agent Skill，将大量图像生成案例逆向整理为结构化提示词协议和可复用工业模板，支持画廊检索、自动化工作流与批量生成。
@@ -454,10 +454,10 @@
 
 ---
 
-## 33. anthropics/knowledge-work-plugins (35k ⭐)
+## 33. anthropics/knowledge-work-plugins (36k ⭐)
 
 **🔗** https://github.com/anthropics/knowledge-work-plugins  
-**🍴** Fork 3.9k | **🔄** Updated 2026-11-07  
+**🍴** Fork 3.9k | **🔄** Updated 2026-11-13  
 **👤** Anthropic — Knowledge Work Plugins 知识工作插件团队
 
 > Anthropic 面向知识工作者的开源插件集合，将 Skills、MCP 连接器与命令按产品、销售、营销、财务、法务、数据和研究等职能组合，适用于 Claude Cowork 与 Claude Code，并支持按团队流程定制。
@@ -469,7 +469,7 @@
 ## 34. vercel-labs/agent-skills (34k ⭐)
 
 **🔗** https://github.com/vercel-labs/agent-skills  
-**🍴** Fork 2.9k | **🔄** Updated 2026-10-28  
+**🍴** Fork 3k | **🔄** Updated 2026-11-12  
 **👤** Vercel Labs — Vercel 官方实验室，前端基础设施领域头部公司
 
 > Vercel 官方 agent skills 集合。提供 Vercel 平台相关的 agent 扩展能力，JavaScript 实现。
@@ -478,10 +478,10 @@
 
 ---
 
-## 35. alirezarezvani/claude-skills (29k ⭐)
+## 35. alirezarezvani/claude-skills (30k ⭐)
 
 **🔗** https://github.com/alirezarezvani/claude-skills  
-**🍴** Fork 4.1k | **🔄** Updated 2026-11-05  
+**🍴** Fork 4.1k | **🔄** Updated 2026-11-12  
 **👤** Alireza Rezvani — 独立开发者，专注跨 agent 平台的 skills 生态建设
 
 > 337 Claude Code skills 和 agent 插件集合，覆盖 Claude Code、Codex、Gemini CLI、Cursor 等 8+ coding agent。涵盖工程、营销、产品、合规、C-level 咨询等场景。
@@ -505,7 +505,7 @@
 ## 37. phuryn/pm-skills (28k ⭐)
 
 **🔗** https://github.com/phuryn/pm-skills  
-**🍴** Fork 2.9k | **🔄** Updated 2026-10-29  
+**🍴** Fork 2.9k | **🔄** Updated 2026-11-08  
 **👤** Pawel Huryn — AI PM Coach，ex-CPO，The Product Compass Newsletter 创始人（131k+ subscribers）
 
 > 产品管理技能市场：100+ agent 技能、命令和插件，覆盖 discovery、策略、执行、发布和增长。适配 Claude Code / Cowork / Gemini CLI / Cursor / Codex / Kiro。
@@ -514,7 +514,7 @@
 
 ---
 
-## 38. JimLiu/baoyu-skills (27k ⭐)
+## 38. JimLiu/baoyu-skills (28k ⭐)
 
 **🔗** https://github.com/JimLiu/baoyu-skills  
 **🍴** Fork 3k | **🔄** Updated 2026-11-06  
@@ -538,22 +538,10 @@
 
 ---
 
-## 40. EveryInc/compound-engineering-plugin (26k ⭐)
-
-**🔗** https://github.com/EveryInc/compound-engineering-plugin  
-**🍴** Fork 2.1k | **🔄** Updated 2026-11-08  
-**👤** Every — Compound Engineering 插件维护团队
-
-> Every 官方 Compound Engineering 插件，把 brainstorming、调试、代码与文档评审、提交、PR 跟进和经验沉淀封装为可组合 Skills，支持 Claude Code、Codex、Cursor 等多种 Agent 环境。
-
-**匹配能力**：🧪 TDD 工作流 · 📋 Spec 驱动 · 🤖 Agent 集成
-
----
-
-## 41. wheresryan22/anatomy (26k ⭐)
+## 40. wheresryan22/anatomy (27k ⭐)
 
 **🔗** https://github.com/wheresryan22/anatomy  
-**🍴** Fork 2.2k | **🔄** Updated 2026-10-18  
+**🍴** Fork 2.3k | **🔄** Updated 2026-10-18  
 **👤** wheresryan22 — Anatomy 交互式可视化 Skill 作者
 
 > 通过可交互的实体隐喻解释技术概念的可视化 Skill。使用 SVG、WebGL 与 3D 构建由同一小型模型驱动的图形、动作和读数，并提供视觉检查工具。
@@ -562,10 +550,22 @@
 
 ---
 
-## 42. google/skills (23k ⭐)
+## 41. EveryInc/compound-engineering-plugin (26k ⭐)
+
+**🔗** https://github.com/EveryInc/compound-engineering-plugin  
+**🍴** Fork 2.1k | **🔄** Updated 2026-11-13  
+**👤** Every — Compound Engineering 插件维护团队
+
+> Every 官方 Compound Engineering 插件，把 brainstorming、调试、代码与文档评审、提交、PR 跟进和经验沉淀封装为可组合 Skills，支持 Claude Code、Codex、Cursor 等多种 Agent 环境。
+
+**匹配能力**：🧪 TDD 工作流 · 📋 Spec 驱动 · 🤖 Agent 集成
+
+---
+
+## 42. google/skills (24k ⭐)
 
 **🔗** https://github.com/google/skills  
-**🍴** Fork 2k | **🔄** Updated 2026-11-07  
+**🍴** Fork 2k | **🔄** Updated 2026-11-12  
 **👤** Google — 面向 Google 产品与技术维护 Agent Skills 的开源团队
 
 > Google 产品与技术的官方 Agent Skills 仓库。为 Google Cloud、AI/ML、基础设施与开发工具提供可按需安装的任务指导，遵循 Agent Skills 格式。
@@ -577,73 +577,73 @@
 
 ### 🛠️ 工程开发与质量
 
-- [skills](#1-mattpocockskills-318k-) — Matt Pocock 的个人 skills 目录，直接从他的 .claude 目录整理而来
-- [superpowers](#2-obrasuperpowers-314k-) — 完整的 coding agent 软件开发方法论与技能框架
-- [ECC](#3-affaan-mecc-299k-) — 面向 Claude Code、Codex、OpenCode 与 Cursor 等 coding agent 的工程优化系…
-- [andrej-karpathy-skills](#4-multica-aiandrej-karpathy-skills-231k-) — 整理自 Andrej Karpathy（前 OpenAI / Tesla AI 负责人）的 LLM 编码陷阱观察，以单个…
-- [ponytail](#6-dietrichgebertponytail-186k-) — 让 AI agent 像「最懒的 senior dev」一样思考：最好的代码，是你从未写下的那部分
-- [caveman](#8-juliusbrusseecaveman-118k-) — Claude Code Token 优化 Skill：用「原始人」式极简表达削减约 65% token 消耗，少字了事
-- [agent-skills](#9-addyosmaniagent-skills-114k-) — 生产级 AI coding agent 工程技能集合
-- [security-audit-skill](#17-cloudflaresecurity-audit-skill-66k-) — Cloudflare 的代码安全审计 Skill，以隔离 Agent 协作执行侦察、覆盖驱动排查、候选漏洞验证与独立复核
-- [skills](#23-emilkowalskiskills-54k-) — 面向设计师与工程师的 Agent Skills 集合，覆盖 Web、Expo 与 Apple 平台的动画设计、交互动效评…
-- [reverse-skill](#28-zhaoxuya520reverse-skill-44k-) — 面向经授权逆向工程、渗透测试与安全研究的 Agent Skill 路由包
+- [skills](#1-mattpocockskills-323k-) — Matt Pocock 的个人 skills 目录，直接从他的 .claude 目录整理而来
+- [superpowers](#2-obrasuperpowers-317k-) — 完整的 coding agent 软件开发方法论与技能框架
+- [ECC](#3-affaan-mecc-302k-) — 面向 Claude Code、Codex、OpenCode 与 Cursor 等 coding agent 的工程优化系…
+- [andrej-karpathy-skills](#4-multica-aiandrej-karpathy-skills-233k-) — 整理自 Andrej Karpathy（前 OpenAI / Tesla AI 负责人）的 LLM 编码陷阱观察，以单个…
+- [ponytail](#6-dietrichgebertponytail-190k-) — 让 AI agent 像「最懒的 senior dev」一样思考：最好的代码，是你从未写下的那部分
+- [caveman](#8-juliusbrusseecaveman-120k-) — Claude Code Token 优化 Skill：用「原始人」式极简表达削减约 65% token 消耗，少字了事
+- [agent-skills](#9-addyosmaniagent-skills-117k-) — 生产级 AI coding agent 工程技能集合
+- [security-audit-skill](#15-cloudflaresecurity-audit-skill-71k-) — Cloudflare 的代码安全审计 Skill，以隔离 Agent 协作执行侦察、覆盖驱动排查、候选漏洞验证与独立复核
+- [skills](#23-emilkowalskiskills-56k-) — 面向设计师与工程师的 Agent Skills 集合，覆盖 Web、Expo 与 Apple 平台的动画设计、交互动效评…
+- [reverse-skill](#28-zhaoxuya520reverse-skill-45k-) — 面向经授权逆向工程、渗透测试与安全研究的 Agent Skill 路由包
 - [Anthropic-Cybersecurity-Skills](#31-mukul975anthropic-cybersecurity-skills-36k-) — 社区维护的网络安全 Agent Skills 库，按 agentskills.io 标准覆盖安全运营、取证、威胁狩猎、渗…
-- [compound-engineering-plugin](#40-everyinccompound-engineering-plugin-26k-) — Every 官方 Compound Engineering 插件，把 brainstorming、调试、代码与文档评审、…
-- [skills](#42-googleskills-23k-) — Google 产品与技术的官方 Agent Skills 仓库
+- [compound-engineering-plugin](#41-everyinccompound-engineering-plugin-26k-) — Every 官方 Compound Engineering 插件，把 brainstorming、调试、代码与文档评审、…
+- [skills](#42-googleskills-24k-) — Google 产品与技术的官方 Agent Skills 仓库
 
 ### 🔁 研发流程与 Agent Harness
 
-- [superpowers](#2-obrasuperpowers-314k-) — 完整的 coding agent 软件开发方法论与技能框架
-- [ECC](#3-affaan-mecc-299k-) — 面向 Claude Code、Codex、OpenCode 与 Cursor 等 coding agent 的工程优化系…
-- [andrej-karpathy-skills](#4-multica-aiandrej-karpathy-skills-231k-) — 整理自 Andrej Karpathy（前 OpenAI / Tesla AI 负责人）的 LLM 编码陷阱观察，以单个…
-- [ponytail](#6-dietrichgebertponytail-186k-) — 让 AI agent 像「最懒的 senior dev」一样思考：最好的代码，是你从未写下的那部分
-- [caveman](#8-juliusbrusseecaveman-118k-) — Claude Code Token 优化 Skill：用「原始人」式极简表达削减约 65% token 消耗，少字了事
-- [compound-engineering-plugin](#40-everyinccompound-engineering-plugin-26k-) — Every 官方 Compound Engineering 插件，把 brainstorming、调试、代码与文档评审、…
+- [superpowers](#2-obrasuperpowers-317k-) — 完整的 coding agent 软件开发方法论与技能框架
+- [ECC](#3-affaan-mecc-302k-) — 面向 Claude Code、Codex、OpenCode 与 Cursor 等 coding agent 的工程优化系…
+- [andrej-karpathy-skills](#4-multica-aiandrej-karpathy-skills-233k-) — 整理自 Andrej Karpathy（前 OpenAI / Tesla AI 负责人）的 LLM 编码陷阱观察，以单个…
+- [ponytail](#6-dietrichgebertponytail-190k-) — 让 AI agent 像「最懒的 senior dev」一样思考：最好的代码，是你从未写下的那部分
+- [caveman](#8-juliusbrusseecaveman-120k-) — Claude Code Token 优化 Skill：用「原始人」式极简表达削减约 65% token 消耗，少字了事
+- [compound-engineering-plugin](#41-everyinccompound-engineering-plugin-26k-) — Every 官方 Compound Engineering 插件，把 brainstorming、调试、代码与文档评审、…
 
 ### 🎨 视觉、UI 与内容设计
 
-- [ui-ux-pro-max-skill](#7-nextlevelbuilderui-ux-pro-max-skill-147k-) — 面向多平台专业 UI/UX 构建的设计智能 Skill，为 AI coding agent 提供设计决策与界面产出能力
-- [taste-skill](#10-leonxlnxtaste-skill-112k-) — 开源设计品味技能，为 Cursor、Codex、Claude Code、Devin 等 AI coding agent …
-- [impeccable](#11-pbakausimpeccable-106k-) — 面向 AI coding agent 的前端设计指导与质量工具
-- [archify](#12-tt-a1iarchify-94k-) — 将代码库或系统描述转为可验证交互式系统地图的 Agent Skill，以类型化 JSON IR 和确定性检查生成自包含 …
-- [diagram-design](#18-cathrynlaverydiagram-design-66k-) — 面向 Claude Code、Codex 与 Pi 的编辑级图表设计 Skill，提供 38 种架构、流程、数据与战略图…
-- [skills](#23-emilkowalskiskills-54k-) — 面向设计师与工程师的 Agent Skills 集合，覆盖 Web、Expo 与 Apple 平台的动画设计、交互动效评…
-- [hallmark](#26-nutlopehallmark-50k-) — 面向 Claude Code、Cursor 与 Codex 的反 AI 同质化设计 Skill，通过明确的视觉约束帮助 …
+- [ui-ux-pro-max-skill](#7-nextlevelbuilderui-ux-pro-max-skill-149k-) — 面向多平台专业 UI/UX 构建的设计智能 Skill，为 AI coding agent 提供设计决策与界面产出能力
+- [taste-skill](#10-leonxlnxtaste-skill-115k-) — 开源设计品味技能，为 Cursor、Codex、Claude Code、Devin 等 AI coding agent …
+- [impeccable](#11-pbakausimpeccable-109k-) — 面向 AI coding agent 的前端设计指导与质量工具
+- [archify](#12-tt-a1iarchify-96k-) — 将代码库或系统描述转为可验证交互式系统地图的 Agent Skill，以类型化 JSON IR 和确定性检查生成自包含 …
+- [diagram-design](#18-cathrynlaverydiagram-design-67k-) — 面向 Claude Code、Codex 与 Pi 的编辑级图表设计 Skill，提供 38 种架构、流程、数据与战略图…
+- [skills](#23-emilkowalskiskills-56k-) — 面向设计师与工程师的 Agent Skills 集合，覆盖 Web、Expo 与 Apple 平台的动画设计、交互动效评…
+- [hallmark](#24-nutlopehallmark-54k-) — 面向 Claude Code、Cursor 与 Codex 的反 AI 同质化设计 Skill，通过明确的视觉约束帮助 …
 - [awesome-gpt-image-2](#32-freestyleflyawesome-gpt-image-2-36k-) — 面向 GPT-Image-2 的 Prompt-as-Code 引擎、案例库与 Agent Skill，将大量图像生成案…
-- [baoyu-skills](#38-jimliubaoyu-skills-27k-) — 宝玉分享的 AI Agent 技能集（适用于 Claude Code、Codex 等），提升日常工作效率
-- [anatomy](#41-wheresryan22anatomy-26k-) — 通过可交互的实体隐喻解释技术概念的可视化 Skill
+- [baoyu-skills](#38-jimliubaoyu-skills-28k-) — 宝玉分享的 AI Agent 技能集（适用于 Claude Code、Codex 等），提升日常工作效率
+- [anatomy](#40-wheresryan22anatomy-27k-) — 通过可交互的实体隐喻解释技术概念的可视化 Skill
 
 ### 📚 研究、写作与知识管理
 
-- [last30days-skill](#15-mvanhornlast30days-skill-67k-) — AI agent 研究技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket 及全网…
-- [humanizer](#16-bladerhumanizer-66k-) — 用于修改 AI 写作常见句式与表达习惯的文本编辑 Skill
-- [scientific-agent-skills](#21-k-dense-aiscientific-agent-skills-56k-) — K-Dense 维护的科学研究 Agent Skills 合集，覆盖科学计算、专业数据库、数据分析与学术沟通
-- [academic-research-skills](#22-imbad0202academic-research-skills-56k-) — 面向 Claude Code 的学术研究 Skills：研究 → 写作 → 审阅 → 修订 → 定稿，覆盖学术论文全流程
-- [obsidian-skills](#25-kepanoobsidian-skills-51k-) — Obsidian 的 Agent Skills，教你的 agent 如何使用 Markdown、Bases、JSON C…
-- [book-to-skill](#30-virgiliojr94book-to-skill-37k-) — 将技术书籍 PDF 一键转为 Claude Code Skill，便于边开发边查阅、学习与引用书中知识
+- [humanizer](#16-bladerhumanizer-69k-) — 用于修改 AI 写作常见句式与表达习惯的文本编辑 Skill
+- [last30days-skill](#17-mvanhornlast30days-skill-67k-) — AI agent 研究技能，可跨 Reddit、X、YouTube、Hacker News、Polymarket 及全网…
+- [scientific-agent-skills](#21-k-dense-aiscientific-agent-skills-57k-) — K-Dense 维护的科学研究 Agent Skills 合集，覆盖科学计算、专业数据库、数据分析与学术沟通
+- [academic-research-skills](#22-imbad0202academic-research-skills-57k-) — 面向 Claude Code 的学术研究 Skills：研究 → 写作 → 审阅 → 修订 → 定稿，覆盖学术论文全流程
+- [obsidian-skills](#26-kepanoobsidian-skills-52k-) — Obsidian 的 Agent Skills，教你的 agent 如何使用 Markdown、Bases、JSON C…
+- [book-to-skill](#30-virgiliojr94book-to-skill-38k-) — 将技术书籍 PDF 一键转为 Claude Code Skill，便于边开发边查阅、学习与引用书中知识
 
 ### 📈 产品、职业与商业
 
-- [career-ops](#13-career-ops-hqcareer-ops-81k-) — AI 驱动的求职系统，基于 Claude Code 构建
-- [marketingskills](#19-coreyhaines31marketingskills-59k-) — 面向技术营销人员与创业者的 Agent Skills 合集
-- [knowledge-work-plugins](#33-anthropicsknowledge-work-plugins-35k-) — Anthropic 面向知识工作者的开源插件集合，将 Skills、MCP 连接器与命令按产品、销售、营销、财务、法务、…
+- [career-ops](#13-career-ops-hqcareer-ops-82k-) — AI 驱动的求职系统，基于 Claude Code 构建
+- [marketingskills](#19-coreyhaines31marketingskills-60k-) — 面向技术营销人员与创业者的 Agent Skills 合集
+- [knowledge-work-plugins](#33-anthropicsknowledge-work-plugins-36k-) — Anthropic 面向知识工作者的开源插件集合，将 Skills、MCP 连接器与命令按产品、销售、营销、财务、法务、…
 - [pm-skills](#37-phurynpm-skills-28k-) — 产品管理技能市场：100+ agent 技能、命令和插件，覆盖 discovery、策略、执行、发布和增长
 
 ### 🌐 标准、生态与 Skills 合集
 
-- [skills](#5-anthropicsskills-189k-) — Anthropic 官方 Agent Skills 实现
+- [skills](#5-anthropicsskills-194k-) — Anthropic 官方 Agent Skills 实现
 - [awesome-claude-skills](#14-composiohqawesome-claude-skills-79k-) — Claude Skills 精选列表，涵盖工作流定制、资源工具、实践案例
-- [awesome-claude-code](#20-hesreallyhimawesome-claude-code-57k-) — Claude Code 精选 Skills、Hooks、Slash Commands、Agent 编排器、应用和插件列表
-- [awesome-openclaw-skills](#24-voltagentawesome-openclaw-skills-54k-) — OpenClaw Skills 大全
-- [claude-plugins-official](#27-anthropicsclaude-plugins-official-46k-) — Anthropic 官方维护的高质量 Claude Code Plugins 目录
+- [awesome-claude-code](#20-hesreallyhimawesome-claude-code-58k-) — Claude Code 精选 Skills、Hooks、Slash Commands、Agent 编排器、应用和插件列表
+- [awesome-openclaw-skills](#25-voltagentawesome-openclaw-skills-54k-) — OpenClaw Skills 大全
+- [claude-plugins-official](#27-anthropicsclaude-plugins-official-47k-) — Anthropic 官方维护的高质量 Claude Code Plugins 目录
 - [skills](#29-vercel-labsskills-39k-) — `npx skills` 工具——开源 agent skills 命令行工具
-- [knowledge-work-plugins](#33-anthropicsknowledge-work-plugins-35k-) — Anthropic 面向知识工作者的开源插件集合，将 Skills、MCP 连接器与命令按产品、销售、营销、财务、法务、…
+- [knowledge-work-plugins](#33-anthropicsknowledge-work-plugins-36k-) — Anthropic 面向知识工作者的开源插件集合，将 Skills、MCP 连接器与命令按产品、销售、营销、财务、法务、…
 - [agent-skills](#34-vercel-labsagent-skills-34k-) — Vercel 官方 agent skills 集合
-- [claude-skills](#35-alirezarezvaniclaude-skills-29k-) — 337 Claude Code skills 和 agent 插件集合，覆盖 Claude Code、Codex、Gem…
+- [claude-skills](#35-alirezarezvaniclaude-skills-30k-) — 337 Claude Code skills 和 agent 插件集合，覆盖 Claude Code、Codex、Gem…
 - [skills](#36-openaiskills-29k-) — Codex Skills 目录
-- [baoyu-skills](#38-jimliubaoyu-skills-27k-) — 宝玉分享的 AI Agent 技能集（适用于 Claude Code、Codex 等），提升日常工作效率
+- [baoyu-skills](#38-jimliubaoyu-skills-28k-) — 宝玉分享的 AI Agent 技能集（适用于 Claude Code、Codex 等），提升日常工作效率
 - [agentskills](#39-agentskillsagentskills-27k-) — Agent Skills 开放标准与规范文档，定义 SKILL.md 格式、参考实现与生态指南（agentskills.…
-- [skills](#42-googleskills-23k-) — Google 产品与技术的官方 Agent Skills 仓库
+- [skills](#42-googleskills-24k-) — Google 产品与技术的官方 Agent Skills 仓库
 
 
 ---
@@ -669,4 +669,4 @@
 
 ---
 
-*由 wind8 整理 | 2026-11-08*
+*由 wind8 整理 | 2026-11-13*
